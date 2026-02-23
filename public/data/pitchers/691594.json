@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "691594",
+  "pitcher_name": "Javier Sanoja",
+  "pitches": [
+    {
+      "code": "CS",
+      "title": "slow curve",
+      "color": "#0068FF",
+      "count": 1,
+      "pitch_percent": 0.0058823529411764705,
+      "rhh_percent": 0.01,
+      "lhh_percent": 0,
+      "start_speed": 56.7,
+      "max_start_speed": 56.7,
+      "ivb": 0.8,
+      "hb": -9.1,
+      "release_pos_z": 5.652541298316472,
+      "release_pos_x": 1.7450354663002159,
+      "extension": 4.5160564065738065,
+      "pitches": 1,
+      "whiffs": 0,
+      "swings": 0,
+      "spin_rate": 1736,
+      "swing_miss_percent": null,
+      "arm_angle": 34.5,
+      "barrels_per_pa_percent": null,
+      "hardhit_percent": null,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

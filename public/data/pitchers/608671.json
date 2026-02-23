@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "608671",
+  "pitcher_name": "Travis Jankowski",
+  "pitches": [
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 4,
+      "pitch_percent": 0.3076923076923077,
+      "rhh_percent": 0.2727272727272727,
+      "lhh_percent": 0.5,
+      "start_speed": 45.675,
+      "max_start_speed": 46.2,
+      "ivb": 12.399999999999999,
+      "hb": -14.05,
+      "release_pos_z": 7.5932248675061915,
+      "release_pos_x": 1.4676838205200191,
+      "extension": 4.030414739827584,
+      "pitches": 4,
+      "whiffs": 0,
+      "swings": 1,
+      "spin_rate": 1131,
+      "swing_miss_percent": 0,
+      "arm_angle": 67.1,
+      "barrels_per_pa_percent": 0,
+      "hardhit_percent": 100,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

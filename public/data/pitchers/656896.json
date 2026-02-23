@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "656896",
+  "pitcher_name": "Emmanuel Rivera",
+  "pitches": [
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 1,
+      "pitch_percent": 0.022222222222222223,
+      "rhh_percent": 0,
+      "lhh_percent": 0.0625,
+      "start_speed": 69.1,
+      "max_start_speed": 69.1,
+      "ivb": 16.9,
+      "hb": 9.5,
+      "release_pos_z": 5.975528252473861,
+      "release_pos_x": 1.970752397277647,
+      "extension": 4.139462598412027,
+      "pitches": 1,
+      "whiffs": 0,
+      "swings": 0,
+      "spin_rate": 1843,
+      "swing_miss_percent": null,
+      "arm_angle": 18.1,
+      "barrels_per_pa_percent": null,
+      "hardhit_percent": null,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

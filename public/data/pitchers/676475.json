@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "676475",
+  "pitcher_name": "Alec Burleson",
+  "pitches": [
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 7,
+      "pitch_percent": 1,
+      "rhh_percent": 1,
+      "lhh_percent": 1,
+      "start_speed": 51.24285714285715,
+      "max_start_speed": 53,
+      "ivb": 18.685714285714283,
+      "hb": 6.242857142857143,
+      "release_pos_z": 6.607876481929745,
+      "release_pos_x": 1.5813118673437807,
+      "extension": 5.04336571457928,
+      "pitches": 7,
+      "whiffs": 0,
+      "swings": 3,
+      "spin_rate": 1163,
+      "swing_miss_percent": 0,
+      "arm_angle": 54.8,
+      "barrels_per_pa_percent": 0,
+      "hardhit_percent": 66.66666666666666,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "645305",
+  "pitcher_name": "Ali Sánchez",
+  "pitches": [
+    {
+      "code": "CS",
+      "title": "slow curve",
+      "color": "#0068FF",
+      "count": 14,
+      "pitch_percent": 0.7777777777777778,
+      "rhh_percent": 0.7,
+      "lhh_percent": 0.875,
+      "start_speed": 57.807142857142864,
+      "max_start_speed": 63.8,
+      "ivb": 19.364285714285707,
+      "hb": 6.121428571428571,
+      "release_pos_z": 7.020634908829072,
+      "release_pos_x": 1.8091981624488374,
+      "extension": 4.338112171572248,
+      "pitches": 14,
+      "whiffs": 0,
+      "swings": 8,
+      "spin_rate": 1636,
+      "swing_miss_percent": 0,
+      "arm_angle": 44.5,
+      "barrels_per_pa_percent": 25,
+      "hardhit_percent": 75,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

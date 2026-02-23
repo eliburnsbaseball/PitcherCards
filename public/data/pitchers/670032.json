@@ -1,0 +1,23 @@
+{
+  "pitcher_id": "670032",
+  "pitcher_name": "Nicky Lopez",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 1,
+      "pitch_percent": 0.1111111111111111,
+      "rhh_percent": 0.1111111111111111,
+      "lhh_percent": null,
+      "start_speed": 93.9,
+      "max_start_speed": 93.9,
+      "ivb": 4.4,
+      "hb": 4.6,
+      "release_pos_z": 5.936328206882007,
+      "release_pos_x": 2.120036916079158,
+      "extension": 6.629572665553058,
+      "active_spin_percent": null
+    }
+  ]
+}

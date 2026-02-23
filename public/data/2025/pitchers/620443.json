@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "620443",
+  "pitcher_name": "Luis Torrens",
+  "pitches": [
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 1,
+      "pitch_percent": 0.043478260869565216,
+      "rhh_percent": 0,
+      "lhh_percent": 0.05263157894736842,
+      "start_speed": 59,
+      "max_start_speed": 59,
+      "ivb": 6.1,
+      "hb": -7.4,
+      "release_pos_z": 6.421762005527637,
+      "release_pos_x": 1.7414054162975066,
+      "extension": 4.292931137777912,
+      "pitches": 1,
+      "whiffs": 0,
+      "swings": 0,
+      "spin_rate": 1617,
+      "swing_miss_percent": null,
+      "arm_angle": 35.5,
+      "barrels_per_pa_percent": null,
+      "hardhit_percent": null,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

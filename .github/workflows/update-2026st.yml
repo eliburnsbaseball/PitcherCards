@@ -1,9 +1,9 @@
 name: Update 2026 Spring Training Data
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
-  workflow_dispatch: {}
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
@@ -15,6 +15,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -23,23 +24,30 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: "npm"
 
       - name: Install deps
         run: npm ci
 
       - name: Update 2026st data
         env:
-          # if your fetch script needs any env vars, add them here
-          # EXAMPLE: SAVANT_COOKIE: ${{ secrets.SAVANT_COOKIE }}
-          # EXAMPLE: TJSTATS_SESSION: ${{ secrets.TJSTATS_SESSION }}
           FORCE_COLOR: 1
+          # If you later need secrets, you can add them here like:
+          # SAVANT_COOKIE: ${{ secrets.SAVANT_COOKIE }}
+          # TJSTATS_DOWNLOAD_URL: ${{ secrets.TJSTATS_DOWNLOAD_URL }}
         run: npm run update:2026st
 
       - name: Commit changes (if any)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add public/data/2026st data/raw/2026st || true
-          git diff --cached --quiet && echo "No changes" && exit 0
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
           git commit -m "Update 2026 ST data"
           git push

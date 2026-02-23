@@ -7,8 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "build:data": "tsx scripts/buildPitcherData.ts",
-    "check:data": "tsx scripts/validatePitcherData.ts"
+    "build:data:2025": "tsx scripts/buildPitcherData.ts 2025",
+    "build:data:2026st": "tsx scripts/buildPitcherData.ts 2026",
+    "build:data": "npm run build:data:2025 && npm run build:data:2026st",
+    "check:data": "tsx scripts/validatePitcherData.ts",
+    "update:2026st": "tsx scripts/update2026st.ts"
   },
   "dependencies": {
     "next": "16.1.6",

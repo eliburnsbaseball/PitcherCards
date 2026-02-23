@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "641343",
+  "pitcher_name": "Jake Bauers",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 3,
+      "pitch_percent": 0.0379746835443038,
+      "rhh_percent": 0.04081632653061224,
+      "lhh_percent": 0.03333333333333333,
+      "start_speed": 79.33333333333333,
+      "max_start_speed": 80.2,
+      "ivb": 17.866666666666664,
+      "hb": 4.9,
+      "release_pos_z": 6.893909728564965,
+      "release_pos_x": 1.0840544354008501,
+      "extension": 5.018294999663598,
+      "pitches": 3,
+      "whiffs": 0,
+      "swings": 0,
+      "spin_rate": 1970,
+      "swing_miss_percent": null,
+      "arm_angle": 54.5,
+      "barrels_per_pa_percent": null,
+      "hardhit_percent": null,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

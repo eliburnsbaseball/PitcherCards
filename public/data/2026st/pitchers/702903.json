@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "702903",
+  "pitcher_name": "Saul Garcia",
+  "mlbam_id": "702903",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 6,
+      "pitch_percent": 0.46153846153846156,
+      "rhh_percent": 0,
+      "lhh_percent": 0.6666666666666666,
+      "start_speed": 94.60000000000001,
+      "max_start_speed": 95,
+      "ivb": 13.583333333333336,
+      "hb": 16.883333333333336,
+      "release_pos_z": 5.257240822111114,
+      "release_pos_x": 2.1032509878650525,
+      "extension": 6.095250672793789,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 5,
+      "pitch_percent": 0.38461538461538464,
+      "rhh_percent": 1,
+      "lhh_percent": 0.1111111111111111,
+      "start_speed": 86.22,
+      "max_start_speed": 87,
+      "ivb": 4.18,
+      "hb": 0.9800000000000001,
+      "release_pos_z": 4.979375438522043,
+      "release_pos_x": 2.0200395982080357,
+      "extension": 6.235759776547564,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 2,
+      "pitch_percent": 0.15384615384615385,
+      "rhh_percent": 0,
+      "lhh_percent": 0.2222222222222222,
+      "start_speed": 85.7,
+      "max_start_speed": 86.7,
+      "ivb": 2.1999999999999997,
+      "hb": 17.2,
+      "release_pos_z": 5.4316277866867075,
+      "release_pos_x": 2.1786620266459265,
+      "extension": 5.850660185135993,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,2174 @@
+[
+  {
+    "pitcher_id": "822067",
+    "pitcher_name": "A.J. Causey"
+  },
+  {
+    "pitcher_id": "694551",
+    "pitcher_name": "Aaron Combs"
+  },
+  {
+    "pitcher_id": "702065",
+    "pitcher_name": "Aaron Rozek"
+  },
+  {
+    "pitcher_id": "592717",
+    "pitcher_name": "Aaron Sanchez"
+  },
+  {
+    "pitcher_id": "671936",
+    "pitcher_name": "Adam Macko"
+  },
+  {
+    "pitcher_id": "683264",
+    "pitcher_name": "Adam Maier"
+  },
+  {
+    "pitcher_id": "703445",
+    "pitcher_name": "Adam Serwinowski"
+  },
+  {
+    "pitcher_id": "676249",
+    "pitcher_name": "Adisyn Coffey"
+  },
+  {
+    "pitcher_id": "689379",
+    "pitcher_name": "Aidan Anderson"
+  },
+  {
+    "pitcher_id": "805123",
+    "pitcher_name": "AJ Blubaugh"
+  },
+  {
+    "pitcher_id": "689690",
+    "pitcher_name": "Alek Jacob"
+  },
+  {
+    "pitcher_id": "666201",
+    "pitcher_name": "Alek Manoah"
+  },
+  {
+    "pitcher_id": "702047",
+    "pitcher_name": "Alex Cook"
+  },
+  {
+    "pitcher_id": "695380",
+    "pitcher_name": "Alex Hoppe"
+  },
+  {
+    "pitcher_id": "693739",
+    "pitcher_name": "Alexander Alberto"
+  },
+  {
+    "pitcher_id": "801219",
+    "pitcher_name": "Alfred Morillo"
+  },
+  {
+    "pitcher_id": "695001",
+    "pitcher_name": "Alimber Santa"
+  },
+  {
+    "pitcher_id": "686294",
+    "pitcher_name": "Amos Willingham"
+  },
+  {
+    "pitcher_id": "666768",
+    "pitcher_name": "Anderson Pilar"
+  },
+  {
+    "pitcher_id": "662253",
+    "pitcher_name": "Andrés Muñoz"
+  },
+  {
+    "pitcher_id": "687900",
+    "pitcher_name": "Andrew Baker"
+  },
+  {
+    "pitcher_id": "694851",
+    "pitcher_name": "Andrew Hoffmann"
+  },
+  {
+    "pitcher_id": "687841",
+    "pitcher_name": "Andrew Magno"
+  },
+  {
+    "pitcher_id": "680970",
+    "pitcher_name": "Andrew Pérez"
+  },
+  {
+    "pitcher_id": "681003",
+    "pitcher_name": "Andrew Walling"
+  },
+  {
+    "pitcher_id": "681806",
+    "pitcher_name": "Andrew Wantz"
+  },
+  {
+    "pitcher_id": "691251",
+    "pitcher_name": "Andry Lara"
+  },
+  {
+    "pitcher_id": "683409",
+    "pitcher_name": "Angel Chivilli"
+  },
+  {
+    "pitcher_id": "687424",
+    "pitcher_name": "Anthony Maldonado"
+  },
+  {
+    "pitcher_id": "683627",
+    "pitcher_name": "Anthony Molina"
+  },
+  {
+    "pitcher_id": "689296",
+    "pitcher_name": "Anthony Nunez"
+  },
+  {
+    "pitcher_id": "681520",
+    "pitcher_name": "Antoine Kelly"
+  },
+  {
+    "pitcher_id": "682087",
+    "pitcher_name": "Antonio Knowles"
+  },
+  {
+    "pitcher_id": "622608",
+    "pitcher_name": "Antonio Senzatela"
+  },
+  {
+    "pitcher_id": "676153",
+    "pitcher_name": "Austin Love"
+  },
+  {
+    "pitcher_id": "687166",
+    "pitcher_name": "Austin Pope"
+  },
+  {
+    "pitcher_id": "681810",
+    "pitcher_name": "Austin Warren"
+  },
+  {
+    "pitcher_id": "663559",
+    "pitcher_name": "Bailey Falter"
+  },
+  {
+    "pitcher_id": "694360",
+    "pitcher_name": "Beck Way"
+  },
+  {
+    "pitcher_id": "670391",
+    "pitcher_name": "Ben Anderson"
+  },
+  {
+    "pitcher_id": "695667",
+    "pitcher_name": "Ben Kudrna"
+  },
+  {
+    "pitcher_id": "687239",
+    "pitcher_name": "Ben Peoples"
+  },
+  {
+    "pitcher_id": "700786",
+    "pitcher_name": "Ben Sears"
+  },
+  {
+    "pitcher_id": "815084",
+    "pitcher_name": "Ben Simon"
+  },
+  {
+    "pitcher_id": "811309",
+    "pitcher_name": "Bishop Letson"
+  },
+  {
+    "pitcher_id": "694918",
+    "pitcher_name": "Blade Tidwell"
+  },
+  {
+    "pitcher_id": "700183",
+    "pitcher_name": "Blake Holub"
+  },
+  {
+    "pitcher_id": "680604",
+    "pitcher_name": "Blas Castaño"
+  },
+  {
+    "pitcher_id": "699134",
+    "pitcher_name": "Bradgley Rodriguez"
+  },
+  {
+    "pitcher_id": "690440",
+    "pitcher_name": "Bradley Hanner"
+  },
+  {
+    "pitcher_id": "677957",
+    "pitcher_name": "Brandon Neeck"
+  },
+  {
+    "pitcher_id": "663399",
+    "pitcher_name": "Brandon Waddell"
+  },
+  {
+    "pitcher_id": "687064",
+    "pitcher_name": "Brandon Young"
+  },
+  {
+    "pitcher_id": "677952",
+    "pitcher_name": "Braxton Ashcraft"
+  },
+  {
+    "pitcher_id": "694820",
+    "pitcher_name": "Braxton Roxby"
+  },
+  {
+    "pitcher_id": "678394",
+    "pitcher_name": "Brayan Bello"
+  },
+  {
+    "pitcher_id": "694207",
+    "pitcher_name": "Brayan Mendoza"
+  },
+  {
+    "pitcher_id": "694341",
+    "pitcher_name": "Brendan Beck"
+  },
+  {
+    "pitcher_id": "676454",
+    "pitcher_name": "Brendan Cellucci"
+  },
+  {
+    "pitcher_id": "657514",
+    "pitcher_name": "Brennan Bernardino"
+  },
+  {
+    "pitcher_id": "688781",
+    "pitcher_name": "Brett Banks"
+  },
+  {
+    "pitcher_id": "814489",
+    "pitcher_name": "Brett Wichrowski"
+  },
+  {
+    "pitcher_id": "702153",
+    "pitcher_name": "Brian Fitzpatrick"
+  },
+  {
+    "pitcher_id": "682260",
+    "pitcher_name": "Brian Metoyer"
+  },
+  {
+    "pitcher_id": "656271",
+    "pitcher_name": "Brock Burke"
+  },
+  {
+    "pitcher_id": "691795",
+    "pitcher_name": "Brock Selvidge"
+  },
+  {
+    "pitcher_id": "692447",
+    "pitcher_name": "Bryan Magdaleno"
+  },
+  {
+    "pitcher_id": "676614",
+    "pitcher_name": "Bryan Sammons"
+  },
+  {
+    "pitcher_id": "686826",
+    "pitcher_name": "Bryce Jarvis"
+  },
+  {
+    "pitcher_id": "656755",
+    "pitcher_name": "Bryce Montes de Oca"
+  },
+  {
+    "pitcher_id": "669060",
+    "pitcher_name": "Bryse Wilson"
+  },
+  {
+    "pitcher_id": "572143",
+    "pitcher_name": "Burch Smith"
+  },
+  {
+    "pitcher_id": "806188",
+    "pitcher_name": "Cade Gibson"
+  },
+  {
+    "pitcher_id": "685464",
+    "pitcher_name": "Cade Winquest"
+  },
+  {
+    "pitcher_id": "615698",
+    "pitcher_name": "Cal Quantrill"
+  },
+  {
+    "pitcher_id": "668873",
+    "pitcher_name": "Caleb Kilian"
+  },
+  {
+    "pitcher_id": "573204",
+    "pitcher_name": "Caleb Thielbar"
+  },
+  {
+    "pitcher_id": "592155",
+    "pitcher_name": "Cam Booser"
+  },
+  {
+    "pitcher_id": "701764",
+    "pitcher_name": "Cam Day"
+  },
+  {
+    "pitcher_id": "657611",
+    "pitcher_name": "Cam Hill"
+  },
+  {
+    "pitcher_id": "676742",
+    "pitcher_name": "Cam Sanders"
+  },
+  {
+    "pitcher_id": "807575",
+    "pitcher_name": "Cam Schuelke"
+  },
+  {
+    "pitcher_id": "695229",
+    "pitcher_name": "Camden Minacci"
+  },
+  {
+    "pitcher_id": "671382",
+    "pitcher_name": "Cameron Foster"
+  },
+  {
+    "pitcher_id": "687721",
+    "pitcher_name": "Cameron Weston"
+  },
+  {
+    "pitcher_id": "605218",
+    "pitcher_name": "Carl Edwards Jr."
+  },
+  {
+    "pitcher_id": "471911",
+    "pitcher_name": "Carlos Carrasco"
+  },
+  {
+    "pitcher_id": "679922",
+    "pitcher_name": "Carlos Duran"
+  },
+  {
+    "pitcher_id": "664346",
+    "pitcher_name": "Carlos Guzman"
+  },
+  {
+    "pitcher_id": "801739",
+    "pitcher_name": "Carlos Lagrange"
+  },
+  {
+    "pitcher_id": "685329",
+    "pitcher_name": "Carlos Peña"
+  },
+  {
+    "pitcher_id": "692230",
+    "pitcher_name": "Carlos Rodriguez"
+  },
+  {
+    "pitcher_id": "679693",
+    "pitcher_name": "Carson Coleman"
+  },
+  {
+    "pitcher_id": "687223",
+    "pitcher_name": "Carson Palmquist"
+  },
+  {
+    "pitcher_id": "693313",
+    "pitcher_name": "Carson Seymour"
+  },
+  {
+    "pitcher_id": "702297",
+    "pitcher_name": "Carson Skipper"
+  },
+  {
+    "pitcher_id": "691945",
+    "pitcher_name": "Carter Baumler"
+  },
+  {
+    "pitcher_id": "814783",
+    "pitcher_name": "Casey Anderson"
+  },
+  {
+    "pitcher_id": "596271",
+    "pitcher_name": "Casey Lawrence"
+  },
+  {
+    "pitcher_id": "668984",
+    "pitcher_name": "Casey Legumina"
+  },
+  {
+    "pitcher_id": "669441",
+    "pitcher_name": "Chandler Champlain"
+  },
+  {
+    "pitcher_id": "656212",
+    "pitcher_name": "Charlie Barnes"
+  },
+  {
+    "pitcher_id": "810897",
+    "pitcher_name": "Charlie Beilenson"
+  },
+  {
+    "pitcher_id": "695505",
+    "pitcher_name": "Chase Burns"
+  },
+  {
+    "pitcher_id": "695445",
+    "pitcher_name": "Chase Lee"
+  },
+  {
+    "pitcher_id": "684384",
+    "pitcher_name": "Chase Plymell"
+  },
+  {
+    "pitcher_id": "686678",
+    "pitcher_name": "Chase Solesky"
+  },
+  {
+    "pitcher_id": "694646",
+    "pitcher_name": "Chayce McDermott"
+  },
+  {
+    "pitcher_id": "800018",
+    "pitcher_name": "Chen Zhong-Ao Zhuang"
+  },
+  {
+    "pitcher_id": "702318",
+    "pitcher_name": "Chris Campos"
+  },
+  {
+    "pitcher_id": "606965",
+    "pitcher_name": "Chris Devenski"
+  },
+  {
+    "pitcher_id": "669684",
+    "pitcher_name": "Chris Murphy"
+  },
+  {
+    "pitcher_id": "688297",
+    "pitcher_name": "Chris Roycroft"
+  },
+  {
+    "pitcher_id": "519242",
+    "pitcher_name": "Chris Sale"
+  },
+  {
+    "pitcher_id": "685005",
+    "pitcher_name": "Christian Roa"
+  },
+  {
+    "pitcher_id": "666155",
+    "pitcher_name": "Chuck King"
+  },
+  {
+    "pitcher_id": "669310",
+    "pitcher_name": "CJ Van Eyk"
+  },
+  {
+    "pitcher_id": "676051",
+    "pitcher_name": "Codi Heuer"
+  },
+  {
+    "pitcher_id": "675989",
+    "pitcher_name": "Cody Bolton"
+  },
+  {
+    "pitcher_id": "801453",
+    "pitcher_name": "Cole Stasio"
+  },
+  {
+    "pitcher_id": "642121",
+    "pitcher_name": "Cole Sulser"
+  },
+  {
+    "pitcher_id": "686972",
+    "pitcher_name": "Cole Waites"
+  },
+  {
+    "pitcher_id": "668390",
+    "pitcher_name": "Cole Winn"
+  },
+  {
+    "pitcher_id": "670059",
+    "pitcher_name": "Colin Holderman"
+  },
+  {
+    "pitcher_id": "607067",
+    "pitcher_name": "Colin Rea"
+  },
+  {
+    "pitcher_id": "676467",
+    "pitcher_name": "Colton Gordon"
+  },
+  {
+    "pitcher_id": "641401",
+    "pitcher_name": "Connor Brogdon"
+  },
+  {
+    "pitcher_id": "690939",
+    "pitcher_name": "Connor Noland"
+  },
+  {
+    "pitcher_id": "683175",
+    "pitcher_name": "Connor Phillips"
+  },
+  {
+    "pitcher_id": "701565",
+    "pitcher_name": "Connor Schultz"
+  },
+  {
+    "pitcher_id": "657756",
+    "pitcher_name": "Connor Seabold"
+  },
+  {
+    "pitcher_id": "681854",
+    "pitcher_name": "Connor Van Scoyoc"
+  },
+  {
+    "pitcher_id": "822416",
+    "pitcher_name": "Cooper Adams"
+  },
+  {
+    "pitcher_id": "681867",
+    "pitcher_name": "Cooper Criswell"
+  },
+  {
+    "pitcher_id": "686951",
+    "pitcher_name": "Cy Nielson"
+  },
+  {
+    "pitcher_id": "681884",
+    "pitcher_name": "D.J. Carpenter"
+  },
+  {
+    "pitcher_id": "689359",
+    "pitcher_name": "Dale Stanavich"
+  },
+  {
+    "pitcher_id": "656186",
+    "pitcher_name": "Dan Altavilla"
+  },
+  {
+    "pitcher_id": "641540",
+    "pitcher_name": "Dane Dunning"
+  },
+  {
+    "pitcher_id": "694037",
+    "pitcher_name": "Daniel Palencia"
+  },
+  {
+    "pitcher_id": "692404",
+    "pitcher_name": "Darlin Saladin"
+  },
+  {
+    "pitcher_id": "670766",
+    "pitcher_name": "Darren McCaughan"
+  },
+  {
+    "pitcher_id": "670280",
+    "pitcher_name": "David Bednar"
+  },
+  {
+    "pitcher_id": "665152",
+    "pitcher_name": "Dean Kremer"
+  },
+  {
+    "pitcher_id": "701207",
+    "pitcher_name": "Dennis Colleran"
+  },
+  {
+    "pitcher_id": "687288",
+    "pitcher_name": "Devereaux Harrison"
+  },
+  {
+    "pitcher_id": "682967",
+    "pitcher_name": "Devin Sweet"
+  },
+  {
+    "pitcher_id": "608650",
+    "pitcher_name": "Dietrich Enns"
+  },
+  {
+    "pitcher_id": "669084",
+    "pitcher_name": "DL Hall"
+  },
+  {
+    "pitcher_id": "680951",
+    "pitcher_name": "Doug Nikhazy"
+  },
+  {
+    "pitcher_id": "702878",
+    "pitcher_name": "Douglas Orellana"
+  },
+  {
+    "pitcher_id": "666148",
+    "pitcher_name": "Drake Fellows"
+  },
+  {
+    "pitcher_id": "805427",
+    "pitcher_name": "Drew Sommers"
+  },
+  {
+    "pitcher_id": "701474",
+    "pitcher_name": "Duncan Davitt"
+  },
+  {
+    "pitcher_id": "669395",
+    "pitcher_name": "Dylan Coleman"
+  },
+  {
+    "pitcher_id": "689266",
+    "pitcher_name": "Dylan Dodd"
+  },
+  {
+    "pitcher_id": "681916",
+    "pitcher_name": "Dylan Smith"
+  },
+  {
+    "pitcher_id": "678868",
+    "pitcher_name": "Eddy Yean"
+  },
+  {
+    "pitcher_id": "660825",
+    "pitcher_name": "Eduard Bazardo"
+  },
+  {
+    "pitcher_id": "674384",
+    "pitcher_name": "Eduarniel Núñez"
+  },
+  {
+    "pitcher_id": "683720",
+    "pitcher_name": "Edwin Jimenez"
+  },
+  {
+    "pitcher_id": "669212",
+    "pitcher_name": "Eli Morgan"
+  },
+  {
+    "pitcher_id": "622694",
+    "pitcher_name": "Elieser Hernández"
+  },
+  {
+    "pitcher_id": "695684",
+    "pitcher_name": "Elmer Rodríguez"
+  },
+  {
+    "pitcher_id": "676106",
+    "pitcher_name": "Emerson Hancock"
+  },
+  {
+    "pitcher_id": "672021",
+    "pitcher_name": "Eric Cerantola"
+  },
+  {
+    "pitcher_id": "641778",
+    "pitcher_name": "Eric Lauer"
+  },
+  {
+    "pitcher_id": "679358",
+    "pitcher_name": "Eric Orze"
+  },
+  {
+    "pitcher_id": "680899",
+    "pitcher_name": "Erik Tolman"
+  },
+  {
+    "pitcher_id": "834575",
+    "pitcher_name": "Eston Stull"
+  },
+  {
+    "pitcher_id": "701240",
+    "pitcher_name": "Ethan Routzahn"
+  },
+  {
+    "pitcher_id": "679928",
+    "pitcher_name": "Evan McKendry"
+  },
+  {
+    "pitcher_id": "682126",
+    "pitcher_name": "Evan Reifert"
+  },
+  {
+    "pitcher_id": "681895",
+    "pitcher_name": "Evan Sisk"
+  },
+  {
+    "pitcher_id": "681117",
+    "pitcher_name": "Evan Taylor"
+  },
+  {
+    "pitcher_id": "518585",
+    "pitcher_name": "Fernando Cruz"
+  },
+  {
+    "pitcher_id": "800125",
+    "pitcher_name": "Fernando Perez"
+  },
+  {
+    "pitcher_id": "800212",
+    "pitcher_name": "Francis Peña"
+  },
+  {
+    "pitcher_id": "642100",
+    "pitcher_name": "Gabe Speier"
+  },
+  {
+    "pitcher_id": "687312",
+    "pitcher_name": "Gabriel Hughes"
+  },
+  {
+    "pitcher_id": "804948",
+    "pitcher_name": "Gage Stanifer"
+  },
+  {
+    "pitcher_id": "678184",
+    "pitcher_name": "Garrett Hawkins"
+  },
+  {
+    "pitcher_id": "680729",
+    "pitcher_name": "Garrett McDaniels"
+  },
+  {
+    "pitcher_id": "668831",
+    "pitcher_name": "Garrett Stallings"
+  },
+  {
+    "pitcher_id": "676477",
+    "pitcher_name": "Garrett Whitlock"
+  },
+  {
+    "pitcher_id": "686560",
+    "pitcher_name": "Gavin Collyer"
+  },
+  {
+    "pitcher_id": "668970",
+    "pitcher_name": "Gavin Hollowell"
+  },
+  {
+    "pitcher_id": "650893",
+    "pitcher_name": "Génesis Cabrera"
+  },
+  {
+    "pitcher_id": "664129",
+    "pitcher_name": "Geoff Hartlieb"
+  },
+  {
+    "pitcher_id": "642575",
+    "pitcher_name": "Gerson Moreno"
+  },
+  {
+    "pitcher_id": "691908",
+    "pitcher_name": "Giussepe Velasquez"
+  },
+  {
+    "pitcher_id": "668933",
+    "pitcher_name": "Graham Ashcraft"
+  },
+  {
+    "pitcher_id": "701643",
+    "pitcher_name": "Grant Hartwig"
+  },
+  {
+    "pitcher_id": "805990",
+    "pitcher_name": "Grant Kipp"
+  },
+  {
+    "pitcher_id": "664991",
+    "pitcher_name": "Grant Wolfram"
+  },
+  {
+    "pitcher_id": "669711",
+    "pitcher_name": "Greg Weissert"
+  },
+  {
+    "pitcher_id": "643377",
+    "pitcher_name": "Griffin Jax"
+  },
+  {
+    "pitcher_id": "670871",
+    "pitcher_name": "Guillo Zuñiga"
+  },
+  {
+    "pitcher_id": "681402",
+    "pitcher_name": "Gus Varland"
+  },
+  {
+    "pitcher_id": "668470",
+    "pitcher_name": "Hagen Danner"
+  },
+  {
+    "pitcher_id": "694660",
+    "pitcher_name": "Harrison Cohen"
+  },
+  {
+    "pitcher_id": "806185",
+    "pitcher_name": "Hayden Birdsong"
+  },
+  {
+    "pitcher_id": "694492",
+    "pitcher_name": "Hayden Durke"
+  },
+  {
+    "pitcher_id": "802686",
+    "pitcher_name": "Hayden Harris"
+  },
+  {
+    "pitcher_id": "814388",
+    "pitcher_name": "Hayden Snelsire"
+  },
+  {
+    "pitcher_id": "672487",
+    "pitcher_name": "Helcris Olivárez"
+  },
+  {
+    "pitcher_id": "571948",
+    "pitcher_name": "Hoby Milner"
+  },
+  {
+    "pitcher_id": "676026",
+    "pitcher_name": "Holden Powell"
+  },
+  {
+    "pitcher_id": "623211",
+    "pitcher_name": "Huascar Brazobán"
+  },
+  {
+    "pitcher_id": "660623",
+    "pitcher_name": "Huascar Ynoa"
+  },
+  {
+    "pitcher_id": "813865",
+    "pitcher_name": "Hudson Leach"
+  },
+  {
+    "pitcher_id": "695347",
+    "pitcher_name": "Hunter Gregory"
+  },
+  {
+    "pitcher_id": "687593",
+    "pitcher_name": "Hunter Patteson"
+  },
+  {
+    "pitcher_id": "701533",
+    "pitcher_name": "Hunter Stanley"
+  },
+  {
+    "pitcher_id": "519326",
+    "pitcher_name": "Hunter Strickland"
+  },
+  {
+    "pitcher_id": "666301",
+    "pitcher_name": "Indigo Diaz"
+  },
+  {
+    "pitcher_id": "805214",
+    "pitcher_name": "Isaac Lyon"
+  },
+  {
+    "pitcher_id": "676755",
+    "pitcher_name": "Isaac Mattson"
+  },
+  {
+    "pitcher_id": "663462",
+    "pitcher_name": "Isaiah Campbell"
+  },
+  {
+    "pitcher_id": "813676",
+    "pitcher_name": "Ivran Romero"
+  },
+  {
+    "pitcher_id": "801555",
+    "pitcher_name": "Izaak Martinez"
+  },
+  {
+    "pitcher_id": "681004",
+    "pitcher_name": "Jack Carey"
+  },
+  {
+    "pitcher_id": "681007",
+    "pitcher_name": "Jack Cushing"
+  },
+  {
+    "pitcher_id": "806585",
+    "pitcher_name": "Jack Dallas"
+  },
+  {
+    "pitcher_id": "656427",
+    "pitcher_name": "Jack Flaherty"
+  },
+  {
+    "pitcher_id": "687916",
+    "pitcher_name": "Jack Jasiak"
+  },
+  {
+    "pitcher_id": "676393",
+    "pitcher_name": "Jack Leftwich"
+  },
+  {
+    "pitcher_id": "669193",
+    "pitcher_name": "Jack Little"
+  },
+  {
+    "pitcher_id": "680891",
+    "pitcher_name": "Jack Neely"
+  },
+  {
+    "pitcher_id": "678022",
+    "pitcher_name": "Jack Perkins"
+  },
+  {
+    "pitcher_id": "667652",
+    "pitcher_name": "Jack Ralston"
+  },
+  {
+    "pitcher_id": "695378",
+    "pitcher_name": "Jack Sinclair"
+  },
+  {
+    "pitcher_id": "701328",
+    "pitcher_name": "Jackson Ferris"
+  },
+  {
+    "pitcher_id": "805958",
+    "pitcher_name": "Jackson Kelley"
+  },
+  {
+    "pitcher_id": "688776",
+    "pitcher_name": "Jackson Lancaster"
+  },
+  {
+    "pitcher_id": "671131",
+    "pitcher_name": "Jackson Rutledge"
+  },
+  {
+    "pitcher_id": "680232",
+    "pitcher_name": "Jackson Wolf"
+  },
+  {
+    "pitcher_id": "701288",
+    "pitcher_name": "Jacob Webb"
+  },
+  {
+    "pitcher_id": "677955",
+    "pitcher_name": "Jaden Hill"
+  },
+  {
+    "pitcher_id": "695247",
+    "pitcher_name": "Jagger Haynes"
+  },
+  {
+    "pitcher_id": "683568",
+    "pitcher_name": "Jairo Iriarte"
+  },
+  {
+    "pitcher_id": "656234",
+    "pitcher_name": "Jake Bird"
+  },
+  {
+    "pitcher_id": "671109",
+    "pitcher_name": "Jake Eder"
+  },
+  {
+    "pitcher_id": "688445",
+    "pitcher_name": "Jake Walkinshaw"
+  },
+  {
+    "pitcher_id": "663765",
+    "pitcher_name": "Jake Woodford"
+  },
+  {
+    "pitcher_id": "675916",
+    "pitcher_name": "James Karinchak"
+  },
+  {
+    "pitcher_id": "592791",
+    "pitcher_name": "Jameson Taillon"
+  },
+  {
+    "pitcher_id": "688692",
+    "pitcher_name": "Jared Simpson"
+  },
+  {
+    "pitcher_id": "663681",
+    "pitcher_name": "Jarod Bayless"
+  },
+  {
+    "pitcher_id": "809229",
+    "pitcher_name": "Jaron DeBerry"
+  },
+  {
+    "pitcher_id": "674022",
+    "pitcher_name": "Jason Ruffcorn"
+  },
+  {
+    "pitcher_id": "694495",
+    "pitcher_name": "Javen Coleman"
+  },
+  {
+    "pitcher_id": "642770",
+    "pitcher_name": "Javy Guerra"
+  },
+  {
+    "pitcher_id": "801829",
+    "pitcher_name": "Jay Allmer"
+  },
+  {
+    "pitcher_id": "681151",
+    "pitcher_name": "Jayden Murray"
+  },
+  {
+    "pitcher_id": "656257",
+    "pitcher_name": "Jeff Brigham"
+  },
+  {
+    "pitcher_id": "695871",
+    "pitcher_name": "Jesús Broca"
+  },
+  {
+    "pitcher_id": "623474",
+    "pitcher_name": "Jimmy Herget"
+  },
+  {
+    "pitcher_id": "700675",
+    "pitcher_name": "Jimmy Kingsbury"
+  },
+  {
+    "pitcher_id": "683101",
+    "pitcher_name": "JJ Goss"
+  },
+  {
+    "pitcher_id": "682175",
+    "pitcher_name": "Joe Jacques"
+  },
+  {
+    "pitcher_id": "686747",
+    "pitcher_name": "Joe La Sorsa"
+  },
+  {
+    "pitcher_id": "697812",
+    "pitcher_name": "Joe Rock"
+  },
+  {
+    "pitcher_id": "669270",
+    "pitcher_name": "Joel Kuhnel"
+  },
+  {
+    "pitcher_id": "676282",
+    "pitcher_name": "Joey Cantillo"
+  },
+  {
+    "pitcher_id": "680702",
+    "pitcher_name": "Joey Gerber"
+  },
+  {
+    "pitcher_id": "595928",
+    "pitcher_name": "John Curtiss"
+  },
+  {
+    "pitcher_id": "686563",
+    "pitcher_name": "Jonathan Cannon"
+  },
+  {
+    "pitcher_id": "669169",
+    "pitcher_name": "Jonathan Heasley"
+  },
+  {
+    "pitcher_id": "642546",
+    "pitcher_name": "Jonathan Hernández"
+  },
+  {
+    "pitcher_id": "663855",
+    "pitcher_name": "Jordan Hicks"
+  },
+  {
+    "pitcher_id": "673929",
+    "pitcher_name": "Jordan Leasure"
+  },
+  {
+    "pitcher_id": "678478",
+    "pitcher_name": "Jorge Juan"
+  },
+  {
+    "pitcher_id": "676130",
+    "pitcher_name": "José Buttó"
+  },
+  {
+    "pitcher_id": "703615",
+    "pitcher_name": "Jose Cabrera"
+  },
+  {
+    "pitcher_id": "621016",
+    "pitcher_name": "Jose Cuas"
+  },
+  {
+    "pitcher_id": "664744",
+    "pitcher_name": "Jose Espada"
+  },
+  {
+    "pitcher_id": "683742",
+    "pitcher_name": "Jose Franco"
+  },
+  {
+    "pitcher_id": "667755",
+    "pitcher_name": "José Soriano"
+  },
+  {
+    "pitcher_id": "694795",
+    "pitcher_name": "Josh Ekness"
+  },
+  {
+    "pitcher_id": "663558",
+    "pitcher_name": "Jovani Morán"
+  },
+  {
+    "pitcher_id": "702275",
+    "pitcher_name": "JR Ritchie"
+  },
+  {
+    "pitcher_id": "675848",
+    "pitcher_name": "Juan Mejia"
+  },
+  {
+    "pitcher_id": "678738",
+    "pitcher_name": "Juan Sanchez"
+  },
+  {
+    "pitcher_id": "687924",
+    "pitcher_name": "Julian Aguiar"
+  },
+  {
+    "pitcher_id": "658551",
+    "pitcher_name": "Junior Fernández"
+  },
+  {
+    "pitcher_id": "663795",
+    "pitcher_name": "Justin Hagenman"
+  },
+  {
+    "pitcher_id": "659381",
+    "pitcher_name": "Justin King"
+  },
+  {
+    "pitcher_id": "701568",
+    "pitcher_name": "Justin Meis"
+  },
+  {
+    "pitcher_id": "623437",
+    "pitcher_name": "Justin Topa"
+  },
+  {
+    "pitcher_id": "687866",
+    "pitcher_name": "Justin Yeager"
+  },
+  {
+    "pitcher_id": "669704",
+    "pitcher_name": "Kade Strowd"
+  },
+  {
+    "pitcher_id": "689337",
+    "pitcher_name": "Kaleb Bowman"
+  },
+  {
+    "pitcher_id": "669211",
+    "pitcher_name": "Keegan Akin"
+  },
+  {
+    "pitcher_id": "672456",
+    "pitcher_name": "Keider Montero"
+  },
+  {
+    "pitcher_id": "696070",
+    "pitcher_name": "Kendry Rojas"
+  },
+  {
+    "pitcher_id": "695761",
+    "pitcher_name": "Kenya Huggins"
+  },
+  {
+    "pitcher_id": "665645",
+    "pitcher_name": "Kervin Castro"
+  },
+  {
+    "pitcher_id": "700322",
+    "pitcher_name": "Keythel Key"
+  },
+  {
+    "pitcher_id": "676831",
+    "pitcher_name": "Kodi Whitley"
+  },
+  {
+    "pitcher_id": "681892",
+    "pitcher_name": "Kody Funderburk"
+  },
+  {
+    "pitcher_id": "684442",
+    "pitcher_name": "Kohl Drake"
+  },
+  {
+    "pitcher_id": "820825",
+    "pitcher_name": "Konner Eaton"
+  },
+  {
+    "pitcher_id": "663455",
+    "pitcher_name": "Konnor Pilkington"
+  },
+  {
+    "pitcher_id": "677958",
+    "pitcher_name": "Kumar Rocker"
+  },
+  {
+    "pitcher_id": "679775",
+    "pitcher_name": "Kyle Backhus"
+  },
+  {
+    "pitcher_id": "680694",
+    "pitcher_name": "Kyle Bradish"
+  },
+  {
+    "pitcher_id": "606996",
+    "pitcher_name": "Kyle Hart"
+  },
+  {
+    "pitcher_id": "681517",
+    "pitcher_name": "Kyle Leahy"
+  },
+  {
+    "pitcher_id": "679712",
+    "pitcher_name": "Lael Lockhart"
+  },
+  {
+    "pitcher_id": "669199",
+    "pitcher_name": "Lake Bachar"
+  },
+  {
+    "pitcher_id": "683085",
+    "pitcher_name": "Landon Sims"
+  },
+  {
+    "pitcher_id": "814280",
+    "pitcher_name": "Landon Tomkins"
+  },
+  {
+    "pitcher_id": "681751",
+    "pitcher_name": "Lazaro Estrada"
+  },
+  {
+    "pitcher_id": "699214",
+    "pitcher_name": "Leandro Lopez"
+  },
+  {
+    "pitcher_id": "692623",
+    "pitcher_name": "Leonard Garcia"
+  },
+  {
+    "pitcher_id": "694370",
+    "pitcher_name": "Levi Wells"
+  },
+  {
+    "pitcher_id": "801737",
+    "pitcher_name": "Liomar Martinez"
+  },
+  {
+    "pitcher_id": "690229",
+    "pitcher_name": "LJ McDonough"
+  },
+  {
+    "pitcher_id": "671106",
+    "pitcher_name": "Logan Allen"
+  },
+  {
+    "pitcher_id": "701656",
+    "pitcher_name": "Logan Henderson"
+  },
+  {
+    "pitcher_id": "701121",
+    "pitcher_name": "Logan VanWey"
+  },
+  {
+    "pitcher_id": "694312",
+    "pitcher_name": "Logan Workman"
+  },
+  {
+    "pitcher_id": "681168",
+    "pitcher_name": "Luis Curvelo"
+  },
+  {
+    "pitcher_id": "703725",
+    "pitcher_name": "Luis Gastelum"
+  },
+  {
+    "pitcher_id": "661563",
+    "pitcher_name": "Luis Gil"
+  },
+  {
+    "pitcher_id": "692285",
+    "pitcher_name": "Luis Guerrero"
+  },
+  {
+    "pitcher_id": "806960",
+    "pitcher_name": "Luis Morales"
+  },
+  {
+    "pitcher_id": "678821",
+    "pitcher_name": "Luis Peralta"
+  },
+  {
+    "pitcher_id": "622663",
+    "pitcher_name": "Luis Severino"
+  },
+  {
+    "pitcher_id": "687259",
+    "pitcher_name": "Luke Bell"
+  },
+  {
+    "pitcher_id": "803183",
+    "pitcher_name": "Luke Fox"
+  },
+  {
+    "pitcher_id": "681432",
+    "pitcher_name": "Luke Little"
+  },
+  {
+    "pitcher_id": "669022",
+    "pitcher_name": "MacKenzie Gore"
+  },
+  {
+    "pitcher_id": "701195",
+    "pitcher_name": "Manuel Castro"
+  },
+  {
+    "pitcher_id": "804973",
+    "pitcher_name": "Manuel Rodriguez"
+  },
+  {
+    "pitcher_id": "681041",
+    "pitcher_name": "Marcelo Perez"
+  },
+  {
+    "pitcher_id": "815081",
+    "pitcher_name": "Mark Manfredi"
+  },
+  {
+    "pitcher_id": "671726",
+    "pitcher_name": "Marquis Grissom Jr."
+  },
+  {
+    "pitcher_id": "696131",
+    "pitcher_name": "Mason Black"
+  },
+  {
+    "pitcher_id": "826314",
+    "pitcher_name": "Mason Burns"
+  },
+  {
+    "pitcher_id": "695243",
+    "pitcher_name": "Mason Miller"
+  },
+  {
+    "pitcher_id": "682254",
+    "pitcher_name": "Mason Montgomery"
+  },
+  {
+    "pitcher_id": "666168",
+    "pitcher_name": "Mason Thompson"
+  },
+  {
+    "pitcher_id": "700400",
+    "pitcher_name": "Matt Ager"
+  },
+  {
+    "pitcher_id": "621199",
+    "pitcher_name": "Matt Bowman"
+  },
+  {
+    "pitcher_id": "801367",
+    "pitcher_name": "Matt Jachec"
+  },
+  {
+    "pitcher_id": "640454",
+    "pitcher_name": "Matt Krook"
+  },
+  {
+    "pitcher_id": "676910",
+    "pitcher_name": "Matt Seelinger"
+  },
+  {
+    "pitcher_id": "676666",
+    "pitcher_name": "Matt Turner"
+  },
+  {
+    "pitcher_id": "663362",
+    "pitcher_name": "Matt Waldron"
+  },
+  {
+    "pitcher_id": "571510",
+    "pitcher_name": "Matthew Boyd"
+  },
+  {
+    "pitcher_id": "669461",
+    "pitcher_name": "Matthew Liberatore"
+  },
+  {
+    "pitcher_id": "676661",
+    "pitcher_name": "Max Lazar"
+  },
+  {
+    "pitcher_id": "691008",
+    "pitcher_name": "Max Rajcic"
+  },
+  {
+    "pitcher_id": "690382",
+    "pitcher_name": "Michael Darrell-Hicks"
+  },
+  {
+    "pitcher_id": "663901",
+    "pitcher_name": "Michael Flynn"
+  },
+  {
+    "pitcher_id": "605242",
+    "pitcher_name": "Michael Fulmer"
+  },
+  {
+    "pitcher_id": "547184",
+    "pitcher_name": "Michael Kelly"
+  },
+  {
+    "pitcher_id": "674681",
+    "pitcher_name": "Michael Plassmeyer"
+  },
+  {
+    "pitcher_id": "621074",
+    "pitcher_name": "Michael Rucker"
+  },
+  {
+    "pitcher_id": "806333",
+    "pitcher_name": "Michael Sansone"
+  },
+  {
+    "pitcher_id": "805315",
+    "pitcher_name": "Michael Walsh"
+  },
+  {
+    "pitcher_id": "700280",
+    "pitcher_name": "Miguel Mendez"
+  },
+  {
+    "pitcher_id": "699044",
+    "pitcher_name": "Miguel Ullola"
+  },
+  {
+    "pitcher_id": "657508",
+    "pitcher_name": "Mike Baumann"
+  },
+  {
+    "pitcher_id": "681347",
+    "pitcher_name": "Mike Burrows"
+  },
+  {
+    "pitcher_id": "678024",
+    "pitcher_name": "Mike Vasil"
+  },
+  {
+    "pitcher_id": "683352",
+    "pitcher_name": "Mitch Bratt"
+  },
+  {
+    "pitcher_id": "815083",
+    "pitcher_name": "Mitch Farris"
+  },
+  {
+    "pitcher_id": "656605",
+    "pitcher_name": "Mitch Keller"
+  },
+  {
+    "pitcher_id": "680730",
+    "pitcher_name": "Mitchell Parker"
+  },
+  {
+    "pitcher_id": "695402",
+    "pitcher_name": "Najer Victor"
+  },
+  {
+    "pitcher_id": "691014",
+    "pitcher_name": "Nate Savino"
+  },
+  {
+    "pitcher_id": "543135",
+    "pitcher_name": "Nathan Eovaldi"
+  },
+  {
+    "pitcher_id": "623433",
+    "pitcher_name": "Nick Anderson"
+  },
+  {
+    "pitcher_id": "689546",
+    "pitcher_name": "Nick Davila"
+  },
+  {
+    "pitcher_id": "694298",
+    "pitcher_name": "Nick Dombkowski"
+  },
+  {
+    "pitcher_id": "676606",
+    "pitcher_name": "Nick Margevicius"
+  },
+  {
+    "pitcher_id": "675919",
+    "pitcher_name": "Nick Raquet"
+  },
+  {
+    "pitcher_id": "805311",
+    "pitcher_name": "Nick Sando"
+  },
+  {
+    "pitcher_id": "686873",
+    "pitcher_name": "Nick Zwack"
+  },
+  {
+    "pitcher_id": "688548",
+    "pitcher_name": "Nico Tellache"
+  },
+  {
+    "pitcher_id": "811310",
+    "pitcher_name": "Nigel Belgrave"
+  },
+  {
+    "pitcher_id": "663562",
+    "pitcher_name": "Noah Davis"
+  },
+  {
+    "pitcher_id": "668716",
+    "pitcher_name": "Noah Murdock"
+  },
+  {
+    "pitcher_id": "676510",
+    "pitcher_name": "Nolan Hoffman"
+  },
+  {
+    "pitcher_id": "699325",
+    "pitcher_name": "Oscar Rayo"
+  },
+  {
+    "pitcher_id": "686623",
+    "pitcher_name": "P.J. Labriola"
+  },
+  {
+    "pitcher_id": "676050",
+    "pitcher_name": "Packy Naughton"
+  },
+  {
+    "pitcher_id": "800048",
+    "pitcher_name": "Parker Messick"
+  },
+  {
+    "pitcher_id": "656786",
+    "pitcher_name": "Parker Mushinski"
+  },
+  {
+    "pitcher_id": "814527",
+    "pitcher_name": "Patrick Copen"
+  },
+  {
+    "pitcher_id": "701856",
+    "pitcher_name": "Patrick Halligan"
+  },
+  {
+    "pitcher_id": "641907",
+    "pitcher_name": "Patrick Murphy"
+  },
+  {
+    "pitcher_id": "622256",
+    "pitcher_name": "Patrick Weigel"
+  },
+  {
+    "pitcher_id": "801434",
+    "pitcher_name": "Paul Gervase"
+  },
+  {
+    "pitcher_id": "687606",
+    "pitcher_name": "Paxton Schultz"
+  },
+  {
+    "pitcher_id": "801139",
+    "pitcher_name": "Payton Tolle"
+  },
+  {
+    "pitcher_id": "663567",
+    "pitcher_name": "Peter Lambert"
+  },
+  {
+    "pitcher_id": "657265",
+    "pitcher_name": "Peter Strzelecki"
+  },
+  {
+    "pitcher_id": "688230",
+    "pitcher_name": "Peyton Alford"
+  },
+  {
+    "pitcher_id": "682608",
+    "pitcher_name": "Peyton Gray"
+  },
+  {
+    "pitcher_id": "814482",
+    "pitcher_name": "Peyton Stumbo"
+  },
+  {
+    "pitcher_id": "691769",
+    "pitcher_name": "Philip Abner"
+  },
+  {
+    "pitcher_id": "676571",
+    "pitcher_name": "PJ Poulin"
+  },
+  {
+    "pitcher_id": "687863",
+    "pitcher_name": "Porter Hodge"
+  },
+  {
+    "pitcher_id": "687273",
+    "pitcher_name": "Quinn Mathews"
+  },
+  {
+    "pitcher_id": "677976",
+    "pitcher_name": "Randy Dobnak"
+  },
+  {
+    "pitcher_id": "681190",
+    "pitcher_name": "Randy Vásquez"
+  },
+  {
+    "pitcher_id": "684128",
+    "pitcher_name": "Reidis Sena"
+  },
+  {
+    "pitcher_id": "665665",
+    "pitcher_name": "Reiver Sanmartin"
+  },
+  {
+    "pitcher_id": "695076",
+    "pitcher_name": "Rhett Lowder"
+  },
+  {
+    "pitcher_id": "683014",
+    "pitcher_name": "Richard Guasch"
+  },
+  {
+    "pitcher_id": "663992",
+    "pitcher_name": "Richard Lovelady"
+  },
+  {
+    "pitcher_id": "676568",
+    "pitcher_name": "Ricky Vanasco"
+  },
+  {
+    "pitcher_id": "670329",
+    "pitcher_name": "Rico Garcia"
+  },
+  {
+    "pitcher_id": "803035",
+    "pitcher_name": "Riley Gowens"
+  },
+  {
+    "pitcher_id": "702303",
+    "pitcher_name": "Riley Martin"
+  },
+  {
+    "pitcher_id": "696275",
+    "pitcher_name": "RJ Petit"
+  },
+  {
+    "pitcher_id": "836071",
+    "pitcher_name": "RJ Shunck"
+  },
+  {
+    "pitcher_id": "592662",
+    "pitcher_name": "Robbie Ray"
+  },
+  {
+    "pitcher_id": "702281",
+    "pitcher_name": "Robby Snelling"
+  },
+  {
+    "pitcher_id": "676395",
+    "pitcher_name": "Robert Garcia"
+  },
+  {
+    "pitcher_id": "688107",
+    "pitcher_name": "Robert Gasser"
+  },
+  {
+    "pitcher_id": "682610",
+    "pitcher_name": "Roddery Muñoz"
+  },
+  {
+    "pitcher_id": "676760",
+    "pitcher_name": "Ron Marinaccio"
+  },
+  {
+    "pitcher_id": "686701",
+    "pitcher_name": "Ryan Bergert"
+  },
+  {
+    "pitcher_id": "518489",
+    "pitcher_name": "Ryan Brasier"
+  },
+  {
+    "pitcher_id": "695065",
+    "pitcher_name": "Ryan Costeiu"
+  },
+  {
+    "pitcher_id": "681676",
+    "pitcher_name": "Ryan Fernandez"
+  },
+  {
+    "pitcher_id": "687473",
+    "pitcher_name": "Ryan Gusto"
+  },
+  {
+    "pitcher_id": "686470",
+    "pitcher_name": "Ryan Hawks"
+  },
+  {
+    "pitcher_id": "686754",
+    "pitcher_name": "Ryan Jensen"
+  },
+  {
+    "pitcher_id": "702795",
+    "pitcher_name": "Ryan Loutos"
+  },
+  {
+    "pitcher_id": "701000",
+    "pitcher_name": "Ryan Och"
+  },
+  {
+    "pitcher_id": "670245",
+    "pitcher_name": "Ryan Watson"
+  },
+  {
+    "pitcher_id": "669067",
+    "pitcher_name": "Ryan Webb"
+  },
+  {
+    "pitcher_id": "656924",
+    "pitcher_name": "Ryder Ryan"
+  },
+  {
+    "pitcher_id": "691951",
+    "pitcher_name": "Sam Aldegheri"
+  },
+  {
+    "pitcher_id": "672277",
+    "pitcher_name": "Sam Carlson"
+  },
+  {
+    "pitcher_id": "676333",
+    "pitcher_name": "Sam Weatherly"
+  },
+  {
+    "pitcher_id": "679029",
+    "pitcher_name": "Samuel Vasquez"
+  },
+  {
+    "pitcher_id": "696519",
+    "pitcher_name": "Samy Natera Jr."
+  },
+  {
+    "pitcher_id": "645261",
+    "pitcher_name": "Sandy Alcantara"
+  },
+  {
+    "pitcher_id": "682624",
+    "pitcher_name": "Sandy Gaston"
+  },
+  {
+    "pitcher_id": "702903",
+    "pitcher_name": "Saul Garcia"
+  },
+  {
+    "pitcher_id": "656240",
+    "pitcher_name": "Scott Blewett"
+  },
+  {
+    "pitcher_id": "664123",
+    "pitcher_name": "Scott Effross"
+  },
+  {
+    "pitcher_id": "682044",
+    "pitcher_name": "Sean Boyle"
+  },
+  {
+    "pitcher_id": "680732",
+    "pitcher_name": "Sean Burke"
+  },
+  {
+    "pitcher_id": "674944",
+    "pitcher_name": "Sean Guenther"
+  },
+  {
+    "pitcher_id": "656887",
+    "pitcher_name": "Sean Reid-Foley"
+  },
+  {
+    "pitcher_id": "807743",
+    "pitcher_name": "Sean Sullivan"
+  },
+  {
+    "pitcher_id": "686751",
+    "pitcher_name": "Seth Johnson"
+  },
+  {
+    "pitcher_id": "661527",
+    "pitcher_name": "Seth Martinez"
+  },
+  {
+    "pitcher_id": "670234",
+    "pitcher_name": "Seth Shuman"
+  },
+  {
+    "pitcher_id": "695556",
+    "pitcher_name": "Shane Panzini"
+  },
+  {
+    "pitcher_id": "641312",
+    "pitcher_name": "Shaun Anderson"
+  },
+  {
+    "pitcher_id": "829272",
+    "pitcher_name": "Shinnosuke Ogasawara"
+  },
+  {
+    "pitcher_id": "680573",
+    "pitcher_name": "Simeon Woods Richardson"
+  },
+  {
+    "pitcher_id": "813766",
+    "pitcher_name": "Skylar Hales"
+  },
+  {
+    "pitcher_id": "702352",
+    "pitcher_name": "Spencer Bivens"
+  },
+  {
+    "pitcher_id": "801517",
+    "pitcher_name": "Spencer Giesting"
+  },
+  {
+    "pitcher_id": "693686",
+    "pitcher_name": "Spencer Miles"
+  },
+  {
+    "pitcher_id": "806288",
+    "pitcher_name": "Stefan Raeth"
+  },
+  {
+    "pitcher_id": "682240",
+    "pitcher_name": "Stephen Jones"
+  },
+  {
+    "pitcher_id": "663568",
+    "pitcher_name": "Stephen Kolek"
+  },
+  {
+    "pitcher_id": "682897",
+    "pitcher_name": "Steven Pérez"
+  },
+  {
+    "pitcher_id": "686632",
+    "pitcher_name": "Steven Zobac"
+  },
+  {
+    "pitcher_id": "691602",
+    "pitcher_name": "Stiven Cruz"
+  },
+  {
+    "pitcher_id": "694375",
+    "pitcher_name": "T.J. Nichols"
+  },
+  {
+    "pitcher_id": "671737",
+    "pitcher_name": "Taj Bradley"
+  },
+  {
+    "pitcher_id": "669142",
+    "pitcher_name": "Tanner Burns"
+  },
+  {
+    "pitcher_id": "685299",
+    "pitcher_name": "Tanner Gordon"
+  },
+  {
+    "pitcher_id": "663432",
+    "pitcher_name": "Tanner Rainey"
+  },
+  {
+    "pitcher_id": "804249",
+    "pitcher_name": "Tate Kuehner"
+  },
+  {
+    "pitcher_id": "605463",
+    "pitcher_name": "Tayler Scott"
+  },
+  {
+    "pitcher_id": "688497",
+    "pitcher_name": "Taylor Rashi"
+  },
+  {
+    "pitcher_id": "594027",
+    "pitcher_name": "Tayron Guerrero"
+  },
+  {
+    "pitcher_id": "682754",
+    "pitcher_name": "Teofilo Mendez"
+  },
+  {
+    "pitcher_id": "641672",
+    "pitcher_name": "Thomas Hatch"
+  },
+  {
+    "pitcher_id": "692179",
+    "pitcher_name": "Thomas Ireland"
+  },
+  {
+    "pitcher_id": "657612",
+    "pitcher_name": "Tim Hill"
+  },
+  {
+    "pitcher_id": "641835",
+    "pitcher_name": "Tim Mayza"
+  },
+  {
+    "pitcher_id": "669298",
+    "pitcher_name": "TJ Shook"
+  },
+  {
+    "pitcher_id": "676680",
+    "pitcher_name": "Tom Cosgrove"
+  },
+  {
+    "pitcher_id": "694536",
+    "pitcher_name": "Trent Baker"
+  },
+  {
+    "pitcher_id": "694680",
+    "pitcher_name": "Trevor Martin"
+  },
+  {
+    "pitcher_id": "670950",
+    "pitcher_name": "Trevor Richards"
+  },
+  {
+    "pitcher_id": "669432",
+    "pitcher_name": "Trevor Rogers"
+  },
+  {
+    "pitcher_id": "694346",
+    "pitcher_name": "Trey Gibson"
+  },
+  {
+    "pitcher_id": "657022",
+    "pitcher_name": "Trey Supak"
+  },
+  {
+    "pitcher_id": "663941",
+    "pitcher_name": "Tristan Beck"
+  },
+  {
+    "pitcher_id": "663474",
+    "pitcher_name": "Triston McKenzie"
+  },
+  {
+    "pitcher_id": "700187",
+    "pitcher_name": "Troy Taylor"
+  },
+  {
+    "pitcher_id": "641302",
+    "pitcher_name": "Tyler Alexander"
+  },
+  {
+    "pitcher_id": "666121",
+    "pitcher_name": "Tyler Baum"
+  },
+  {
+    "pitcher_id": "802680",
+    "pitcher_name": "Tyler Bradt"
+  },
+  {
+    "pitcher_id": "694331",
+    "pitcher_name": "Tyler Mattison"
+  },
+  {
+    "pitcher_id": "663969",
+    "pitcher_name": "Tyler Phillips"
+  },
+  {
+    "pitcher_id": "643511",
+    "pitcher_name": "Tyler Rogers"
+  },
+  {
+    "pitcher_id": "805326",
+    "pitcher_name": "Tyler Schweitzer"
+  },
+  {
+    "pitcher_id": "804922",
+    "pitcher_name": "Tyler Vogel"
+  },
+  {
+    "pitcher_id": "669330",
+    "pitcher_name": "Tyler Wells"
+  },
+  {
+    "pitcher_id": "676604",
+    "pitcher_name": "Tyler Zuber"
+  },
+  {
+    "pitcher_id": "824620",
+    "pitcher_name": "Tyson Hardin"
+  },
+  {
+    "pitcher_id": "668338",
+    "pitcher_name": "Tyson Miller"
+  },
+  {
+    "pitcher_id": "678368",
+    "pitcher_name": "Valente Bellozo"
+  },
+  {
+    "pitcher_id": "680767",
+    "pitcher_name": "Victor Vodnik"
+  },
+  {
+    "pitcher_id": "657697",
+    "pitcher_name": "Vinny Nittoli"
+  },
+  {
+    "pitcher_id": "700712",
+    "pitcher_name": "Walbert Urena"
+  },
+  {
+    "pitcher_id": "593974",
+    "pitcher_name": "Wandy Peralta"
+  },
+  {
+    "pitcher_id": "827734",
+    "pitcher_name": "Wei-En Lin"
+  },
+  {
+    "pitcher_id": "682790",
+    "pitcher_name": "Wikelman González"
+  },
+  {
+    "pitcher_id": "696062",
+    "pitcher_name": "Wilber Dotel"
+  },
+  {
+    "pitcher_id": "693781",
+    "pitcher_name": "Wilian Bormie"
+  },
+  {
+    "pitcher_id": "684608",
+    "pitcher_name": "Will Brian"
+  },
+  {
+    "pitcher_id": "682999",
+    "pitcher_name": "Will Childers"
+  },
+  {
+    "pitcher_id": "702021",
+    "pitcher_name": "Will Dion"
+  },
+  {
+    "pitcher_id": "694361",
+    "pitcher_name": "Will Klein"
+  },
+  {
+    "pitcher_id": "808970",
+    "pitcher_name": "Woo-Suk Go"
+  },
+  {
+    "pitcher_id": "670090",
+    "pitcher_name": "Wyatt Mills"
+  },
+  {
+    "pitcher_id": "821970",
+    "pitcher_name": "Xavier Martinez"
+  },
+  {
+    "pitcher_id": "682274",
+    "pitcher_name": "Yaramil Hiraldo"
+  },
+  {
+    "pitcher_id": "684320",
+    "pitcher_name": "Yariel Rodríguez"
+  },
+  {
+    "pitcher_id": "666974",
+    "pitcher_name": "Yennier Cano"
+  },
+  {
+    "pitcher_id": "805060",
+    "pitcher_name": "Yenrri Rojas"
+  },
+  {
+    "pitcher_id": "700270",
+    "pitcher_name": "Yilber Díaz"
+  },
+  {
+    "pitcher_id": "672782",
+    "pitcher_name": "Yoendrys Gómez"
+  },
+  {
+    "pitcher_id": "670990",
+    "pitcher_name": "Yohan Ramírez"
+  },
+  {
+    "pitcher_id": "808967",
+    "pitcher_name": "Yoshinobu Yamamoto"
+  },
+  {
+    "pitcher_id": "801179",
+    "pitcher_name": "Yu-Min Lin"
+  },
+  {
+    "pitcher_id": "684949",
+    "pitcher_name": "Zac Leigh"
+  },
+  {
+    "pitcher_id": "688642",
+    "pitcher_name": "Zach Agnos"
+  },
+  {
+    "pitcher_id": "694350",
+    "pitcher_name": "Zach Brzykcy"
+  },
+  {
+    "pitcher_id": "702103",
+    "pitcher_name": "Zach Franklin"
+  },
+  {
+    "pitcher_id": "685112",
+    "pitcher_name": "Zach McCambley"
+  },
+  {
+    "pitcher_id": "683068",
+    "pitcher_name": "Zach Penrod"
+  },
+  {
+    "pitcher_id": "647315",
+    "pitcher_name": "Zach Pop"
+  },
+  {
+    "pitcher_id": "677312",
+    "pitcher_name": "Zane Mills"
+  },
+  {
+    "pitcher_id": "689557",
+    "pitcher_name": "Zane Morehouse"
+  },
+  {
+    "pitcher_id": "801546",
+    "pitcher_name": "Zane Russell"
+  }
+]

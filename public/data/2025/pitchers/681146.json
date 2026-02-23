@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "681146",
+  "pitcher_name": "Jonah Bride",
+  "pitches": [
+    {
+      "code": "CS",
+      "title": "slow curve",
+      "color": "#0068FF",
+      "count": 12,
+      "pitch_percent": 0.10526315789473684,
+      "rhh_percent": 0.17647058823529413,
+      "lhh_percent": 0,
+      "start_speed": 68.51666666666667,
+      "max_start_speed": 72.3,
+      "ivb": 5.166666666666667,
+      "hb": -4.3,
+      "release_pos_z": 5.983976558349511,
+      "release_pos_x": 2.3095839108387217,
+      "extension": 4.769587022131197,
+      "pitches": 12,
+      "whiffs": 0,
+      "swings": 5,
+      "spin_rate": 2263,
+      "swing_miss_percent": 0,
+      "arm_angle": 26.6,
+      "barrels_per_pa_percent": 0,
+      "hardhit_percent": 25,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

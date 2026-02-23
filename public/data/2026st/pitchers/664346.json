@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "664346",
+  "pitcher_name": "Carlos Guzman",
+  "mlbam_id": "664346",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 11,
+      "pitch_percent": 0.4583333333333333,
+      "rhh_percent": 0.4666666666666667,
+      "lhh_percent": 0.4444444444444444,
+      "start_speed": 87.39090909090909,
+      "max_start_speed": 89.5,
+      "ivb": 8.654545454545456,
+      "hb": -3.3636363636363638,
+      "release_pos_z": 5.336298374050821,
+      "release_pos_x": 2.0554389158898734,
+      "extension": 6.781738176067297,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 11,
+      "pitch_percent": 0.4583333333333333,
+      "rhh_percent": 0.4,
+      "lhh_percent": 0.5555555555555556,
+      "start_speed": 94.0909090909091,
+      "max_start_speed": 95.9,
+      "ivb": 17.03636363636364,
+      "hb": 11.309090909090909,
+      "release_pos_z": 5.470206528201192,
+      "release_pos_x": 1.8512058112506955,
+      "extension": 6.828357518210564,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 2,
+      "pitch_percent": 0.08333333333333333,
+      "rhh_percent": 0.13333333333333333,
+      "lhh_percent": 0,
+      "start_speed": 84.8,
+      "max_start_speed": 84.8,
+      "ivb": 4.4,
+      "hb": -7.65,
+      "release_pos_z": 5.324924081712729,
+      "release_pos_x": 1.965290578708732,
+      "extension": 6.684350671885512,
+      "active_spin_percent": null
+    }
+  ]
+}

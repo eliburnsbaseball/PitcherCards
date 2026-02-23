@@ -1,0 +1,34 @@
+{
+  "pitcher_id": "700675",
+  "pitcher_name": "Jimmy Kingsbury",
+  "mlbam_id": "700675",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 1,
+      "pitch_percent": 1,
+      "rhh_percent": null,
+      "lhh_percent": 1,
+      "start_speed": 88.7,
+      "max_start_speed": 88.7,
+      "ivb": 12.1,
+      "hb": 2.9,
+      "release_pos_z": 5.396418567379275,
+      "release_pos_x": 0.845861192991596,
+      "extension": 5.853245454778284,
+      "pitches": 1,
+      "whiffs": 0,
+      "swings": 1,
+      "spin_rate": 2192,
+      "swing_miss_percent": 0,
+      "arm_angle": null,
+      "barrels_per_pa_percent": 0,
+      "hardhit_percent": 0,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

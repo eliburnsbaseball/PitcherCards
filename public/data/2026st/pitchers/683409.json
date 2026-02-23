@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "683409",
+  "pitcher_name": "Angel Chivilli",
+  "mlbam_id": "683409",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 6,
+      "pitch_percent": 0.46153846153846156,
+      "rhh_percent": 0.2,
+      "lhh_percent": 0.625,
+      "start_speed": 87.38333333333333,
+      "max_start_speed": 88,
+      "ivb": 8.633333333333333,
+      "hb": 12.816666666666665,
+      "release_pos_z": 5.818318486976466,
+      "release_pos_x": 1.6428084051884737,
+      "extension": 6.043445091180409,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 4,
+      "pitch_percent": 0.3076923076923077,
+      "rhh_percent": 0.2,
+      "lhh_percent": 0.375,
+      "start_speed": 95.9,
+      "max_start_speed": 96.3,
+      "ivb": 9.8,
+      "hb": 16.1,
+      "release_pos_z": 5.71519645994683,
+      "release_pos_x": 1.6878060666630958,
+      "extension": 6.178830011836212,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 3,
+      "pitch_percent": 0.23076923076923078,
+      "rhh_percent": 0.6,
+      "lhh_percent": 0,
+      "start_speed": 89.06666666666666,
+      "max_start_speed": 90.3,
+      "ivb": 6.6000000000000005,
+      "hb": -1.6666666666666667,
+      "release_pos_z": 5.843313326027172,
+      "release_pos_x": 1.7502447275416806,
+      "extension": 5.9471184497053216,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "660644",
+  "pitcher_name": "Vidal Bruján",
+  "pitches": [
+    {
+      "code": "CS",
+      "title": "slow curve",
+      "color": "#0068FF",
+      "count": 1,
+      "pitch_percent": 0.043478260869565216,
+      "rhh_percent": 0,
+      "lhh_percent": 0.07692307692307693,
+      "start_speed": 51.3,
+      "max_start_speed": 51.3,
+      "ivb": -0.4,
+      "hb": -7.7,
+      "release_pos_z": 6.235173434697011,
+      "release_pos_x": 1.5530814135505127,
+      "extension": 3.9199071855155316,
+      "pitches": 1,
+      "whiffs": 0,
+      "swings": 0,
+      "spin_rate": 1505,
+      "swing_miss_percent": null,
+      "arm_angle": 37.1,
+      "barrels_per_pa_percent": null,
+      "hardhit_percent": null,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

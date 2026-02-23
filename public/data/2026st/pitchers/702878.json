@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "702878",
+  "pitcher_name": "Douglas Orellana",
+  "mlbam_id": "702878",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 6,
+      "pitch_percent": 0.5,
+      "rhh_percent": 0.4,
+      "lhh_percent": 1,
+      "start_speed": 85.46666666666668,
+      "max_start_speed": 86.6,
+      "ivb": -1.633333333333333,
+      "hb": -1.7833333333333332,
+      "release_pos_z": 6.487281044793879,
+      "release_pos_x": 0.9423778287521657,
+      "extension": 6.3953217839820695,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 6,
+      "pitch_percent": 0.5,
+      "rhh_percent": 0.6,
+      "lhh_percent": 0,
+      "start_speed": 93.90000000000002,
+      "max_start_speed": 94.9,
+      "ivb": 14,
+      "hb": -1.9166666666666667,
+      "release_pos_z": 6.503783827271838,
+      "release_pos_x": 1.2340062662890783,
+      "extension": 6.365141738925061,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "640902",
+  "pitcher_name": "Jhonny Pereda",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 9,
+      "pitch_percent": 0.12857142857142856,
+      "rhh_percent": 0.08823529411764706,
+      "lhh_percent": 0.16666666666666666,
+      "start_speed": 88.02222222222221,
+      "max_start_speed": 90.2,
+      "ivb": 15.822222222222223,
+      "hb": 9.566666666666666,
+      "release_pos_z": 5.960192845550285,
+      "release_pos_x": 1.3804962839459167,
+      "extension": 4.963678259806532,
+      "pitches": 9,
+      "whiffs": 1,
+      "swings": 5,
+      "spin_rate": 2153,
+      "swing_miss_percent": 20,
+      "arm_angle": 33.5,
+      "barrels_per_pa_percent": null,
+      "hardhit_percent": null,
+      "whiffs_per_pitch": 0.1111111111111111,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "680702",
+  "pitcher_name": "Joey Gerber",
+  "mlbam_id": "680702",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 2,
+      "pitch_percent": 0.5,
+      "rhh_percent": null,
+      "lhh_percent": 0.5,
+      "start_speed": 91.65,
+      "max_start_speed": 91.7,
+      "ivb": 16.799999999999997,
+      "hb": 8.5,
+      "release_pos_z": 5.287165490448894,
+      "release_pos_x": 1.3231767498885039,
+      "extension": 6.23447212469333,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 1,
+      "pitch_percent": 0.25,
+      "rhh_percent": null,
+      "lhh_percent": 0.25,
+      "start_speed": 88.6,
+      "max_start_speed": 88.6,
+      "ivb": 6.8,
+      "hb": -4.1,
+      "release_pos_z": 5.334319747912083,
+      "release_pos_x": 1.2772436169222874,
+      "extension": 5.927021849107204,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 1,
+      "pitch_percent": 0.25,
+      "rhh_percent": null,
+      "lhh_percent": 0.25,
+      "start_speed": 80.1,
+      "max_start_speed": 80.1,
+      "ivb": 2.4,
+      "hb": -18.1,
+      "release_pos_z": 5.233793318606854,
+      "release_pos_x": 1.5207721432855479,
+      "extension": 5.859832046235947,
+      "active_spin_percent": null
+    }
+  ]
+}

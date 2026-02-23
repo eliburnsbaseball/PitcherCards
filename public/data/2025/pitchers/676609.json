@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "676609",
+  "pitcher_name": "José Caballero",
+  "pitches": [
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 1,
+      "pitch_percent": 0.03571428571428571,
+      "rhh_percent": 0,
+      "lhh_percent": 0.058823529411764705,
+      "start_speed": 64.9,
+      "max_start_speed": 64.9,
+      "ivb": 3.7,
+      "hb": 1.7,
+      "release_pos_z": 5.340543359652971,
+      "release_pos_x": 2.4568980899377504,
+      "extension": 6.037766591234689,
+      "pitches": 1,
+      "whiffs": 0,
+      "swings": 0,
+      "spin_rate": 897,
+      "swing_miss_percent": null,
+      "arm_angle": 37.8,
+      "barrels_per_pa_percent": null,
+      "hardhit_percent": null,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

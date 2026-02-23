@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "657508",
+  "pitcher_name": "Mike Baumann",
+  "mlbam_id": "657508",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 10,
+      "pitch_percent": 0.47619047619047616,
+      "rhh_percent": 0.4444444444444444,
+      "lhh_percent": 0.5,
+      "start_speed": 95.49,
+      "max_start_speed": 96.2,
+      "ivb": 18.47,
+      "hb": 8.469999999999999,
+      "release_pos_z": 5.959386309063552,
+      "release_pos_x": 1.4800363686431837,
+      "extension": 6.598119980759601,
+      "active_spin_percent": null
+    },
+    {
+      "code": "KC",
+      "title": "knuckle curve",
+      "color": "#6236CD",
+      "count": 6,
+      "pitch_percent": 0.2857142857142857,
+      "rhh_percent": 0.3333333333333333,
+      "lhh_percent": 0.25,
+      "start_speed": 85.59999999999998,
+      "max_start_speed": 86.4,
+      "ivb": -5.316666666666667,
+      "hb": -0.7333333333333333,
+      "release_pos_z": 5.965889284978235,
+      "release_pos_x": 1.6201344732744014,
+      "extension": 6.423452106146087,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 5,
+      "pitch_percent": 0.23809523809523808,
+      "rhh_percent": 0.2222222222222222,
+      "lhh_percent": 0.25,
+      "start_speed": 89.53999999999999,
+      "max_start_speed": 90.3,
+      "ivb": 7.4399999999999995,
+      "hb": -3.62,
+      "release_pos_z": 5.891216411986854,
+      "release_pos_x": 1.7120385729002323,
+      "extension": 6.454120525378833,
+      "active_spin_percent": null
+    }
+  ]
+}

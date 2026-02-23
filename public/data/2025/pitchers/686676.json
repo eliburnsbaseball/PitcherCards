@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "686676",
+  "pitcher_name": "Korey Lee",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 2,
+      "pitch_percent": 0.045454545454545456,
+      "rhh_percent": 0.047619047619047616,
+      "lhh_percent": 0.043478260869565216,
+      "start_speed": 90.4,
+      "max_start_speed": 91.3,
+      "ivb": 15.850000000000001,
+      "hb": 8.15,
+      "release_pos_z": 6.16702080447685,
+      "release_pos_x": 0.8894366564577749,
+      "extension": 6.001164731678296,
+      "pitches": 2,
+      "whiffs": 0,
+      "swings": 2,
+      "spin_rate": 1969,
+      "swing_miss_percent": 0,
+      "arm_angle": 46.1,
+      "barrels_per_pa_percent": 50,
+      "hardhit_percent": 100,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

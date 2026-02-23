@@ -1,0 +1,34 @@
+{
+  "pitcher_id": "682754",
+  "pitcher_name": "Teofilo Mendez",
+  "mlbam_id": "682754",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 3,
+      "pitch_percent": 1,
+      "rhh_percent": null,
+      "lhh_percent": 1,
+      "start_speed": 93.76666666666667,
+      "max_start_speed": 93.9,
+      "ivb": 13.033333333333333,
+      "hb": 5.7,
+      "release_pos_z": 5.512518656919112,
+      "release_pos_x": 0.589382350760032,
+      "extension": 6.450944693751648,
+      "pitches": 3,
+      "whiffs": 0,
+      "swings": 1,
+      "spin_rate": 2223,
+      "swing_miss_percent": 0,
+      "arm_angle": null,
+      "barrels_per_pa_percent": 0,
+      "hardhit_percent": 100,
+      "whiffs_per_pitch": 0,
+      "active_spin_percent": null
+    }
+  ]
+}

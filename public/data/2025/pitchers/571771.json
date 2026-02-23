@@ -1,0 +1,32 @@
+{
+  "pitcher_id": "571771",
+  "pitcher_name": "Enrique Hernández",
+  "pitches": [
+    {
+      "code": "CS",
+      "title": "slow curve",
+      "color": "#0068FF",
+      "count": 51,
+      "pitch_percent": 0.408,
+      "rhh_percent": 0.45454545454545453,
+      "lhh_percent": 0.3559322033898305,
+      "start_speed": 51.543137254901964,
+      "max_start_speed": 59.2,
+      "ivb": 16.821568627450983,
+      "hb": -16.88823529411765,
+      "release_pos_z": 6.790818810791724,
+      "release_pos_x": 3.123193547924116,
+      "extension": 4.559182990015623,
+      "pitches": 51,
+      "whiffs": 3,
+      "swings": 18,
+      "spin_rate": 1164,
+      "swing_miss_percent": 16.7,
+      "arm_angle": 64.7,
+      "barrels_per_pa_percent": 0,
+      "hardhit_percent": 15.384615384615385,
+      "whiffs_per_pitch": 0.058823529411764705,
+      "active_spin_percent": null
+    }
+  ]
+}

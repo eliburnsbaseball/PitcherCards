@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "657612",
+  "pitcher_name": "Tim Hill",
+  "mlbam_id": "657612",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 9,
+      "pitch_percent": 0.6,
+      "rhh_percent": 0.6,
+      "lhh_percent": 0.6,
+      "start_speed": 87.14444444444445,
+      "max_start_speed": 88.4,
+      "ivb": -6.922222222222222,
+      "hb": 15.133333333333333,
+      "release_pos_z": 2.907934784499972,
+      "release_pos_x": 3.831294879233239,
+      "extension": 6.407667533432392,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 3,
+      "pitch_percent": 0.2,
+      "rhh_percent": 0.3,
+      "lhh_percent": 0,
+      "start_speed": 88.5,
+      "max_start_speed": 89,
+      "ivb": 3.0666666666666664,
+      "hb": 17,
+      "release_pos_z": 3.2346983008726493,
+      "release_pos_x": 3.6712020260262492,
+      "extension": 6.3759325362640284,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 3,
+      "pitch_percent": 0.2,
+      "rhh_percent": 0.1,
+      "lhh_percent": 0.4,
+      "start_speed": 76.96666666666665,
+      "max_start_speed": 78.5,
+      "ivb": 6.766666666666667,
+      "hb": -2.9333333333333336,
+      "release_pos_z": 3.1309728769004828,
+      "release_pos_x": 3.6064257760871476,
+      "extension": 6.5088165590283324,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -43,7 +43,7 @@ type PitchOut = {
   release_pos_x: number;
   extension: number;
 
-  // From original pitch-type CSVs
+  // From savant pitch-type CSVs
   spin_rate?: number | null;
   whiffs_per_pitch?: number | null;
   swing_miss_percent?: number | null;
@@ -51,7 +51,7 @@ type PitchOut = {
   barrels_per_pa_percent?: number | null;
   hardhit_percent?: number | null;
 
-  // From active-spin.csv (spin efficiency, 0..100)
+  // From active-spin.csv (0..100)
   active_spin_percent?: number | null;
 
   // Helpful raw totals
@@ -61,8 +61,10 @@ type PitchOut = {
 };
 
 type PitcherOut = {
-  pitcher_id: string;
+  pitcher_id: string; // dataset primary key (usually MLBAM, but not assumed)
   pitcher_name: string;
+  mlbam_id?: string | null; // used for headshot/team lookups
+  arm_angle_source?: "dataset" | "2025"; // when 2026st borrows arm angle
   pitches: PitchOut[];
 };
 
@@ -73,12 +75,12 @@ function readCsvFile<T = any>(filePath: string): T[] {
     dynamicTyping: false,
     skipEmptyLines: true,
   });
-  if ((parsed as any).errors?.length) {
-    console.warn(
-      `CSV parse warnings for ${filePath}:`,
-      (parsed as any).errors.slice(0, 3)
-    );
+
+  const errs = (parsed as any).errors;
+  if (errs?.length) {
+    console.warn(`CSV parse warnings for ${filePath}:`, errs.slice(0, 3));
   }
+
   return (parsed.data as any[]).filter((r) => r && Object.keys(r).length > 0);
 }
 
@@ -105,17 +107,44 @@ function ensureDir(p: string) {
   fs.mkdirSync(p, { recursive: true });
 }
 
+function normalizeKey(s: string) {
+  return (s ?? "")
+    .toString()
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, "_")
+    .replace(/[^a-z0-9_]/g, "");
+}
+
+function normalizeName(name: string) {
+  return (name ?? "")
+    .toLowerCase()
+    .replace(/\./g, "")
+    .replace(/'/g, "")
+    .replace(/-/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function guessSavantFileForCode(rawDir: string, code: PitchCode): string | null {
   const files = fs.readdirSync(rawDir);
+  // supports savant_2026st_FF.csv, savant_data_slider_SL.csv, etc
   const match = files.find((f) =>
     f.toLowerCase().endsWith(`_${code.toLowerCase()}.csv`)
   );
   return match ? path.join(rawDir, match) : null;
 }
 
+/**
+ * Build enrichment map:
+ *  pitcher_id -> pitch_code -> metrics
+ *
+ * Also builds name->player_id mapping from whatever name column exists
+ * in these savant exports (player_name/name/pitcher_name).
+ */
 function buildEnrichmentMap(rawDir: string) {
-  // Map: pitcher_id -> pitch_code -> enrichment metrics
   const enrich = new Map<string, Map<PitchCode, Partial<PitchOut>>>();
+  const nameToId = new Map<string, string>();
 
   for (const code of ALL_PITCH_CODES) {
     const file = guessSavantFileForCode(rawDir, code);
@@ -126,15 +155,42 @@ function buildEnrichmentMap(rawDir: string) {
       continue;
     }
 
+    // Empty file guard (your FO/SC/CS sometimes)
+    const stat = fs.statSync(file);
+    if (stat.size < 10) {
+      console.warn(`⚠️ Savant CSV for ${code} is empty (${path.basename(file)}). Skipping.`);
+      continue;
+    }
+
     const rows = readCsvFile<SavantRow>(file);
+    if (!rows.length) continue;
+
+    // detect columns
+    const keys = Object.keys(rows[0]);
+    const nk = keys.map(normalizeKey);
+
+    const idKey =
+      keys[nk.findIndex((k) =>
+        ["player_id", "pitcher_id", "mlbam_id", "id", "entity_id"].includes(k)
+      )] ?? "player_id";
+
+    const nameKey =
+      keys[nk.findIndex((k) =>
+        ["player_name", "pitcher_name", "name", "player"].includes(k)
+      )] ?? null;
 
     for (const r of rows) {
-      const pitcherId = (r["player_id"] ?? "").toString().trim();
+      const pitcherId = String((r as any)[idKey] ?? "").trim();
       if (!pitcherId) continue;
 
-      const pitches = numOrNull(r["pitches"]);
-      const whiffs = numOrNull(r["whiffs"]);
-      const swings = numOrNull(r["swings"]);
+      if (nameKey) {
+        const nm = String((r as any)[nameKey] ?? "").trim();
+        if (nm) nameToId.set(normalizeName(nm), pitcherId);
+      }
+
+      const pitches = numOrNull((r as any)["pitches"]);
+      const whiffs = numOrNull((r as any)["whiffs"]);
+      const swings = numOrNull((r as any)["swings"]);
 
       const whiffsPerPitch =
         pitches && pitches > 0 && whiffs !== null ? whiffs / pitches : null;
@@ -143,11 +199,11 @@ function buildEnrichmentMap(rawDir: string) {
         pitches,
         whiffs,
         swings,
-        spin_rate: numOrNull(r["spin_rate"]),
-        swing_miss_percent: numOrNull(r["swing_miss_percent"]),
-        arm_angle: numOrNull(r["arm_angle"]),
-        barrels_per_pa_percent: numOrNull(r["barrels_per_pa_percent"]),
-        hardhit_percent: numOrNull(r["hardhit_percent"]),
+        spin_rate: numOrNull((r as any)["spin_rate"]),
+        swing_miss_percent: numOrNull((r as any)["swing_miss_percent"]),
+        arm_angle: numOrNull((r as any)["arm_angle"]),
+        barrels_per_pa_percent: numOrNull((r as any)["barrels_per_pa_percent"]),
+        hardhit_percent: numOrNull((r as any)["hardhit_percent"]),
         whiffs_per_pitch: whiffsPerPitch,
       };
 
@@ -156,16 +212,7 @@ function buildEnrichmentMap(rawDir: string) {
     }
   }
 
-  return enrich;
-}
-
-function normalizeKey(s: string) {
-  return (s ?? "")
-    .toString()
-    .trim()
-    .toLowerCase()
-    .replace(/\s+/g, "_")
-    .replace(/[^a-z0-9_]/g, "");
+  return { enrich, nameToId };
 }
 
 /**
@@ -178,57 +225,41 @@ const ACTIVE_SPIN_PITCHNAME_TO_CODE: Record<string, PitchCode> = {
   four_seam: "FF",
   "4seam": "FF",
   ff: "FF",
-
   sinker: "SI",
   si: "SI",
-
   cutter: "FC",
   fc: "FC",
-
   changeup: "CH",
   ch: "CH",
-
   splitter: "FS",
   fs: "FS",
-
   forkball: "FO",
   fo: "FO",
-
   screwball: "SC",
   sc: "SC",
-
   curve: "CU",
   curveball: "CU",
   cu: "CU",
-
   knucklecurve: "KC",
   knuckle_curve: "KC",
   kc: "KC",
-
   slowcurve: "CS",
   slow_curve: "CS",
   cs: "CS",
-
   slider: "SL",
   sl: "SL",
-
   sweeper: "ST",
   st: "ST",
-
   slurve: "SV",
   sv: "SV",
 };
 
 function buildActiveSpinMap(rawDir: string) {
-  // Map: pitcher_id -> pitch_code -> active spin %
-  // If multiple rows per pitcher exist, we average by pitch.
   const sums = new Map<string, Map<PitchCode, { sum: number; n: number }>>();
-
   const file = path.join(rawDir, "active-spin.csv");
+
   if (!fs.existsSync(file)) {
-    console.warn(
-      `⚠️ No active-spin.csv found at ${file}. Active Spin% will be blank (—).`
-    );
+    console.warn(`⚠️ No active-spin.csv found at ${file}. Active Spin% will be blank (—).`);
     return new Map<string, Map<PitchCode, number>>();
   }
 
@@ -238,11 +269,9 @@ function buildActiveSpinMap(rawDir: string) {
     return new Map<string, Map<PitchCode, number>>();
   }
 
-  const sample = rows[0];
-  const keys = Object.keys(sample);
-  const normKeys = keys.map((k) => normalizeKey(k));
+  const keys = Object.keys(rows[0]);
+  const nk = keys.map(normalizeKey);
 
-  // ✅ include entity_id (your file)
   const acceptableIdKeys = new Set([
     "player_id",
     "pitcher_id",
@@ -255,7 +284,7 @@ function buildActiveSpinMap(rawDir: string) {
 
   let idKey: string | null = null;
   for (let i = 0; i < keys.length; i++) {
-    if (acceptableIdKeys.has(normKeys[i])) {
+    if (acceptableIdKeys.has(nk[i])) {
       idKey = keys[i];
       break;
     }
@@ -270,10 +299,7 @@ function buildActiveSpinMap(rawDir: string) {
     return new Map<string, Map<PitchCode, number>>();
   }
 
-  const activeCols = keys.filter((k) =>
-    normalizeKey(k).startsWith("active_spin_")
-  );
-
+  const activeCols = keys.filter((k) => normalizeKey(k).startsWith("active_spin_"));
   if (!activeCols.length) {
     console.warn(
       `⚠️ active-spin.csv: No columns starting with "active_spin_". Found columns: ${keys
@@ -284,16 +310,16 @@ function buildActiveSpinMap(rawDir: string) {
   }
 
   for (const r of rows) {
-    const pitcherId = String(r[idKey] ?? "").trim();
+    const pitcherId = String((r as any)[idKey] ?? "").trim();
     if (!pitcherId) continue;
 
     for (const col of activeCols) {
-      const norm = normalizeKey(col); // active_spin_fourseam
-      const pitchName = norm.replace(/^active_spin_/, ""); // fourseam
+      const norm = normalizeKey(col);
+      const pitchName = norm.replace(/^active_spin_/, "");
       const code = ACTIVE_SPIN_PITCHNAME_TO_CODE[pitchName];
       if (!code) continue;
 
-      const val = numOrNull(r[col]);
+      const val = numOrNull((r as any)[col]);
       if (val == null) continue;
 
       if (!sums.has(pitcherId)) sums.set(pitcherId, new Map());
@@ -315,39 +341,119 @@ function buildActiveSpinMap(rawDir: string) {
     if (m.size) out.set(pid, m);
   }
 
-  console.log(
-    `🌀 active-spin: idKey="${idKey}", activeCols=${activeCols.length}, mappedPitchers=${out.size}`
-  );
-
+  console.log(`🌀 active-spin: idKey="${idKey}", activeCols=${activeCols.length}, mappedPitchers=${out.size}`);
   return out;
 }
 
+/**
+ * Build pitcher_id -> avg arm_angle from data/raw/2025 savant files.
+ * Used as fallback for 2026st when those exports don't include arm_angle.
+ */
+function buildArmAngle2025FallbackMap(raw2025Dir: string): Map<string, number> {
+  const sums = new Map<string, { sum: number; n: number }>();
+
+  if (!fs.existsSync(raw2025Dir)) {
+    console.warn(`⚠️ No 2025 raw dir at ${raw2025Dir}; cannot fallback arm angles.`);
+    return new Map();
+  }
+
+  for (const code of ALL_PITCH_CODES) {
+    const file = guessSavantFileForCode(raw2025Dir, code);
+    if (!file) continue;
+
+    const stat = fs.statSync(file);
+    if (stat.size < 10) continue;
+
+    const rows = readCsvFile<SavantRow>(file);
+    if (!rows.length) continue;
+
+    const keys = Object.keys(rows[0]);
+    const nk = keys.map(normalizeKey);
+    const idKey =
+      keys[nk.findIndex((k) =>
+        ["player_id", "pitcher_id", "mlbam_id", "id", "entity_id"].includes(k)
+      )] ?? "player_id";
+
+    for (const r of rows) {
+      const pid = String((r as any)[idKey] ?? "").trim();
+      if (!pid) continue;
+
+      const a = numOrNull((r as any)["arm_angle"]);
+      if (a == null) continue;
+
+      const cur = sums.get(pid) ?? { sum: 0, n: 0 };
+      cur.sum += a;
+      cur.n += 1;
+      sums.set(pid, cur);
+    }
+  }
+
+  const out = new Map<string, number>();
+  for (const [pid, agg] of sums.entries()) {
+    if (agg.n > 0) out.set(pid, agg.sum / agg.n);
+  }
+  console.log(`🧭 arm-angle-2025 fallback map: ${out.size} pitchers`);
+  return out;
+}
+
+function datasetKeyFromArg(arg: string | undefined): "2025" | "2026st" {
+  if (!arg) return "2025";
+  const a = arg.toLowerCase();
+  if (a === "2025") return "2025";
+  if (a === "2026" || a === "2026st" || a === "st" || a === "spring") return "2026st";
+  return "2025";
+}
+
 function main() {
+  const dataset = datasetKeyFromArg(process.argv[2]);
   const repoRoot = process.cwd();
-  const rawDir = path.join(repoRoot, "data", "raw");
+
+  const rawDir = path.join(repoRoot, "data", "raw", dataset);
+
+  if (!fs.existsSync(rawDir)) {
+    console.log(`ℹ️ No data/raw/${dataset} folder yet — skipping ${dataset} build.`);
+    return;
+  }
 
   const combinedPath = path.join(rawDir, "pitchmovementdata.csv");
   if (!fs.existsSync(combinedPath)) {
-    throw new Error(`Missing combined CSV at: ${combinedPath}`);
+    console.warn(`⚠️ [${dataset}] Missing combined CSV at: ${combinedPath}. Skipping dataset.`);
+    return;
   }
 
   const combinedRows = readCsvFile<CombinedRow>(combinedPath);
 
-  const enrichMap = buildEnrichmentMap(rawDir);
+  const { enrich: enrichMap, nameToId } = buildEnrichmentMap(rawDir);
   const activeSpinMap = buildActiveSpinMap(rawDir);
+
+  const armAngle2025 =
+    dataset === "2026st"
+      ? buildArmAngle2025FallbackMap(path.join(repoRoot, "data", "raw", "2025"))
+      : new Map<string, number>();
 
   const pitchers = new Map<string, PitcherOut>();
 
   for (const r of combinedRows) {
-    const pitcherId = String(r.pitcher_id).trim();
-    const pitcherName = (r.pitcher_name ?? "").toString().trim();
-    const code = safePitchCode((r.pitch_type ?? "").toString());
+    const pitcherId = String(r.pitcher_id ?? "").trim();
+    const pitcherName = String(r.pitcher_name ?? "").trim();
+    const code = safePitchCode(String(r.pitch_type ?? ""));
+
     if (!pitcherId || !pitcherName || !code) continue;
+
+    // Determine mlbam_id:
+    // - For 2025: pitcherId is already MLBAM id in your existing pipeline
+    // - For 2026st: try name-based mapping from Savant exports; fallback to pitcherId
+    const mlbamId =
+      dataset === "2026st"
+        ? (nameToId.get(normalizeName(pitcherName)) ?? pitcherId)
+        : pitcherId;
 
     if (!pitchers.has(pitcherId)) {
       pitchers.set(pitcherId, {
         pitcher_id: pitcherId,
         pitcher_name: pitcherName,
+        mlbam_id: mlbamId,
+        arm_angle_source: "dataset",
         pitches: [],
       });
     }
@@ -370,26 +476,67 @@ function main() {
       extension: toNum(r.extension),
     };
 
-    const enrichForPitcher = enrichMap.get(pitcherId);
-    const enrich = enrichForPitcher?.get(code);
-    if (enrich) Object.assign(base, enrich);
+    // Merge enrichment:
+    // Try dataset pitcherId first, then mlbamId (helps if combined id differs)
+    const tryIds = [pitcherId, mlbamId].filter(Boolean) as string[];
+    for (const pid of tryIds) {
+      const enrichForPitcher = enrichMap.get(pid);
+      const enrich = enrichForPitcher?.get(code);
+      if (enrich) {
+        Object.assign(base, enrich);
+        break;
+      }
+    }
 
-    const spinForPitcher = activeSpinMap.get(pitcherId);
-    base.active_spin_percent = spinForPitcher?.get(code) ?? null;
+    // Active Spin%
+    let aSpin: number | null = null;
+    for (const pid of tryIds) {
+      const spinForPitcher = activeSpinMap.get(pid);
+      const v = spinForPitcher?.get(code);
+      if (v != null) {
+        aSpin = v;
+        break;
+      }
+    }
+    base.active_spin_percent = aSpin;
 
     pitchers.get(pitcherId)!.pitches.push(base);
   }
 
+  // 2026st arm angle fallback:
+  // If a pitcher has no arm_angle values at all, borrow their 2025 avg and stamp it
+  if (dataset === "2026st") {
+    for (const p of pitchers.values()) {
+      const hasAnyArm = p.pitches.some((x) => x.arm_angle != null);
+      if (hasAnyArm) continue;
+
+      const mlbam = p.mlbam_id ? String(p.mlbam_id) : null;
+      const fallback = mlbam ? armAngle2025.get(mlbam) : undefined;
+      if (fallback == null) continue;
+
+      for (const pitch of p.pitches) {
+        pitch.arm_angle = fallback;
+      }
+      p.arm_angle_source = "2025";
+    }
+  }
+
+  // Sort each pitch list by usage desc
   for (const p of pitchers.values()) {
     p.pitches.sort((a, b) => (b.pitch_percent ?? 0) - (a.pitch_percent ?? 0));
   }
 
-  const outDir = path.join(repoRoot, "public", "data");
+  // Output locations:
+  const outDir = path.join(repoRoot, "public", "data", dataset);
   const outPitchersDir = path.join(outDir, "pitchers");
   ensureDir(outPitchersDir);
 
+  // Dropdown index (keep only what UI needs)
   const index = Array.from(pitchers.values())
-    .map((p) => ({ pitcher_id: p.pitcher_id, pitcher_name: p.pitcher_name }))
+    .map((p) => ({
+      pitcher_id: p.pitcher_id,
+      pitcher_name: p.pitcher_name,
+    }))
     .sort((a, b) => a.pitcher_name.localeCompare(b.pitcher_name));
 
   fs.writeFileSync(
@@ -398,6 +545,7 @@ function main() {
     "utf8"
   );
 
+  // One JSON per pitcher
   for (const p of pitchers.values()) {
     fs.writeFileSync(
       path.join(outPitchersDir, `${p.pitcher_id}.json`),
@@ -406,28 +554,23 @@ function main() {
     );
   }
 
+  // Reporting
   const totalPitchers = index.length;
   const totalPitchRows = combinedRows.length;
 
   const pitchersWithAnyEnrich = Array.from(pitchers.values()).filter((p) =>
-    p.pitches.some((x) => x.spin_rate !== undefined || x.arm_angle !== undefined)
+    p.pitches.some((x) => x.spin_rate !== undefined || x.whiffs_per_pitch !== undefined)
   ).length;
 
   const pitchersWithAnyActiveSpin = Array.from(pitchers.values()).filter((p) =>
     p.pitches.some((x) => x.active_spin_percent != null)
   ).length;
 
-  console.log(
-    `✅ Built JSON for ${totalPitchers} pitchers from ${totalPitchRows} combined rows.`
-  );
-  console.log(
-    `ℹ️ Pitchers with at least some enrichment: ${pitchersWithAnyEnrich}/${totalPitchers}`
-  );
-  console.log(
-    `🌀 Pitchers with at least some Active Spin%: ${pitchersWithAnyActiveSpin}/${totalPitchers}`
-  );
-  console.log(`📄 Wrote: public/data/pitchers_index.json`);
-  console.log(`📁 Wrote: public/data/pitchers/{pitcher_id}.json`);
+  console.log(`✅ [${dataset}] Built JSON for ${totalPitchers} pitchers from ${totalPitchRows} combined rows.`);
+  console.log(`ℹ️ [${dataset}] Pitchers with some enrichment: ${pitchersWithAnyEnrich}/${totalPitchers}`);
+  console.log(`🌀 [${dataset}] Pitchers with some Active Spin%: ${pitchersWithAnyActiveSpin}/${totalPitchers}`);
+  console.log(`📄 [${dataset}] Wrote: public/data/${dataset}/pitchers_index.json`);
+  console.log(`📁 [${dataset}] Wrote: public/data/${dataset}/pitchers/{pitcher_id}.json`);
 }
 
 main();

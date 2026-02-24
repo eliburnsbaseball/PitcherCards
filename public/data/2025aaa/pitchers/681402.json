@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "681402",
+  "pitcher_name": "Gus Varland",
+  "mlbam_id": "681402",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 74,
+      "pitch_percent": 0.6727272727272727,
+      "rhh_percent": 0.7142857142857143,
+      "lhh_percent": 0.6,
+      "start_speed": 94.84324324324325,
+      "max_start_speed": 96.5,
+      "ivb": 19.158108108108106,
+      "hb": 7.366216216216215,
+      "release_pos_z": 5.432451307508654,
+      "release_pos_x": 1.1144060251421144,
+      "extension": 6.324638949997812,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 22,
+      "pitch_percent": 0.2,
+      "rhh_percent": 0.2857142857142857,
+      "lhh_percent": 0.05,
+      "start_speed": 89.17272727272724,
+      "max_start_speed": 91,
+      "ivb": 4.363636363636363,
+      "hb": -3.5000000000000013,
+      "release_pos_z": 5.437831909089984,
+      "release_pos_x": 1.2121728806694287,
+      "extension": 6.253186730107222,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 14,
+      "pitch_percent": 0.12727272727272726,
+      "rhh_percent": 0,
+      "lhh_percent": 0.35,
+      "start_speed": 91.16428571428571,
+      "max_start_speed": 92.3,
+      "ivb": 5.857142857142857,
+      "hb": 12.664285714285713,
+      "release_pos_z": 5.285556897958759,
+      "release_pos_x": 1.3582717380399194,
+      "extension": 6.343331491618912,
+      "active_spin_percent": null
+    }
+  ]
+}

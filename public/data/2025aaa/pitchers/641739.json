@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "641739",
+  "pitcher_name": "Rob Kaminsky",
+  "mlbam_id": "641739",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 8,
+      "pitch_percent": 0.5,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.5,
+      "start_speed": 90.35,
+      "max_start_speed": 91.3,
+      "ivb": 0.3375,
+      "hb": 15.625,
+      "release_pos_z": 5.419897331850947,
+      "release_pos_x": 2.181143008386843,
+      "extension": 5.510388998579203,
+      "active_spin_percent": null
+    },
+    {
+      "code": "KC",
+      "title": "knuckle curve",
+      "color": "#6236CD",
+      "count": 7,
+      "pitch_percent": 0.4375,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.4,
+      "start_speed": 86.97142857142856,
+      "max_start_speed": 88.9,
+      "ivb": 0.6285714285714287,
+      "hb": 1.5,
+      "release_pos_z": 5.288636212085527,
+      "release_pos_x": 2.1377243972665605,
+      "extension": 5.621749899243279,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 1,
+      "pitch_percent": 0.0625,
+      "rhh_percent": 0,
+      "lhh_percent": 0.1,
+      "start_speed": 89.7,
+      "max_start_speed": 89.7,
+      "ivb": -1.3,
+      "hb": 2.6,
+      "release_pos_z": 5.523473093934122,
+      "release_pos_x": 2.155386371762827,
+      "extension": 5.4771197933880975,
+      "active_spin_percent": null
+    }
+  ]
+}

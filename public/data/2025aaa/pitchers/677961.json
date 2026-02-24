@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "677961",
+  "pitcher_name": "Cole Wilcox",
+  "mlbam_id": "677961",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 395,
+      "pitch_percent": 0.45664739884393063,
+      "rhh_percent": 0.4366576819407008,
+      "lhh_percent": 0.4716599190283401,
+      "start_speed": 95.75113924050629,
+      "max_start_speed": 97.8,
+      "ivb": 8.649113924050623,
+      "hb": 15.749620253164546,
+      "release_pos_z": 5.6896437405912295,
+      "release_pos_x": 1.9673543847089163,
+      "extension": 6.256652416480544,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 362,
+      "pitch_percent": 0.4184971098265896,
+      "rhh_percent": 0.4123989218328841,
+      "lhh_percent": 0.4230769230769231,
+      "start_speed": 86.33370165745852,
+      "max_start_speed": 89.5,
+      "ivb": -1.872375690607735,
+      "hb": -0.33895027624309404,
+      "release_pos_z": 5.737202632833636,
+      "release_pos_x": 1.966825562571101,
+      "extension": 6.211314708976135,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 108,
+      "pitch_percent": 0.12485549132947976,
+      "rhh_percent": 0.1509433962264151,
+      "lhh_percent": 0.10526315789473684,
+      "start_speed": 85.46481481481484,
+      "max_start_speed": 87.4,
+      "ivb": -5.143518518518516,
+      "hb": -10.244444444444442,
+      "release_pos_z": 5.758492437569754,
+      "release_pos_x": 2.0062583838843517,
+      "extension": 6.156929976561473,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "676881",
+  "pitcher_name": "Garrett Schoenle",
+  "mlbam_id": "676881",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 315,
+      "pitch_percent": 0.5932203389830508,
+      "rhh_percent": 0.6040955631399317,
+      "lhh_percent": 0.5798319327731093,
+      "start_speed": 92.77555555555557,
+      "max_start_speed": 96.4,
+      "ivb": 15.066984126984137,
+      "hb": 8.646666666666665,
+      "release_pos_z": 5.6265538103904476,
+      "release_pos_x": 1.9677086201035074,
+      "extension": 6.374629998494994,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 125,
+      "pitch_percent": 0.23540489642184556,
+      "rhh_percent": 0.08532423208191127,
+      "lhh_percent": 0.42016806722689076,
+      "start_speed": 81.41359999999999,
+      "max_start_speed": 85,
+      "ivb": -0.062400000000000025,
+      "hb": -9.820799999999998,
+      "release_pos_z": 5.307331474294926,
+      "release_pos_x": 2.137484654809391,
+      "extension": 6.352615845203429,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 91,
+      "pitch_percent": 0.1713747645951036,
+      "rhh_percent": 0.310580204778157,
+      "lhh_percent": 0,
+      "start_speed": 86.02637362637364,
+      "max_start_speed": 88.7,
+      "ivb": 3.442857142857142,
+      "hb": 14.652747252747249,
+      "release_pos_z": 5.390770107047276,
+      "release_pos_x": 2.137330843118205,
+      "extension": 6.406232644617949,
+      "active_spin_percent": null
+    }
+  ]
+}

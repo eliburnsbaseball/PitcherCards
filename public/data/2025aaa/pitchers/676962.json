@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "676962",
+  "pitcher_name": "Ben Brown",
+  "mlbam_id": "676962",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 66,
+      "pitch_percent": 0.5739130434782609,
+      "rhh_percent": 0.5921052631578947,
+      "lhh_percent": 0.5384615384615384,
+      "start_speed": 95.99848484848482,
+      "max_start_speed": 97.9,
+      "ivb": 15.584848484848484,
+      "hb": 7.157575757575759,
+      "release_pos_z": 6.407615100352766,
+      "release_pos_x": 1.5852831965563638,
+      "extension": 6.666571546199017,
+      "active_spin_percent": null
+    },
+    {
+      "code": "KC",
+      "title": "knuckle curve",
+      "color": "#6236CD",
+      "count": 39,
+      "pitch_percent": 0.3391304347826087,
+      "rhh_percent": 0.3815789473684211,
+      "lhh_percent": 0.2564102564102564,
+      "start_speed": 87.52564102564101,
+      "max_start_speed": 89.9,
+      "ivb": -1.8153846153846154,
+      "hb": -1.7769230769230764,
+      "release_pos_z": 6.523985110597507,
+      "release_pos_x": 1.5371117604259854,
+      "extension": 6.463755522230252,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 10,
+      "pitch_percent": 0.08695652173913043,
+      "rhh_percent": 0.02631578947368421,
+      "lhh_percent": 0.20512820512820512,
+      "start_speed": 90.7,
+      "max_start_speed": 91.8,
+      "ivb": 8.430000000000001,
+      "hb": 9.7,
+      "release_pos_z": 6.396745373321335,
+      "release_pos_x": 1.6271091462799645,
+      "extension": 6.610815875954708,
+      "active_spin_percent": null
+    }
+  ]
+}

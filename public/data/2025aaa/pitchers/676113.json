@@ -1,0 +1,25 @@
+{
+  "pitcher_id": "676113",
+  "pitcher_name": "Zach DeLoach",
+  "mlbam_id": "676113",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 11,
+      "pitch_percent": 1,
+      "rhh_percent": 1,
+      "lhh_percent": 1,
+      "start_speed": 51.71818181818182,
+      "max_start_speed": 55.1,
+      "ivb": 19.09090909090909,
+      "hb": 3.127272727272727,
+      "release_pos_z": 7.505290840679702,
+      "release_pos_x": 0.11693495930697052,
+      "extension": 3.9381141893554665,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "642759",
+  "pitcher_name": "Julian Fernández",
+  "mlbam_id": "642759",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 580,
+      "pitch_percent": 0.6170212765957447,
+      "rhh_percent": 0.6640776699029126,
+      "lhh_percent": 0.56,
+      "start_speed": 97.28637931034477,
+      "max_start_speed": 101.4,
+      "ivb": 14.255344827586198,
+      "hb": 3.520689655172415,
+      "release_pos_z": 6.409097540945362,
+      "release_pos_x": 1.797937900855122,
+      "extension": 6.425168466176089,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 357,
+      "pitch_percent": 0.3797872340425532,
+      "rhh_percent": 0.3300970873786408,
+      "lhh_percent": 0.44,
+      "start_speed": 85.40532212885154,
+      "max_start_speed": 91.6,
+      "ivb": 6.317647058823527,
+      "hb": 4.094957983193279,
+      "release_pos_z": 6.265874861846521,
+      "release_pos_x": 1.9720246902119831,
+      "extension": 6.62937419279353,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 3,
+      "pitch_percent": 0.0031914893617021275,
+      "rhh_percent": 0.005825242718446602,
+      "lhh_percent": 0,
+      "start_speed": 94,
+      "max_start_speed": 95.1,
+      "ivb": 9.433333333333332,
+      "hb": 12.5,
+      "release_pos_z": 6.450240392830506,
+      "release_pos_x": 1.928069833955789,
+      "extension": 6.654009862132997,
+      "active_spin_percent": null
+    }
+  ]
+}

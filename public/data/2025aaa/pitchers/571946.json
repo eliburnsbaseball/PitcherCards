@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "571946",
+  "pitcher_name": "Shelby Miller",
+  "mlbam_id": "571946",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 10,
+      "pitch_percent": 0.5882352941176471,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.7142857142857143,
+      "start_speed": 95.49000000000002,
+      "max_start_speed": 97.1,
+      "ivb": 18.759999999999998,
+      "hb": 11.28,
+      "release_pos_z": 5.4071855803114515,
+      "release_pos_x": 1.3941305352002715,
+      "extension": 7.046023499074552,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 6,
+      "pitch_percent": 0.35294117647058826,
+      "rhh_percent": 0.4,
+      "lhh_percent": 0.2857142857142857,
+      "start_speed": 86.71666666666665,
+      "max_start_speed": 87.9,
+      "ivb": 2.65,
+      "hb": 16.183333333333334,
+      "release_pos_z": 5.451756081836607,
+      "release_pos_x": 1.520710694925014,
+      "extension": 6.947242909140921,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 1,
+      "pitch_percent": 0.058823529411764705,
+      "rhh_percent": 0.1,
+      "lhh_percent": 0,
+      "start_speed": 82.9,
+      "max_start_speed": 82.9,
+      "ivb": 2.3,
+      "hb": -17.3,
+      "release_pos_z": 5.382678939498735,
+      "release_pos_x": 1.61329290249954,
+      "extension": 6.853675312803999,
+      "active_spin_percent": null
+    }
+  ]
+}

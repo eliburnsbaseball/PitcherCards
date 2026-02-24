@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "605309",
+  "pitcher_name": "Keone Kela",
+  "mlbam_id": "605309",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 174,
+      "pitch_percent": 0.554140127388535,
+      "rhh_percent": 0.5139664804469274,
+      "lhh_percent": 0.6074074074074074,
+      "start_speed": 80.44597701149426,
+      "max_start_speed": 83.7,
+      "ivb": -7.852873563218393,
+      "hb": -1.8936781609195406,
+      "release_pos_z": 6.6948519681237455,
+      "release_pos_x": 1.2646565809284633,
+      "extension": 6.205446562533742,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 138,
+      "pitch_percent": 0.4394904458598726,
+      "rhh_percent": 0.4860335195530726,
+      "lhh_percent": 0.37777777777777777,
+      "start_speed": 93.44565217391307,
+      "max_start_speed": 96.7,
+      "ivb": 14.587681159420283,
+      "hb": 4.347101449275362,
+      "release_pos_z": 6.686018561869567,
+      "release_pos_x": 1.3671668551625078,
+      "extension": 6.198962251563241,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 2,
+      "pitch_percent": 0.006369426751592357,
+      "rhh_percent": 0,
+      "lhh_percent": 0.014814814814814815,
+      "start_speed": 85.25,
+      "max_start_speed": 86,
+      "ivb": 4.5,
+      "hb": 10.600000000000001,
+      "release_pos_z": 6.279162327599214,
+      "release_pos_x": 1.3746247243683496,
+      "extension": 6.073083671516976,
+      "active_spin_percent": null
+    }
+  ]
+}

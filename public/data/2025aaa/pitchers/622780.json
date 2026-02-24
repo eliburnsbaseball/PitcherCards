@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "622780",
+  "pitcher_name": "Angel Perdomo",
+  "mlbam_id": "622780",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 195,
+      "pitch_percent": 0.6842105263157895,
+      "rhh_percent": 0.6875,
+      "lhh_percent": 0.6815286624203821,
+      "start_speed": 91.95641025641031,
+      "max_start_speed": 95.4,
+      "ivb": 15.812820512820513,
+      "hb": 1.772307692307692,
+      "release_pos_z": 6.388413239348934,
+      "release_pos_x": 2.1446852562126772,
+      "extension": 6.364902612156089,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 80,
+      "pitch_percent": 0.2807017543859649,
+      "rhh_percent": 0.25,
+      "lhh_percent": 0.3057324840764331,
+      "start_speed": 83.18875,
+      "max_start_speed": 86.6,
+      "ivb": 1.7387500000000007,
+      "hb": -6.878750000000002,
+      "release_pos_z": 6.491183031291664,
+      "release_pos_x": 2.093084152568479,
+      "extension": 6.185781604953922,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 10,
+      "pitch_percent": 0.03508771929824561,
+      "rhh_percent": 0.0625,
+      "lhh_percent": 0.012738853503184714,
+      "start_speed": 88.35000000000001,
+      "max_start_speed": 91.2,
+      "ivb": 10.55,
+      "hb": 12.53,
+      "release_pos_z": 6.456308249573081,
+      "release_pos_x": 2.148043309093687,
+      "extension": 6.218473088336479,
+      "active_spin_percent": null
+    }
+  ]
+}

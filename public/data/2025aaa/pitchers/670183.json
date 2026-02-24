@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "670183",
+  "pitcher_name": "Garrett Acton",
+  "mlbam_id": "670183",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 697,
+      "pitch_percent": 0.6669856459330143,
+      "rhh_percent": 0.6486988847583643,
+      "lhh_percent": 0.6863905325443787,
+      "start_speed": 93.65136298421807,
+      "max_start_speed": 95.9,
+      "ivb": 19.54160688665712,
+      "hb": 2.5053084648493544,
+      "release_pos_z": 6.214684073803569,
+      "release_pos_x": 1.9440977450337673,
+      "extension": 5.899661211183629,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 286,
+      "pitch_percent": 0.2736842105263158,
+      "rhh_percent": 0.3345724907063197,
+      "lhh_percent": 0.20907297830374755,
+      "start_speed": 85.40839160839167,
+      "max_start_speed": 88.8,
+      "ivb": 4.667132867132863,
+      "hb": -5.139510489510492,
+      "release_pos_z": 6.1153424623004495,
+      "release_pos_x": 2.098552202773554,
+      "extension": 5.847554179742362,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 62,
+      "pitch_percent": 0.05933014354066986,
+      "rhh_percent": 0.016728624535315983,
+      "lhh_percent": 0.10453648915187377,
+      "start_speed": 85.82580645161295,
+      "max_start_speed": 87.8,
+      "ivb": 10.69838709677419,
+      "hb": 12.462903225806455,
+      "release_pos_z": 5.998406424114125,
+      "release_pos_x": 2.058609100989599,
+      "extension": 6.0240843074596615,
+      "active_spin_percent": null
+    }
+  ]
+}

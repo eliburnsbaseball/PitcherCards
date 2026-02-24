@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "518397",
+  "pitcher_name": "Scott Alexander",
+  "mlbam_id": "518397",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 64,
+      "pitch_percent": 0.5925925925925926,
+      "rhh_percent": 0.6323529411764706,
+      "lhh_percent": 0.525,
+      "start_speed": 91.60156250000001,
+      "max_start_speed": 94.1,
+      "ivb": 3.7484374999999996,
+      "hb": 14.721875,
+      "release_pos_z": 5.589686187605361,
+      "release_pos_x": 1.3318990446934504,
+      "extension": 6.202099336332943,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 25,
+      "pitch_percent": 0.23148148148148148,
+      "rhh_percent": 0.08823529411764706,
+      "lhh_percent": 0.475,
+      "start_speed": 83.624,
+      "max_start_speed": 85.8,
+      "ivb": -1.9520000000000002,
+      "hb": -3.1239999999999997,
+      "release_pos_z": 5.586245491453651,
+      "release_pos_x": 1.4303260240442004,
+      "extension": 6.150217907116416,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 19,
+      "pitch_percent": 0.17592592592592593,
+      "rhh_percent": 0.27941176470588236,
+      "lhh_percent": 0,
+      "start_speed": 83.63157894736842,
+      "max_start_speed": 84.7,
+      "ivb": 1.5526315789473681,
+      "hb": 10.552631578947368,
+      "release_pos_z": 5.581985806685854,
+      "release_pos_x": 1.2631314358416628,
+      "extension": 6.279639756061091,
+      "active_spin_percent": null
+    }
+  ]
+}

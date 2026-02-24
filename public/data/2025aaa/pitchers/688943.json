@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "688943",
+  "pitcher_name": "Shawn Rapp",
+  "mlbam_id": "688943",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 10,
+      "pitch_percent": 0.45454545454545453,
+      "rhh_percent": 0.42857142857142855,
+      "lhh_percent": 0.4666666666666667,
+      "start_speed": 87.85,
+      "max_start_speed": 88.7,
+      "ivb": 7.420000000000002,
+      "hb": 10.52,
+      "release_pos_z": 5.081721855950638,
+      "release_pos_x": 3.2443622309663014,
+      "extension": 6.183239082452493,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 10,
+      "pitch_percent": 0.45454545454545453,
+      "rhh_percent": 0.2857142857142857,
+      "lhh_percent": 0.5333333333333333,
+      "start_speed": 79.1,
+      "max_start_speed": 79.9,
+      "ivb": 5.36,
+      "hb": -14.16,
+      "release_pos_z": 4.9654530414474545,
+      "release_pos_x": 3.4339972590712646,
+      "extension": 6.1039246832566025,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 2,
+      "pitch_percent": 0.09090909090909091,
+      "rhh_percent": 0.2857142857142857,
+      "lhh_percent": 0,
+      "start_speed": 83.8,
+      "max_start_speed": 84.3,
+      "ivb": 1.15,
+      "hb": 14.2,
+      "release_pos_z": 4.870945748229051,
+      "release_pos_x": 3.4608254377436873,
+      "extension": 6.260587190838702,
+      "active_spin_percent": null
+    }
+  ]
+}

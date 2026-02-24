@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "519141",
+  "pitcher_name": "Drew Pomeranz",
+  "mlbam_id": "519141",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 124,
+      "pitch_percent": 0.7005649717514124,
+      "rhh_percent": 0.6666666666666666,
+      "lhh_percent": 0.8095238095238095,
+      "start_speed": 92.27661290322577,
+      "max_start_speed": 94.7,
+      "ivb": 17.57903225806451,
+      "hb": 2.0161290322580645,
+      "release_pos_z": 6.262593331949981,
+      "release_pos_x": 2.5128347832762117,
+      "extension": 5.82172182027151,
+      "active_spin_percent": null
+    },
+    {
+      "code": "KC",
+      "title": "knuckle curve",
+      "color": "#6236CD",
+      "count": 53,
+      "pitch_percent": 0.2994350282485876,
+      "rhh_percent": 0.3333333333333333,
+      "lhh_percent": 0.19047619047619047,
+      "start_speed": 81.99245283018868,
+      "max_start_speed": 84.2,
+      "ivb": -12.064150943396227,
+      "hb": -5.515094339622642,
+      "release_pos_z": 6.281620909359852,
+      "release_pos_x": 2.4944897724000548,
+      "extension": 5.739265615098835,
+      "active_spin_percent": null
+    }
+  ]
+}

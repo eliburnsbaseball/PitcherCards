@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "700183",
+  "pitcher_name": "Blake Holub",
+  "mlbam_id": "700183",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 436,
+      "pitch_percent": 0.558974358974359,
+      "rhh_percent": 0.5428015564202334,
+      "lhh_percent": 0.5902255639097744,
+      "start_speed": 94.03555045871558,
+      "max_start_speed": 96.5,
+      "ivb": 16.66582568807339,
+      "hb": -2.725229357798167,
+      "release_pos_z": 6.677333973732655,
+      "release_pos_x": 0.08642901493660417,
+      "extension": 6.882563645362027,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 337,
+      "pitch_percent": 0.43205128205128207,
+      "rhh_percent": 0.45525291828793774,
+      "lhh_percent": 0.38721804511278196,
+      "start_speed": 84.94925816023742,
+      "max_start_speed": 89.1,
+      "ivb": -3.608605341246288,
+      "hb": -3.1249258160237394,
+      "release_pos_z": 6.570019625447496,
+      "release_pos_x": 0.371499146004162,
+      "extension": 6.9346415894313544,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 7,
+      "pitch_percent": 0.008974358974358974,
+      "rhh_percent": 0.0019455252918287938,
+      "lhh_percent": 0.022556390977443608,
+      "start_speed": 87.98571428571428,
+      "max_start_speed": 90.4,
+      "ivb": 7.8,
+      "hb": 3.2428571428571433,
+      "release_pos_z": 6.372472787921341,
+      "release_pos_x": 0.8401960693773548,
+      "extension": 7.145279840814031,
+      "active_spin_percent": null
+    }
+  ]
+}

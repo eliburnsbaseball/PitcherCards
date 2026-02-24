@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "621237",
+  "pitcher_name": "José Alvarado",
+  "mlbam_id": "621237",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 44,
+      "pitch_percent": 0.6376811594202898,
+      "rhh_percent": 0.6410256410256411,
+      "lhh_percent": 0.6333333333333333,
+      "start_speed": 98.02045454545451,
+      "max_start_speed": 100.6,
+      "ivb": 11.85681818181818,
+      "hb": 13.60681818181818,
+      "release_pos_z": 6.543704388697477,
+      "release_pos_x": 1.4196349709303608,
+      "extension": 6.740575833208762,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 17,
+      "pitch_percent": 0.2463768115942029,
+      "rhh_percent": 0.23076923076923078,
+      "lhh_percent": 0.26666666666666666,
+      "start_speed": 90.98823529411764,
+      "max_start_speed": 93.5,
+      "ivb": 6.358823529411763,
+      "hb": -1.6999999999999997,
+      "release_pos_z": 6.659372429049148,
+      "release_pos_x": 1.2560986908502574,
+      "extension": 6.5333314266139055,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 8,
+      "pitch_percent": 0.11594202898550725,
+      "rhh_percent": 0.1282051282051282,
+      "lhh_percent": 0.1,
+      "start_speed": 84.52499999999999,
+      "max_start_speed": 85,
+      "ivb": -4.9625,
+      "hb": 1.0500000000000003,
+      "release_pos_z": 6.643373938572266,
+      "release_pos_x": 1.3076418070460558,
+      "extension": 6.501809492356666,
+      "active_spin_percent": null
+    }
+  ]
+}

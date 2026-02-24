@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "690914",
+  "pitcher_name": "Brody Moore",
+  "mlbam_id": "690914",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 21,
+      "pitch_percent": 0.6176470588235294,
+      "rhh_percent": 0.76,
+      "lhh_percent": 0.2222222222222222,
+      "start_speed": 34.9047619047619,
+      "max_start_speed": 44.2,
+      "ivb": 20.361904761904764,
+      "hb": 1.7000000000000002,
+      "release_pos_z": 7.455270454536266,
+      "release_pos_x": 0.6929610351047687,
+      "extension": 3.4947436537131154,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 10,
+      "pitch_percent": 0.29411764705882354,
+      "rhh_percent": 0.24,
+      "lhh_percent": 0.4444444444444444,
+      "start_speed": 45.17,
+      "max_start_speed": 57.7,
+      "ivb": 20.849999999999998,
+      "hb": 6.51,
+      "release_pos_z": 6.816902956912363,
+      "release_pos_x": 1.0478215260417423,
+      "extension": 4.4581474797856995,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 3,
+      "pitch_percent": 0.08823529411764706,
+      "rhh_percent": 0,
+      "lhh_percent": 0.3333333333333333,
+      "start_speed": 54.13333333333333,
+      "max_start_speed": 56.1,
+      "ivb": 17.000000000000004,
+      "hb": 12.633333333333333,
+      "release_pos_z": 6.221937543020207,
+      "release_pos_x": 1.4911303988839795,
+      "extension": 4.936067140389319,
+      "active_spin_percent": null
+    }
+  ]
+}

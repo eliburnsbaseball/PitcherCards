@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "677312",
+  "pitcher_name": "Zane Mills",
+  "mlbam_id": "677312",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 41,
+      "pitch_percent": 0.5256410256410257,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.5476190476190477,
+      "start_speed": 91.42682926829268,
+      "max_start_speed": 94.1,
+      "ivb": 10.356097560975611,
+      "hb": 13.402439024390244,
+      "release_pos_z": 5.781174222232871,
+      "release_pos_x": 1.4944842280754826,
+      "extension": 6.582186394067215,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 33,
+      "pitch_percent": 0.4230769230769231,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.35714285714285715,
+      "start_speed": 81.12424242424244,
+      "max_start_speed": 86.8,
+      "ivb": 0.2000000000000001,
+      "hb": -8.55151515151515,
+      "release_pos_z": 5.627381225977035,
+      "release_pos_x": 1.5873620517463929,
+      "extension": 6.572533304285341,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 4,
+      "pitch_percent": 0.05128205128205128,
+      "rhh_percent": 0,
+      "lhh_percent": 0.09523809523809523,
+      "start_speed": 86.75,
+      "max_start_speed": 88.2,
+      "ivb": 3.85,
+      "hb": 12.899999999999999,
+      "release_pos_z": 5.71831509902522,
+      "release_pos_x": 1.6095459752009145,
+      "extension": 6.50835970830753,
+      "active_spin_percent": null
+    }
+  ]
+}

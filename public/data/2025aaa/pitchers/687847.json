@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "687847",
+  "pitcher_name": "Marc Church",
+  "mlbam_id": "687847",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 72,
+      "pitch_percent": 0.5217391304347826,
+      "rhh_percent": 0.5384615384615384,
+      "lhh_percent": 0.5068493150684932,
+      "start_speed": 85.89861111111111,
+      "max_start_speed": 89.5,
+      "ivb": 5.073611111111112,
+      "hb": -3.1361111111111124,
+      "release_pos_z": 6.450911105819093,
+      "release_pos_x": 0.6049140580480183,
+      "extension": 6.798301536417992,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 63,
+      "pitch_percent": 0.45652173913043476,
+      "rhh_percent": 0.46153846153846156,
+      "lhh_percent": 0.4520547945205479,
+      "start_speed": 95.06349206349205,
+      "max_start_speed": 98.2,
+      "ivb": 15.080952380952379,
+      "hb": 2.773015873015874,
+      "release_pos_z": 6.454746494807999,
+      "release_pos_x": 0.37796963863438304,
+      "extension": 6.864609819198315,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 3,
+      "pitch_percent": 0.021739130434782608,
+      "rhh_percent": 0,
+      "lhh_percent": 0.0410958904109589,
+      "start_speed": 89.36666666666667,
+      "max_start_speed": 89.4,
+      "ivb": 9.466666666666667,
+      "hb": 2.3666666666666667,
+      "release_pos_z": 6.379790834508829,
+      "release_pos_x": 0.8296098281251686,
+      "extension": 6.985404495077717,
+      "active_spin_percent": null
+    }
+  ]
+}

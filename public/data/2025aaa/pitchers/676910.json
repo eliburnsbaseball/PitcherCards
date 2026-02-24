@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "676910",
+  "pitcher_name": "Matt Seelinger",
+  "mlbam_id": "676910",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 318,
+      "pitch_percent": 0.44166666666666665,
+      "rhh_percent": 0.41044776119402987,
+      "lhh_percent": 0.4811320754716981,
+      "start_speed": 92.4761006289308,
+      "max_start_speed": 95.1,
+      "ivb": 18.683333333333337,
+      "hb": 3.381761006289307,
+      "release_pos_z": 5.65201925865167,
+      "release_pos_x": 1.054192327211079,
+      "extension": 6.3496828093647535,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 208,
+      "pitch_percent": 0.28888888888888886,
+      "rhh_percent": 0.373134328358209,
+      "lhh_percent": 0.18238993710691823,
+      "start_speed": 85.60048076923076,
+      "max_start_speed": 89.7,
+      "ivb": 6.6879807692307685,
+      "hb": -2.198557692307693,
+      "release_pos_z": 5.598369446490637,
+      "release_pos_x": 1.2380280849829832,
+      "extension": 6.277486045022112,
+      "active_spin_percent": null
+    },
+    {
+      "code": "KC",
+      "title": "knuckle curve",
+      "color": "#6236CD",
+      "count": 194,
+      "pitch_percent": 0.26944444444444443,
+      "rhh_percent": 0.21641791044776118,
+      "lhh_percent": 0.33647798742138363,
+      "start_speed": 80.7278350515464,
+      "max_start_speed": 84.1,
+      "ivb": -5.000515463917527,
+      "hb": -0.003608247422680427,
+      "release_pos_z": 5.881923601489131,
+      "release_pos_x": 0.5588070123588708,
+      "extension": 6.274994883490069,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "682126",
+  "pitcher_name": "Evan Reifert",
+  "mlbam_id": "682126",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 326,
+      "pitch_percent": 0.5884476534296029,
+      "rhh_percent": 0.5795053003533569,
+      "lhh_percent": 0.5977859778597786,
+      "start_speed": 84.16441717791412,
+      "max_start_speed": 86.5,
+      "ivb": -2.0993865030674823,
+      "hb": -2.540797546012271,
+      "release_pos_z": 5.813162564583675,
+      "release_pos_x": 1.9718343664759943,
+      "extension": 6.113529955731193,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 124,
+      "pitch_percent": 0.22382671480144403,
+      "rhh_percent": 0.3286219081272085,
+      "lhh_percent": 0.11439114391143912,
+      "start_speed": 93.95725806451613,
+      "max_start_speed": 96,
+      "ivb": 3.5088709677419354,
+      "hb": 16.012903225806454,
+      "release_pos_z": 5.433730719904856,
+      "release_pos_x": 2.212885478022537,
+      "extension": 6.236133774743631,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 104,
+      "pitch_percent": 0.18772563176895307,
+      "rhh_percent": 0.09187279151943463,
+      "lhh_percent": 0.2878228782287823,
+      "start_speed": 93.84615384615388,
+      "max_start_speed": 96,
+      "ivb": 12.59038461538461,
+      "hb": 7.1567307692307685,
+      "release_pos_z": 5.639791393432494,
+      "release_pos_x": 2.075930285356199,
+      "extension": 6.24507967771413,
+      "active_spin_percent": null
+    }
+  ]
+}

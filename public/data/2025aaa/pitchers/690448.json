@@ -1,0 +1,25 @@
+{
+  "pitcher_id": "690448",
+  "pitcher_name": "Mike Jarvis",
+  "mlbam_id": "690448",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 24,
+      "pitch_percent": 1,
+      "rhh_percent": 1,
+      "lhh_percent": 1,
+      "start_speed": 74.83333333333333,
+      "max_start_speed": 80.4,
+      "ivb": 11.179166666666667,
+      "hb": 15.670833333333333,
+      "release_pos_z": 5.779444130682575,
+      "release_pos_x": 1.6669874021717288,
+      "extension": 5.27570595183959,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "687985",
+  "pitcher_name": "Josh White",
+  "mlbam_id": "687985",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 284,
+      "pitch_percent": 0.4863013698630137,
+      "rhh_percent": 0.5615141955835962,
+      "lhh_percent": 0.3970037453183521,
+      "start_speed": 85.22323943661969,
+      "max_start_speed": 89.8,
+      "ivb": -0.40070422535211275,
+      "hb": -3.347887323943662,
+      "release_pos_z": 6.376674498357919,
+      "release_pos_x": 0.6501958112519343,
+      "extension": 6.3205651846248125,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 253,
+      "pitch_percent": 0.4332191780821918,
+      "rhh_percent": 0.3722397476340694,
+      "lhh_percent": 0.5056179775280899,
+      "start_speed": 93.77944664031627,
+      "max_start_speed": 97,
+      "ivb": 17.5098814229249,
+      "hb": 3.2584980237154135,
+      "release_pos_z": 6.431970862871604,
+      "release_pos_x": 0.6177227260709962,
+      "extension": 6.356026487683704,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 47,
+      "pitch_percent": 0.08047945205479452,
+      "rhh_percent": 0.06624605678233439,
+      "lhh_percent": 0.09737827715355805,
+      "start_speed": 80.68936170212766,
+      "max_start_speed": 84,
+      "ivb": -4.768085106382979,
+      "hb": -5.225531914893618,
+      "release_pos_z": 6.483269086092405,
+      "release_pos_x": 0.5910087327015733,
+      "extension": 6.221652334707455,
+      "active_spin_percent": null
+    }
+  ]
+}

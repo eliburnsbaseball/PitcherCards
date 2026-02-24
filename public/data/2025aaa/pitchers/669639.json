@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "669639",
+  "pitcher_name": "Nolan Clenney",
+  "mlbam_id": "669639",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 27,
+      "pitch_percent": 0.7297297297297297,
+      "rhh_percent": 0.7333333333333333,
+      "lhh_percent": 0.7272727272727273,
+      "start_speed": 84.62222222222223,
+      "max_start_speed": 86.7,
+      "ivb": 2.17037037037037,
+      "hb": -2.8370370370370375,
+      "release_pos_z": 5.488108223577663,
+      "release_pos_x": 1.9428266337684568,
+      "extension": 6.430320559723776,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 5,
+      "pitch_percent": 0.13513513513513514,
+      "rhh_percent": 0.26666666666666666,
+      "lhh_percent": 0.045454545454545456,
+      "start_speed": 91.47999999999999,
+      "max_start_speed": 91.8,
+      "ivb": 10.16,
+      "hb": 19.499999999999996,
+      "release_pos_z": 5.409176511968084,
+      "release_pos_x": 2.0811907866613764,
+      "extension": 6.477794924968938,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 5,
+      "pitch_percent": 0.13513513513513514,
+      "rhh_percent": 0,
+      "lhh_percent": 0.22727272727272727,
+      "start_speed": 91.42,
+      "max_start_speed": 92.2,
+      "ivb": 15.76,
+      "hb": 7.3,
+      "release_pos_z": 5.415528292789459,
+      "release_pos_x": 1.9129692059486054,
+      "extension": 6.385300361535245,
+      "active_spin_percent": null
+    }
+  ]
+}

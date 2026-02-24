@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "671212",
+  "pitcher_name": "Joe Boyle",
+  "mlbam_id": "671212",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 709,
+      "pitch_percent": 0.5148874364560639,
+      "rhh_percent": 0.5417322834645669,
+      "lhh_percent": 0.4919137466307278,
+      "start_speed": 98.03046544428797,
+      "max_start_speed": 100.3,
+      "ivb": 14.073624823695324,
+      "hb": 7.298448519040906,
+      "release_pos_z": 5.884851740857768,
+      "release_pos_x": 1.4746091548802673,
+      "extension": 6.350824428308289,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 488,
+      "pitch_percent": 0.35439360929557007,
+      "rhh_percent": 0.4283464566929134,
+      "lhh_percent": 0.29110512129380056,
+      "start_speed": 90.65901639344254,
+      "max_start_speed": 95.2,
+      "ivb": 2.252254098360655,
+      "hb": -2.99344262295082,
+      "release_pos_z": 5.935550687885909,
+      "release_pos_x": 1.4851376490162056,
+      "extension": 6.317879172368775,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 180,
+      "pitch_percent": 0.13071895424836602,
+      "rhh_percent": 0.029921259842519685,
+      "lhh_percent": 0.2169811320754717,
+      "start_speed": 92.74888888888889,
+      "max_start_speed": 95.2,
+      "ivb": 2.658888888888888,
+      "hb": 16.033333333333335,
+      "release_pos_z": 5.880378001783403,
+      "release_pos_x": 1.527551221469545,
+      "extension": 6.391505854743267,
+      "active_spin_percent": null
+    }
+  ]
+}

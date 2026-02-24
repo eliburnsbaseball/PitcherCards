@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "700187",
+  "pitcher_name": "Troy Taylor",
+  "mlbam_id": "700187",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 518,
+      "pitch_percent": 0.6340269277845777,
+      "rhh_percent": 0.6410256410256411,
+      "lhh_percent": 0.6246418338108882,
+      "start_speed": 96.5216216216216,
+      "max_start_speed": 98.7,
+      "ivb": 12.57992277992278,
+      "hb": 14.480501930501935,
+      "release_pos_z": 5.719403023915029,
+      "release_pos_x": 1.7013539744652095,
+      "extension": 6.238665129413485,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 290,
+      "pitch_percent": 0.35495716034271724,
+      "rhh_percent": 0.358974358974359,
+      "lhh_percent": 0.3495702005730659,
+      "start_speed": 84.21310344827582,
+      "max_start_speed": 86.4,
+      "ivb": -5.767241379310347,
+      "hb": -13.85724137931035,
+      "release_pos_z": 5.617951365545913,
+      "release_pos_x": 1.730841389415717,
+      "extension": 5.8778437103793815,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 9,
+      "pitch_percent": 0.011015911872705019,
+      "rhh_percent": 0,
+      "lhh_percent": 0.025787965616045846,
+      "start_speed": 88.26666666666667,
+      "max_start_speed": 90.5,
+      "ivb": 5.177777777777779,
+      "hb": 13.61111111111111,
+      "release_pos_z": 5.444150706901216,
+      "release_pos_x": 1.8399486462749701,
+      "extension": 6.037111609598155,
+      "active_spin_percent": null
+    }
+  ]
+}

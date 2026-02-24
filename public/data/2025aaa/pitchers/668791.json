@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "668791",
+  "pitcher_name": "Anthony Prato",
+  "mlbam_id": "668791",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 27,
+      "pitch_percent": 0.43548387096774194,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.35714285714285715,
+      "start_speed": 50.36296296296297,
+      "max_start_speed": 85.5,
+      "ivb": 18.99259259259259,
+      "hb": -0.2740740740740741,
+      "release_pos_z": 6.92758798246217,
+      "release_pos_x": 1.762788593767391,
+      "extension": 3.9954768614233926,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 3,
+      "pitch_percent": 0.04838709677419355,
+      "rhh_percent": 0.029411764705882353,
+      "lhh_percent": 0.07142857142857142,
+      "start_speed": 58.63333333333333,
+      "max_start_speed": 78.2,
+      "ivb": 6.233333333333334,
+      "hb": 4.2,
+      "release_pos_z": 6.8974699035071145,
+      "release_pos_x": 1.2405787724601895,
+      "extension": 4.603435053819178,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 1,
+      "pitch_percent": 0.016129032258064516,
+      "rhh_percent": 0,
+      "lhh_percent": 0.03571428571428571,
+      "start_speed": 50.6,
+      "max_start_speed": 50.6,
+      "ivb": 15.4,
+      "hb": 9.6,
+      "release_pos_z": 6.406623736334123,
+      "release_pos_x": 2.4913498423910547,
+      "extension": 4.07379645375616,
+      "active_spin_percent": null
+    }
+  ]
+}

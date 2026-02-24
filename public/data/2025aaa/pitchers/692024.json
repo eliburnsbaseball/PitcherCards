@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "692024",
+  "pitcher_name": "Alex Carrillo",
+  "mlbam_id": "692024",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 185,
+      "pitch_percent": 0.4731457800511509,
+      "rhh_percent": 0.48148148148148145,
+      "lhh_percent": 0.46534653465346537,
+      "start_speed": 96.7924324324324,
+      "max_start_speed": 100.2,
+      "ivb": 13.534594594594584,
+      "hb": 10.36486486486487,
+      "release_pos_z": 5.435150116159462,
+      "release_pos_x": 1.7007468133131884,
+      "extension": 5.602611617021749,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 140,
+      "pitch_percent": 0.35805626598465473,
+      "rhh_percent": 0.42857142857142855,
+      "lhh_percent": 0.29207920792079206,
+      "start_speed": 85.58000000000001,
+      "max_start_speed": 90,
+      "ivb": -0.09214285714285712,
+      "hb": -4.3549999999999995,
+      "release_pos_z": 5.286720581002359,
+      "release_pos_x": 1.8028586767787542,
+      "extension": 5.643435421157699,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 66,
+      "pitch_percent": 0.16879795396419436,
+      "rhh_percent": 0.08994708994708994,
+      "lhh_percent": 0.24257425742574257,
+      "start_speed": 89.34393939393938,
+      "max_start_speed": 92.4,
+      "ivb": 0.43484848484848476,
+      "hb": 14.322727272727272,
+      "release_pos_z": 5.2099478256546865,
+      "release_pos_x": 1.8170412466157473,
+      "extension": 5.777719575081104,
+      "active_spin_percent": null
+    }
+  ]
+}

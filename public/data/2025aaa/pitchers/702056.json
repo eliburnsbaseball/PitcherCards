@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "702056",
+  "pitcher_name": "Trey Yesavage",
+  "mlbam_id": "702056",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 160,
+      "pitch_percent": 0.48632218844984804,
+      "rhh_percent": 0.4807692307692308,
+      "lhh_percent": 0.4913294797687861,
+      "start_speed": 93.70750000000001,
+      "max_start_speed": 95.4,
+      "ivb": 19.484999999999992,
+      "hb": 3.9162499999999993,
+      "release_pos_z": 7.199510410484796,
+      "release_pos_x": 0.3579366863716065,
+      "extension": 6.127946234053256,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 85,
+      "pitch_percent": 0.25835866261398177,
+      "rhh_percent": 0.1794871794871795,
+      "lhh_percent": 0.32947976878612717,
+      "start_speed": 82.92352941176473,
+      "max_start_speed": 85.4,
+      "ivb": 7.836470588235292,
+      "hb": 11.654117647058827,
+      "release_pos_z": 7.373638727584782,
+      "release_pos_x": 0.30419702608470206,
+      "extension": 5.91649615576877,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 84,
+      "pitch_percent": 0.2553191489361702,
+      "rhh_percent": 0.33974358974358976,
+      "lhh_percent": 0.1791907514450867,
+      "start_speed": 86.83095238095237,
+      "max_start_speed": 88.8,
+      "ivb": 4.4261904761904765,
+      "hb": 3.3285714285714283,
+      "release_pos_z": 7.326564149148801,
+      "release_pos_x": 0.5128740958512013,
+      "extension": 5.794253231399149,
+      "active_spin_percent": null
+    }
+  ]
+}

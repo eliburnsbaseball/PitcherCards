@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "668470",
+  "pitcher_name": "Hagen Danner",
+  "mlbam_id": "668470",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 526,
+      "pitch_percent": 0.5417095777548918,
+      "rhh_percent": 0.5555555555555556,
+      "lhh_percent": 0.523696682464455,
+      "start_speed": 87.89258555133085,
+      "max_start_speed": 92.3,
+      "ivb": 1.698859315589354,
+      "hb": -5.602471482889732,
+      "release_pos_z": 5.923851055316181,
+      "release_pos_x": 1.076479289816594,
+      "extension": 6.490515211212359,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 442,
+      "pitch_percent": 0.4552008238928939,
+      "rhh_percent": 0.4444444444444444,
+      "lhh_percent": 0.46919431279620855,
+      "start_speed": 95.32285067873302,
+      "max_start_speed": 98.1,
+      "ivb": 14.684615384615373,
+      "hb": 6.519004524886873,
+      "release_pos_z": 5.948356106020616,
+      "release_pos_x": 1.112412879437072,
+      "extension": 6.505912912697559,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 3,
+      "pitch_percent": 0.003089598352214212,
+      "rhh_percent": 0,
+      "lhh_percent": 0.0071090047393364926,
+      "start_speed": 81.13333333333334,
+      "max_start_speed": 81.4,
+      "ivb": -6.166666666666667,
+      "hb": -5.333333333333333,
+      "release_pos_z": 5.860786747660154,
+      "release_pos_x": 1.157436630438825,
+      "extension": 6.589209721493184,
+      "active_spin_percent": null
+    }
+  ]
+}

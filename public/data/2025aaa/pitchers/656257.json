@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "656257",
+  "pitcher_name": "Jeff Brigham",
+  "mlbam_id": "656257",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 146,
+      "pitch_percent": 0.45768025078369906,
+      "rhh_percent": 0.4742268041237113,
+      "lhh_percent": 0.432,
+      "start_speed": 94.8417808219178,
+      "max_start_speed": 96.9,
+      "ivb": 14.72260273972603,
+      "hb": 9.31575342465753,
+      "release_pos_z": 5.771421254556643,
+      "release_pos_x": 1.7860607749285733,
+      "extension": 5.932247904412624,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 125,
+      "pitch_percent": 0.39184952978056425,
+      "rhh_percent": 0.4948453608247423,
+      "lhh_percent": 0.232,
+      "start_speed": 82.596,
+      "max_start_speed": 84.3,
+      "ivb": -0.42,
+      "hb": -13.563199999999997,
+      "release_pos_z": 5.670485224735662,
+      "release_pos_x": 1.9685051750840823,
+      "extension": 5.8395182830494665,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 48,
+      "pitch_percent": 0.15047021943573669,
+      "rhh_percent": 0.030927835051546393,
+      "lhh_percent": 0.336,
+      "start_speed": 89.63749999999999,
+      "max_start_speed": 94.4,
+      "ivb": 8.618750000000002,
+      "hb": -2.1333333333333333,
+      "release_pos_z": 5.6216208238912975,
+      "release_pos_x": 2.0893185381607102,
+      "extension": 5.914778862702523,
+      "active_spin_percent": null
+    }
+  ]
+}

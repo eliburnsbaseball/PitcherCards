@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "656726",
+  "pitcher_name": "Sam McWilliams",
+  "mlbam_id": "656726",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 240,
+      "pitch_percent": 0.5825242718446602,
+      "rhh_percent": 0.5907172995780591,
+      "lhh_percent": 0.5714285714285714,
+      "start_speed": 94.73625000000003,
+      "max_start_speed": 97.2,
+      "ivb": 11.53791666666667,
+      "hb": 7.093333333333335,
+      "release_pos_z": 5.900919345765341,
+      "release_pos_x": 2.0952569494479403,
+      "extension": 6.720844579621933,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 118,
+      "pitch_percent": 0.28640776699029125,
+      "rhh_percent": 0.34177215189873417,
+      "lhh_percent": 0.21142857142857144,
+      "start_speed": 85.6135593220339,
+      "max_start_speed": 89.5,
+      "ivb": 3.1355932203389854,
+      "hb": -6.807627118644066,
+      "release_pos_z": 6.164356635310739,
+      "release_pos_x": 1.9074610313701208,
+      "extension": 6.714826087808456,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 54,
+      "pitch_percent": 0.13106796116504854,
+      "rhh_percent": 0.06751054852320675,
+      "lhh_percent": 0.21714285714285714,
+      "start_speed": 82.43148148148147,
+      "max_start_speed": 86.8,
+      "ivb": -6.353703703703705,
+      "hb": -6.733333333333333,
+      "release_pos_z": 6.291540036113189,
+      "release_pos_x": 1.7962698184618446,
+      "extension": 6.640877717331012,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "687239",
+  "pitcher_name": "Ben Peoples",
+  "mlbam_id": "687239",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 528,
+      "pitch_percent": 0.6526576019777504,
+      "rhh_percent": 0.6404255319148936,
+      "lhh_percent": 0.6696165191740413,
+      "start_speed": 95.67897727272732,
+      "max_start_speed": 98.9,
+      "ivb": 17.54659090909091,
+      "hb": -0.07935606060606049,
+      "release_pos_z": 5.932951180329484,
+      "release_pos_x": 1.3134148344469134,
+      "extension": 6.85660844409039,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 259,
+      "pitch_percent": 0.32014833127317677,
+      "rhh_percent": 0.3595744680851064,
+      "lhh_percent": 0.26548672566371684,
+      "start_speed": 88.63474903474899,
+      "max_start_speed": 93.1,
+      "ivb": 3.1795366795366813,
+      "hb": -5.379536679536679,
+      "release_pos_z": 5.889704419516257,
+      "release_pos_x": 1.4296450287878075,
+      "extension": 6.751745770111308,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 22,
+      "pitch_percent": 0.027194066749072928,
+      "rhh_percent": 0,
+      "lhh_percent": 0.06489675516224189,
+      "start_speed": 88.56363636363636,
+      "max_start_speed": 90.2,
+      "ivb": 12.195454545454549,
+      "hb": 13.395454545454548,
+      "release_pos_z": 5.7037934433755755,
+      "release_pos_x": 1.31905216849844,
+      "extension": 6.966152239975477,
+      "active_spin_percent": null
+    }
+  ]
+}

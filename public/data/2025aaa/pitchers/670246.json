@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "670246",
+  "pitcher_name": "Nate Webb",
+  "mlbam_id": "670246",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 257,
+      "pitch_percent": 0.49806201550387597,
+      "rhh_percent": 0.46613545816733065,
+      "lhh_percent": 0.5283018867924528,
+      "start_speed": 94.30466926070031,
+      "max_start_speed": 97.1,
+      "ivb": 18.06186770428015,
+      "hb": 7.593385214007782,
+      "release_pos_z": 6.557369972930265,
+      "release_pos_x": 0.6361979878359234,
+      "extension": 5.886238210099053,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 194,
+      "pitch_percent": 0.375968992248062,
+      "rhh_percent": 0.5338645418326693,
+      "lhh_percent": 0.22641509433962265,
+      "start_speed": 83.34896907216492,
+      "max_start_speed": 89.8,
+      "ivb": 0.45721649484536075,
+      "hb": -4.75515463917526,
+      "release_pos_z": 6.3626032015007805,
+      "release_pos_x": 0.9959254306013343,
+      "extension": 5.915796671989265,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 65,
+      "pitch_percent": 0.12596899224806202,
+      "rhh_percent": 0,
+      "lhh_percent": 0.24528301886792453,
+      "start_speed": 84.64461538461539,
+      "max_start_speed": 87.2,
+      "ivb": 10.367692307692309,
+      "hb": 12.979999999999995,
+      "release_pos_z": 6.33134998368379,
+      "release_pos_x": 1.1502843846302704,
+      "extension": 5.865860633440203,
+      "active_spin_percent": null
+    }
+  ]
+}

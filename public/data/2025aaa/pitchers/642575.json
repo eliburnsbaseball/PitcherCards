@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "642575",
+  "pitcher_name": "Gerson Moreno",
+  "mlbam_id": "642575",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 126,
+      "pitch_percent": 0.490272373540856,
+      "rhh_percent": 0.5345911949685535,
+      "lhh_percent": 0.41836734693877553,
+      "start_speed": 94.66507936507935,
+      "max_start_speed": 96.8,
+      "ivb": 14.567460317460316,
+      "hb": 9.137301587301586,
+      "release_pos_z": 5.178611696986012,
+      "release_pos_x": 2.9005453607044536,
+      "extension": 6.285364159042836,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 91,
+      "pitch_percent": 0.3540856031128405,
+      "rhh_percent": 0.24528301886792453,
+      "lhh_percent": 0.5306122448979592,
+      "start_speed": 86.40109890109888,
+      "max_start_speed": 88.1,
+      "ivb": 1.6307692307692307,
+      "hb": 8.769230769230772,
+      "release_pos_z": 5.434305680112793,
+      "release_pos_x": 2.7879265196109926,
+      "extension": 6.491488541853638,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 40,
+      "pitch_percent": 0.1556420233463035,
+      "rhh_percent": 0.22012578616352202,
+      "lhh_percent": 0.05102040816326531,
+      "start_speed": 84.54999999999998,
+      "max_start_speed": 87.7,
+      "ivb": 1.4375000000000002,
+      "hb": -5.787500000000001,
+      "release_pos_z": 5.3713683369090415,
+      "release_pos_x": 2.854377166048497,
+      "extension": 6.420899563921632,
+      "active_spin_percent": null
+    }
+  ]
+}

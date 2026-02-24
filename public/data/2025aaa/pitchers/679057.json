@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "679057",
+  "pitcher_name": "Mason Green",
+  "mlbam_id": "679057",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 40,
+      "pitch_percent": 0.5,
+      "rhh_percent": 0.55,
+      "lhh_percent": 0.35,
+      "start_speed": 92.13250000000002,
+      "max_start_speed": 93.9,
+      "ivb": 12.182499999999997,
+      "hb": 8.095,
+      "release_pos_z": 5.17874505577262,
+      "release_pos_x": 2.176701656682222,
+      "extension": 6.794017503753113,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 31,
+      "pitch_percent": 0.3875,
+      "rhh_percent": 0.3,
+      "lhh_percent": 0.65,
+      "start_speed": 82.52580645161287,
+      "max_start_speed": 87.3,
+      "ivb": -1.4935483870967743,
+      "hb": -3.2096774193548385,
+      "release_pos_z": 5.2766381991497,
+      "release_pos_x": 2.148913850356068,
+      "extension": 6.6717974744192725,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 9,
+      "pitch_percent": 0.1125,
+      "rhh_percent": 0.15,
+      "lhh_percent": 0,
+      "start_speed": 85.66666666666667,
+      "max_start_speed": 87.5,
+      "ivb": 6.9111111111111105,
+      "hb": 13.155555555555557,
+      "release_pos_z": 5.113105678868798,
+      "release_pos_x": 2.3623687517041967,
+      "extension": 6.823984716217384,
+      "active_spin_percent": null
+    }
+  ]
+}

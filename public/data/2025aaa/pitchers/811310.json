@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "811310",
+  "pitcher_name": "Nigel Belgrave",
+  "mlbam_id": "811310",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 43,
+      "pitch_percent": 0.5972222222222222,
+      "rhh_percent": 0.6666666666666666,
+      "lhh_percent": 0.5151515151515151,
+      "start_speed": 84.42558139534884,
+      "max_start_speed": 89.3,
+      "ivb": 6.3046511627907,
+      "hb": -12.402325581395345,
+      "release_pos_z": 5.400214173664741,
+      "release_pos_x": 3.553179643184015,
+      "extension": 6.1884908928904085,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 18,
+      "pitch_percent": 0.25,
+      "rhh_percent": 0.3076923076923077,
+      "lhh_percent": 0.18181818181818182,
+      "start_speed": 92.45555555555558,
+      "max_start_speed": 95.3,
+      "ivb": 4.288888888888889,
+      "hb": 13.25,
+      "release_pos_z": 5.466908165374884,
+      "release_pos_x": 3.3958838119922876,
+      "extension": 6.278919044269988,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 11,
+      "pitch_percent": 0.1527777777777778,
+      "rhh_percent": 0.02564102564102564,
+      "lhh_percent": 0.30303030303030304,
+      "start_speed": 93.73636363636363,
+      "max_start_speed": 95.1,
+      "ivb": 10.563636363636364,
+      "hb": 3.563636363636363,
+      "release_pos_z": 5.728614735134816,
+      "release_pos_x": 3.3435365384854063,
+      "extension": 6.313670033735753,
+      "active_spin_percent": null
+    }
+  ]
+}

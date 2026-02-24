@@ -1,0 +1,73 @@
+// scripts/fetchSavant2025a.ts
+import fs from "fs";
+import path from "path";
+
+const OUT_DIR = path.join(process.cwd(), "data", "raw", "2025a");
+fs.mkdirSync(OUT_DIR, { recursive: true });
+
+const PITCH_CODES = ["FF","SI","FC","CH","FS","FO","SC","CU","KC","CS","SL","ST","SV"] as const;
+
+function buildUrl(pitchCode: string) {
+  const base = "https://baseballsavant.mlb.com/statcast_search/csv?all=true&type=details";
+
+  // Based on your provided AAA link:
+  // - hfSea=2025|
+  // - hfGT=R|
+  // - hfLevel=A|
+  // - keep the checked stats
+  const query =
+    `hfPT=${encodeURIComponent(pitchCode + "|")}` +
+    `&hfAB=&hfGT=${encodeURIComponent("R|")}` +
+    `&hfPR=&hfZ=&hfStadium=&hfBBL=&hfNewZones=&hfPull=&hfC=` +
+    `&hfSea=${encodeURIComponent("2025|")}` +
+    `&hfSit=&player_type=pitcher&hfOuts=&home_road=&pitcher_throws=&batter_stands=` +
+    `&hfSA=&hfEventOuts=&hfEventRuns=&game_date_gt=&game_date_lt=&hfMo=&hfTeam=&hfOpponent=` +
+    `&hfRO=&position=&hfInn=&hfBBT=` +
+    `&hfFlag=${encodeURIComponent("is\\.\\.tracked|is\\.\\.bunt\\.\\.not|")}` +
+    `&hfLevel=${encodeURIComponent("A|")}` +
+    `&metric_1=&hfTeamAffiliate=&hfOpponentAffiliate=` +
+    `&group_by=name&min_pitches=0&min_results=0&min_pas=0` +
+    `&sort_col=pitches&player_event_sort=api_p_release_speed&sort_order=desc` +
+    `&chk_stats_pa=on&chk_stats_abs=on&chk_stats_hits=on&chk_stats_k_percent=on&chk_stats_bb_percent=on` +
+    `&chk_stats_whiffs=on&chk_stats_swings=on` +
+    `&chk_stats_api_break_z_with_gravity=on&chk_stats_api_break_x_arm=on&chk_stats_api_break_z_induced=on&chk_stats_api_break_x_batter_in=on` +
+    `&chk_stats_ba=on&chk_stats_xba=on&chk_stats_obp=on&chk_stats_xobp=on` +
+    `&chk_stats_slg=on&chk_stats_xslg=on&chk_stats_woba=on&chk_stats_xwoba=on` +
+    `&chk_stats_barrels_total=on&chk_stats_babip=on&chk_stats_iso=on&chk_stats_swing_miss_percent=on` +
+    `&chk_stats_velocity=on&chk_stats_spin_rate=on` +
+    `&chk_stats_release_pos_z=on&chk_stats_release_pos_x=on&chk_stats_release_extension=on` +
+    `&chk_stats_plate_x=on&chk_stats_plate_z=on` +
+    `&chk_stats_launch_speed=on&chk_stats_hardhit_percent=on` +
+    `&chk_stats_barrels_per_bbe_percent=on&chk_stats_barrels_per_pa_percent=on`;
+
+  return `${base}&${query}`;
+}
+
+async function downloadToFile(url: string, filePath: string) {
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent": "Mozilla/5.0 (compatible; pitchercards-bot/1.0)",
+      "Accept": "text/csv,*/*",
+    },
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+  const text = await res.text();
+  fs.writeFileSync(filePath, text, "utf8");
+}
+
+async function main() {
+  console.log(`📥 Fetching 2025 A Savant CSVs → ${OUT_DIR}`);
+  for (const code of PITCH_CODES) {
+    const url = buildUrl(code);
+    const out = path.join(OUT_DIR, `savant_2025a_${code}.csv`);
+    console.log(`- ${code} …`);
+    await downloadToFile(url, out);
+    console.log(`  wrote ${path.basename(out)}`);
+  }
+  console.log("✅ Done.");
+}
+
+main().catch((e) => {
+  console.error(e);
+  process.exit(1);
+});

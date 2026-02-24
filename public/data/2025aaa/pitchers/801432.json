@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "801432",
+  "pitcher_name": "Eric Reyzelman",
+  "mlbam_id": "801432",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 557,
+      "pitch_percent": 0.6623067776456599,
+      "rhh_percent": 0.6214953271028038,
+      "lhh_percent": 0.7046004842615012,
+      "start_speed": 94.05745062836623,
+      "max_start_speed": 98.4,
+      "ivb": 15.824416517055663,
+      "hb": 9.335906642728903,
+      "release_pos_z": 5.564666204343802,
+      "release_pos_x": 1.5968887078016214,
+      "extension": 6.450544876446336,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 251,
+      "pitch_percent": 0.2984542211652794,
+      "rhh_percent": 0.37149532710280375,
+      "lhh_percent": 0.22276029055690072,
+      "start_speed": 79.87649402390437,
+      "max_start_speed": 84.7,
+      "ivb": -5.142231075697211,
+      "hb": -16.92509960159363,
+      "release_pos_z": 5.10048173508702,
+      "release_pos_x": 1.971670216849539,
+      "extension": 6.2890213858980415,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 33,
+      "pitch_percent": 0.039239001189060645,
+      "rhh_percent": 0.007009345794392523,
+      "lhh_percent": 0.07263922518159806,
+      "start_speed": 82.34242424242424,
+      "max_start_speed": 84.8,
+      "ivb": 2.042424242424243,
+      "hb": 14.499999999999998,
+      "release_pos_z": 5.030665879362793,
+      "release_pos_x": 1.9273399308890466,
+      "extension": 6.414631520739641,
+      "active_spin_percent": null
+    }
+  ]
+}

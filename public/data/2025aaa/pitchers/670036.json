@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "670036",
+  "pitcher_name": "Matt Festa",
+  "mlbam_id": "670036",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 104,
+      "pitch_percent": 0.4126984126984127,
+      "rhh_percent": 0.375,
+      "lhh_percent": 0.47,
+      "start_speed": 91.37788461538464,
+      "max_start_speed": 93.4,
+      "ivb": 10.47596153846154,
+      "hb": -0.3182692307692308,
+      "release_pos_z": 4.986275320438066,
+      "release_pos_x": 2.238450847481123,
+      "extension": 6.228857252264067,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 75,
+      "pitch_percent": 0.2976190476190476,
+      "rhh_percent": 0.34868421052631576,
+      "lhh_percent": 0.22,
+      "start_speed": 89.82266666666663,
+      "max_start_speed": 91.5,
+      "ivb": 7.282666666666668,
+      "hb": -3.490666666666667,
+      "release_pos_z": 5.061839331872853,
+      "release_pos_x": 2.166229501593534,
+      "extension": 6.222557838176826,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 73,
+      "pitch_percent": 0.2896825396825397,
+      "rhh_percent": 0.27631578947368424,
+      "lhh_percent": 0.31,
+      "start_speed": 83.04931506849316,
+      "max_start_speed": 85.6,
+      "ivb": 2.3479452054794523,
+      "hb": -13.746575342465746,
+      "release_pos_z": 5.006529790489586,
+      "release_pos_x": 2.309236403196326,
+      "extension": 6.139164656328424,
+      "active_spin_percent": null
+    }
+  ]
+}

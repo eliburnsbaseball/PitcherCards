@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "640448",
+  "pitcher_name": "Kyle Finnegan",
+  "mlbam_id": "640448",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 7,
+      "pitch_percent": 0.5384615384615384,
+      "rhh_percent": 0.5555555555555556,
+      "lhh_percent": 0.5,
+      "start_speed": 96.95714285714284,
+      "max_start_speed": 97.6,
+      "ivb": 17.38571428571429,
+      "hb": 9.000000000000002,
+      "release_pos_z": 5.813255091150364,
+      "release_pos_x": 1.8437682387865866,
+      "extension": 6.548004587520756,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 6,
+      "pitch_percent": 0.46153846153846156,
+      "rhh_percent": 0.4444444444444444,
+      "lhh_percent": 0.5,
+      "start_speed": 86.89999999999999,
+      "max_start_speed": 88,
+      "ivb": 2.783333333333333,
+      "hb": 6.166666666666667,
+      "release_pos_z": 5.664385722514091,
+      "release_pos_x": 2.2963976145618212,
+      "extension": 6.587667963875333,
+      "active_spin_percent": null
+    }
+  ]
+}

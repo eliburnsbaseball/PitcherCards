@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "678921",
+  "pitcher_name": "Raúl Alcantara",
+  "mlbam_id": "678921",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 258,
+      "pitch_percent": 0.5058823529411764,
+      "rhh_percent": 0.4794520547945205,
+      "lhh_percent": 0.5412844036697247,
+      "start_speed": 93.95038759689922,
+      "max_start_speed": 97,
+      "ivb": 2.6298449612403103,
+      "hb": 16.48178294573642,
+      "release_pos_z": 4.934733093490815,
+      "release_pos_x": 1.5785305345196181,
+      "extension": 5.599407038455348,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 248,
+      "pitch_percent": 0.48627450980392156,
+      "rhh_percent": 0.5068493150684932,
+      "lhh_percent": 0.45871559633027525,
+      "start_speed": 84.56048387096773,
+      "max_start_speed": 88,
+      "ivb": -0.6036290322580645,
+      "hb": -3.5149193548387103,
+      "release_pos_z": 4.895738694591166,
+      "release_pos_x": 1.5938232623927968,
+      "extension": 5.918514490792441,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 4,
+      "pitch_percent": 0.00784313725490196,
+      "rhh_percent": 0.0136986301369863,
+      "lhh_percent": 0,
+      "start_speed": 86.35000000000001,
+      "max_start_speed": 87.3,
+      "ivb": 3.75,
+      "hb": 11.85,
+      "release_pos_z": 5.237647114755476,
+      "release_pos_x": 0.9464105536112684,
+      "extension": 5.937365695846246,
+      "active_spin_percent": null
+    }
+  ]
+}

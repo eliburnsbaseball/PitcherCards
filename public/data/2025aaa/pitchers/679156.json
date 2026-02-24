@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "679156",
+  "pitcher_name": "Walter Pennington",
+  "mlbam_id": "679156",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 14,
+      "pitch_percent": 0.56,
+      "rhh_percent": 0.6086956521739131,
+      "lhh_percent": 0,
+      "start_speed": 87.74285714285713,
+      "max_start_speed": 89,
+      "ivb": 9.278571428571428,
+      "hb": 0.3357142857142858,
+      "release_pos_z": 5.651076951867983,
+      "release_pos_x": 3.2421107343973987,
+      "extension": 5.756310368462195,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 8,
+      "pitch_percent": 0.32,
+      "rhh_percent": 0.30434782608695654,
+      "lhh_percent": 0.5,
+      "start_speed": 82.9375,
+      "max_start_speed": 84.3,
+      "ivb": 0.5874999999999999,
+      "hb": -2.075,
+      "release_pos_z": 5.740988199000708,
+      "release_pos_x": 3.1428571184839753,
+      "extension": 5.785126951224159,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 3,
+      "pitch_percent": 0.12,
+      "rhh_percent": 0.08695652173913043,
+      "lhh_percent": 0.5,
+      "start_speed": 89.23333333333333,
+      "max_start_speed": 90.8,
+      "ivb": 6.933333333333334,
+      "hb": 11.1,
+      "release_pos_z": 5.632528075019774,
+      "release_pos_x": 3.283714215160403,
+      "extension": 5.848937199539965,
+      "active_spin_percent": null
+    }
+  ]
+}

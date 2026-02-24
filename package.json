@@ -9,9 +9,15 @@
     "lint": "eslint",
     "build:data:2025": "tsx scripts/buildPitcherData.ts 2025",
     "build:data:2026st": "tsx scripts/buildPitcherData.ts 2026",
-    "build:data": "npm run build:data:2025 && npm run build:data:2026st",
-    "check:data": "tsx scripts/validatePitcherData.ts",
-    "update:2026st": "tsx scripts/update2026st.ts"
+    "update:2026st": "tsx scripts/update2026st.ts",
+    "build:data:2025aaa": "tsx scripts/buildPitcherData.ts 2025aaa",
+    "build:data:2025a": "tsx scripts/buildPitcherData.ts 2025a",
+    "fetch:2025aaa": "tsx scripts/fetchSavant2025aaa.ts",
+    "fetch:2025a": "tsx scripts/fetchSavant2025a.ts",
+    "update:2025aaa": "npm run fetch:2025aaa && npm run build:data:2025aaa",
+    "update:2025a": "npm run fetch:2025a && npm run build:data:2025a",
+    "build:data": "npm run build:data:2025 && npm run build:data:2026st && npm run build:data:2025aaa && npm run buid:data:2025a",
+    "check:data": "tsx scripts/validatePitcherData.ts" 
   },
   "dependencies": {
     "next": "16.1.6",

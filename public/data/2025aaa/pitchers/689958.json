@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "689958",
+  "pitcher_name": "Andrew Walters",
+  "mlbam_id": "689958",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 150,
+      "pitch_percent": 0.6550218340611353,
+      "rhh_percent": 0.6083916083916084,
+      "lhh_percent": 0.7325581395348837,
+      "start_speed": 96.00200000000001,
+      "max_start_speed": 97.9,
+      "ivb": 18.320000000000004,
+      "hb": 9.504666666666665,
+      "release_pos_z": 5.823876465895867,
+      "release_pos_x": 2.562833370660212,
+      "extension": 6.625816470854613,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 62,
+      "pitch_percent": 0.27074235807860264,
+      "rhh_percent": 0.34265734265734266,
+      "lhh_percent": 0.1511627906976744,
+      "start_speed": 85.40483870967743,
+      "max_start_speed": 87.9,
+      "ivb": -0.720967741935484,
+      "hb": -3.9564516129032263,
+      "release_pos_z": 5.930077258881055,
+      "release_pos_x": 2.5770252591740017,
+      "extension": 6.585721905459257,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 17,
+      "pitch_percent": 0.07423580786026202,
+      "rhh_percent": 0.04895104895104895,
+      "lhh_percent": 0.11627906976744186,
+      "start_speed": 87.44117647058823,
+      "max_start_speed": 89.5,
+      "ivb": 3.9529411764705884,
+      "hb": 10.1,
+      "release_pos_z": 5.884585695034254,
+      "release_pos_x": 2.497876303094499,
+      "extension": 6.683724605686158,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "607755",
+  "pitcher_name": "Andrew Vasquez",
+  "mlbam_id": "607755",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 141,
+      "pitch_percent": 0.6157205240174672,
+      "rhh_percent": 0.5620437956204379,
+      "lhh_percent": 0.6956521739130435,
+      "start_speed": 81.12198581560283,
+      "max_start_speed": 84.4,
+      "ivb": -1.1092198581560286,
+      "hb": -12.378014184397164,
+      "release_pos_z": 5.785918572817237,
+      "release_pos_x": 2.80193032903578,
+      "extension": 5.924759001622152,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 75,
+      "pitch_percent": 0.32751091703056767,
+      "rhh_percent": 0.35766423357664234,
+      "lhh_percent": 0.2826086956521739,
+      "start_speed": 88.77866666666667,
+      "max_start_speed": 91.8,
+      "ivb": 4.777333333333333,
+      "hb": 15.693333333333346,
+      "release_pos_z": 6.191106748761215,
+      "release_pos_x": 2.5109474338993327,
+      "extension": 6.113327752579465,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 13,
+      "pitch_percent": 0.056768558951965066,
+      "rhh_percent": 0.08029197080291971,
+      "lhh_percent": 0.021739130434782608,
+      "start_speed": 88.78461538461539,
+      "max_start_speed": 91,
+      "ivb": 7.823076923076924,
+      "hb": 13.100000000000001,
+      "release_pos_z": 6.267312010776053,
+      "release_pos_x": 2.525349256002156,
+      "extension": 6.103511032603508,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "680709",
+  "pitcher_name": "Nick Dunn",
+  "mlbam_id": "680709",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 13,
+      "pitch_percent": 0.6190476190476191,
+      "rhh_percent": 0.5454545454545454,
+      "lhh_percent": 0.7,
+      "start_speed": 50.346153846153854,
+      "max_start_speed": 57.7,
+      "ivb": 11.376923076923077,
+      "hb": 3.5307692307692307,
+      "release_pos_z": 6.6633238155571615,
+      "release_pos_x": 1.0336821661273135,
+      "extension": 4.279675673389856,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 8,
+      "pitch_percent": 0.38095238095238093,
+      "rhh_percent": 0.45454545454545453,
+      "lhh_percent": 0.3,
+      "start_speed": 65.775,
+      "max_start_speed": 73.5,
+      "ivb": 12.237499999999999,
+      "hb": 7.175000000000001,
+      "release_pos_z": 6.286792734452771,
+      "release_pos_x": 1.2459462253674487,
+      "extension": 4.7361215874846465,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "664875",
+  "pitcher_name": "Justin Lawrence",
+  "mlbam_id": "664875",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 65,
+      "pitch_percent": 0.47101449275362317,
+      "rhh_percent": 0.45714285714285713,
+      "lhh_percent": 0.4852941176470588,
+      "start_speed": 94.34615384615385,
+      "max_start_speed": 96.1,
+      "ivb": -0.2553846153846155,
+      "hb": 17.286153846153844,
+      "release_pos_z": 4.5192697502498484,
+      "release_pos_x": 2.656386414421234,
+      "extension": 6.4023881212198575,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 62,
+      "pitch_percent": 0.4492753623188406,
+      "rhh_percent": 0.4714285714285714,
+      "lhh_percent": 0.4264705882352941,
+      "start_speed": 82.5032258064516,
+      "max_start_speed": 85.4,
+      "ivb": 3.2725806451612893,
+      "hb": -13.582258064516125,
+      "release_pos_z": 4.515751078343378,
+      "release_pos_x": 2.82936454921054,
+      "extension": 6.301185803130523,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 11,
+      "pitch_percent": 0.07971014492753623,
+      "rhh_percent": 0.07142857142857142,
+      "lhh_percent": 0.08823529411764706,
+      "start_speed": 93.52727272727272,
+      "max_start_speed": 95,
+      "ivb": 6.818181818181818,
+      "hb": 12.536363636363637,
+      "release_pos_z": 4.618207205541217,
+      "release_pos_x": 2.7319917901035087,
+      "extension": 6.374226415285198,
+      "active_spin_percent": null
+    }
+  ]
+}

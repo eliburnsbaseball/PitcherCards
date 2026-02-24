@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "663378",
+  "pitcher_name": "Thomas Szapucki",
+  "mlbam_id": "663378",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 19,
+      "pitch_percent": 0.6333333333333333,
+      "rhh_percent": 0.5714285714285714,
+      "lhh_percent": 0.6875,
+      "start_speed": 93.62105263157892,
+      "max_start_speed": 95.3,
+      "ivb": 13.54736842105263,
+      "hb": 8.531578947368422,
+      "release_pos_z": 5.672328741213012,
+      "release_pos_x": 2.279813459465062,
+      "extension": 6.064085334032301,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 10,
+      "pitch_percent": 0.3333333333333333,
+      "rhh_percent": 0.42857142857142855,
+      "lhh_percent": 0.25,
+      "start_speed": 79.95000000000002,
+      "max_start_speed": 81.4,
+      "ivb": -13.179999999999998,
+      "hb": -7.339999999999999,
+      "release_pos_z": 5.7473080733133575,
+      "release_pos_x": 2.2783709126745486,
+      "extension": 5.817169512878101,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 1,
+      "pitch_percent": 0.03333333333333333,
+      "rhh_percent": 0,
+      "lhh_percent": 0.0625,
+      "start_speed": 91.7,
+      "max_start_speed": 91.7,
+      "ivb": 7.1,
+      "hb": 13.1,
+      "release_pos_z": 5.803169051733063,
+      "release_pos_x": 2.0821793724078694,
+      "extension": 5.989300139746511,
+      "active_spin_percent": null
+    }
+  ]
+}

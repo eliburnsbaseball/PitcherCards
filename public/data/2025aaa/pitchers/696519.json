@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "696519",
+  "pitcher_name": "Samy Natera Jr.",
+  "mlbam_id": "696519",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 141,
+      "pitch_percent": 0.7268041237113402,
+      "rhh_percent": 0.7478991596638656,
+      "lhh_percent": 0.6933333333333334,
+      "start_speed": 94.53829787234041,
+      "max_start_speed": 97.6,
+      "ivb": 16.295744680851055,
+      "hb": 3.730496453900709,
+      "release_pos_z": 6.383198535876262,
+      "release_pos_x": 0.5537796818951138,
+      "extension": 6.5664913534172005,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 52,
+      "pitch_percent": 0.26804123711340205,
+      "rhh_percent": 0.24369747899159663,
+      "lhh_percent": 0.30666666666666664,
+      "start_speed": 85.30000000000001,
+      "max_start_speed": 88.3,
+      "ivb": 5.85,
+      "hb": -5.736538461538463,
+      "release_pos_z": 6.306668577281143,
+      "release_pos_x": 0.9653085231152251,
+      "extension": 6.3710380984629404,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 1,
+      "pitch_percent": 0.005154639175257732,
+      "rhh_percent": 0.008403361344537815,
+      "lhh_percent": 0,
+      "start_speed": 84.2,
+      "max_start_speed": 84.2,
+      "ivb": 3,
+      "hb": -7.8,
+      "release_pos_z": 6.273393983340433,
+      "release_pos_x": 0.7277150566206327,
+      "extension": 6.406431271302941,
+      "active_spin_percent": null
+    }
+  ]
+}

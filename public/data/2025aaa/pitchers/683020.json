@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "683020",
+  "pitcher_name": "Gustavo Rodriguez",
+  "mlbam_id": "683020",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 380,
+      "pitch_percent": 0.6749555950266429,
+      "rhh_percent": 0.7205882352941176,
+      "lhh_percent": 0.6053811659192825,
+      "start_speed": 96.0344736842105,
+      "max_start_speed": 98.5,
+      "ivb": 11.66657894736842,
+      "hb": 8.78131578947368,
+      "release_pos_z": 6.008351972433292,
+      "release_pos_x": 1.596511010165595,
+      "extension": 6.37906571254128,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 162,
+      "pitch_percent": 0.2877442273534636,
+      "rhh_percent": 0.2676470588235294,
+      "lhh_percent": 0.3183856502242152,
+      "start_speed": 82.01666666666667,
+      "max_start_speed": 85.6,
+      "ivb": -0.603703703703704,
+      "hb": -2.222222222222223,
+      "release_pos_z": 5.8004598449139255,
+      "release_pos_x": 1.7791513451492558,
+      "extension": 6.40797261228829,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 21,
+      "pitch_percent": 0.037300177619893425,
+      "rhh_percent": 0.011764705882352941,
+      "lhh_percent": 0.07623318385650224,
+      "start_speed": 87.04761904761904,
+      "max_start_speed": 89.3,
+      "ivb": 4.685714285714286,
+      "hb": 10.276190476190477,
+      "release_pos_z": 5.823193789212821,
+      "release_pos_x": 1.7071840597258703,
+      "extension": 6.562080968213459,
+      "active_spin_percent": null
+    }
+  ]
+}

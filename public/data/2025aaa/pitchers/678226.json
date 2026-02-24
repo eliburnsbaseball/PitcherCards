@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "678226",
+  "pitcher_name": "Daysbel Hernández",
+  "mlbam_id": "678226",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 70,
+      "pitch_percent": 0.5109489051094891,
+      "rhh_percent": 0.47297297297297297,
+      "lhh_percent": 0.5555555555555556,
+      "start_speed": 97.09857142857142,
+      "max_start_speed": 100.2,
+      "ivb": 15.934285714285712,
+      "hb": 8.657142857142851,
+      "release_pos_z": 5.968792535179237,
+      "release_pos_x": 1.148951978923688,
+      "extension": 6.008115537423484,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 66,
+      "pitch_percent": 0.48175182481751827,
+      "rhh_percent": 0.5135135135135135,
+      "lhh_percent": 0.4444444444444444,
+      "start_speed": 87.37727272727274,
+      "max_start_speed": 90.6,
+      "ivb": -0.10909090909090899,
+      "hb": -3.5606060606060606,
+      "release_pos_z": 5.94162723078021,
+      "release_pos_x": 1.3415128529983407,
+      "extension": 5.808487792347863,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 1,
+      "pitch_percent": 0.0072992700729927005,
+      "rhh_percent": 0.013513513513513514,
+      "lhh_percent": 0,
+      "start_speed": 96.8,
+      "max_start_speed": 96.8,
+      "ivb": 15.7,
+      "hb": 13.4,
+      "release_pos_z": 6.0445422591385976,
+      "release_pos_x": 0.8980048318485099,
+      "extension": 6.148801319399994,
+      "active_spin_percent": null
+    }
+  ]
+}

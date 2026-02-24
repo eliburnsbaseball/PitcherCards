@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "682119",
+  "pitcher_name": "Levi Jordan",
+  "mlbam_id": "682119",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 2,
+      "pitch_percent": 0.6666666666666666,
+      "rhh_percent": 0.6666666666666666,
+      "lhh_percent": null,
+      "start_speed": 48.95,
+      "max_start_speed": 50.6,
+      "ivb": 15,
+      "hb": -1.2000000000000002,
+      "release_pos_z": 6.184392928028394,
+      "release_pos_x": 0.888824848694222,
+      "extension": 4.125542818727368,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 1,
+      "pitch_percent": 0.3333333333333333,
+      "rhh_percent": 0.3333333333333333,
+      "lhh_percent": null,
+      "start_speed": 47.9,
+      "max_start_speed": 47.9,
+      "ivb": 14.8,
+      "hb": -3,
+      "release_pos_z": 5.940408626950317,
+      "release_pos_x": 0.9847434049741958,
+      "extension": 4.519935546911349,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "663971",
+  "pitcher_name": "Blair Calvo",
+  "mlbam_id": "663971",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 15,
+      "pitch_percent": 0.5357142857142857,
+      "rhh_percent": 0.45454545454545453,
+      "lhh_percent": 0.5882352941176471,
+      "start_speed": 92.96666666666667,
+      "max_start_speed": 94.3,
+      "ivb": 4.033333333333333,
+      "hb": 16.68,
+      "release_pos_z": 5.530486069156376,
+      "release_pos_x": 1.8123768623381369,
+      "extension": 6.189259296832301,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 10,
+      "pitch_percent": 0.35714285714285715,
+      "rhh_percent": 0.5454545454545454,
+      "lhh_percent": 0.23529411764705882,
+      "start_speed": 82.74,
+      "max_start_speed": 84.1,
+      "ivb": -4.19,
+      "hb": -12.320000000000002,
+      "release_pos_z": 5.3757173917378935,
+      "release_pos_x": 2.013042967582652,
+      "extension": 5.944011475253562,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 3,
+      "pitch_percent": 0.10714285714285714,
+      "rhh_percent": 0,
+      "lhh_percent": 0.17647058823529413,
+      "start_speed": 85.63333333333333,
+      "max_start_speed": 85.9,
+      "ivb": -0.6666666666666665,
+      "hb": 13.966666666666669,
+      "release_pos_z": 5.396288424182612,
+      "release_pos_x": 1.928546689681707,
+      "extension": 6.295865328038123,
+      "active_spin_percent": null
+    }
+  ]
+}

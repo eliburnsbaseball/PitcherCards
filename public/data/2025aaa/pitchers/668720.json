@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "668720",
+  "pitcher_name": "Todd Peterson",
+  "mlbam_id": "668720",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 77,
+      "pitch_percent": 0.5032679738562091,
+      "rhh_percent": 0.5952380952380952,
+      "lhh_percent": 0.391304347826087,
+      "start_speed": 83.51688311688311,
+      "max_start_speed": 87.7,
+      "ivb": 4.971428571428572,
+      "hb": -2.5999999999999996,
+      "release_pos_z": 6.024071263423047,
+      "release_pos_x": 2.2574374935551864,
+      "extension": 6.123578581297,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 55,
+      "pitch_percent": 0.35947712418300654,
+      "rhh_percent": 0.2976190476190476,
+      "lhh_percent": 0.43478260869565216,
+      "start_speed": 92.63636363636367,
+      "max_start_speed": 94.7,
+      "ivb": 14.112727272727275,
+      "hb": 8.854545454545454,
+      "release_pos_z": 6.116854426353081,
+      "release_pos_x": 2.1772768433714558,
+      "extension": 5.959068727396054,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 21,
+      "pitch_percent": 0.13725490196078433,
+      "rhh_percent": 0.10714285714285714,
+      "lhh_percent": 0.17391304347826086,
+      "start_speed": 92.67619047619048,
+      "max_start_speed": 94.2,
+      "ivb": 14.557142857142853,
+      "hb": 4.885714285714286,
+      "release_pos_z": 6.168336449287298,
+      "release_pos_x": 2.1318848194953266,
+      "extension": 5.979617980636887,
+      "active_spin_percent": null
+    }
+  ]
+}

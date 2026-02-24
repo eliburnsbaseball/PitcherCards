@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "554431",
+  "pitcher_name": "Tyler Matzek",
+  "mlbam_id": "554431",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 42,
+      "pitch_percent": 0.5384615384615384,
+      "rhh_percent": 0.627906976744186,
+      "lhh_percent": 0.42857142857142855,
+      "start_speed": 94.48333333333333,
+      "max_start_speed": 95.9,
+      "ivb": 17.185714285714287,
+      "hb": 6.852380952380953,
+      "release_pos_z": 6.0117290738627585,
+      "release_pos_x": 2.1164684800919282,
+      "extension": 6.217976648318988,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 22,
+      "pitch_percent": 0.28205128205128205,
+      "rhh_percent": 0.3023255813953488,
+      "lhh_percent": 0.2571428571428571,
+      "start_speed": 84.05454545454546,
+      "max_start_speed": 86.3,
+      "ivb": -5.677272727272727,
+      "hb": -4.159090909090909,
+      "release_pos_z": 5.935001852901727,
+      "release_pos_x": 2.153875328234437,
+      "extension": 6.174542798132544,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 14,
+      "pitch_percent": 0.1794871794871795,
+      "rhh_percent": 0.06976744186046512,
+      "lhh_percent": 0.3142857142857143,
+      "start_speed": 94.7142857142857,
+      "max_start_speed": 96.1,
+      "ivb": 12.185714285714283,
+      "hb": 15.514285714285714,
+      "release_pos_z": 5.953674905463567,
+      "release_pos_x": 2.225988217115688,
+      "extension": 6.200537961651007,
+      "active_spin_percent": null
+    }
+  ]
+}

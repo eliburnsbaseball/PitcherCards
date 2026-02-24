@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "670351",
+  "pitcher_name": "Jose Rojas",
+  "mlbam_id": "670351",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 15,
+      "pitch_percent": 0.8823529411764706,
+      "rhh_percent": 0.9285714285714286,
+      "lhh_percent": 0.6666666666666666,
+      "start_speed": 56.873333333333335,
+      "max_start_speed": 71.8,
+      "ivb": 18.880000000000003,
+      "hb": -0.8200000000000003,
+      "release_pos_z": 6.732470601323462,
+      "release_pos_x": 2.8727255293731067,
+      "extension": 4.358421079994459,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 2,
+      "pitch_percent": 0.11764705882352941,
+      "rhh_percent": 0.07142857142857142,
+      "lhh_percent": 0.3333333333333333,
+      "start_speed": 46.8,
+      "max_start_speed": 47.8,
+      "ivb": 8.05,
+      "hb": -4.35,
+      "release_pos_z": 6.951197448959215,
+      "release_pos_x": 2.344573617805626,
+      "extension": 3.8327442555769196,
+      "active_spin_percent": null
+    }
+  ]
+}

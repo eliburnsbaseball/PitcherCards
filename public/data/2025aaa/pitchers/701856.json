@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "701856",
+  "pitcher_name": "Patrick Halligan",
+  "mlbam_id": "701856",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 57,
+      "pitch_percent": 0.5181818181818182,
+      "rhh_percent": 0.44680851063829785,
+      "lhh_percent": 0.5714285714285714,
+      "start_speed": 93.34385964912279,
+      "max_start_speed": 94.9,
+      "ivb": 14.703508771929823,
+      "hb": 7.921052631578948,
+      "release_pos_z": 6.682320945448623,
+      "release_pos_x": 0.8677958809850953,
+      "extension": 6.024750381004748,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 29,
+      "pitch_percent": 0.2636363636363636,
+      "rhh_percent": 0.425531914893617,
+      "lhh_percent": 0.14285714285714285,
+      "start_speed": 86.2,
+      "max_start_speed": 87.8,
+      "ivb": 6.765517241379311,
+      "hb": -2.627586206896552,
+      "release_pos_z": 6.687508759218898,
+      "release_pos_x": 0.801801783930416,
+      "extension": 5.997166393216425,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 24,
+      "pitch_percent": 0.21818181818181817,
+      "rhh_percent": 0.1276595744680851,
+      "lhh_percent": 0.2857142857142857,
+      "start_speed": 80.43333333333334,
+      "max_start_speed": 81.9,
+      "ivb": 0.6958333333333333,
+      "hb": 7.562499999999999,
+      "release_pos_z": 6.699736362206321,
+      "release_pos_x": 0.8427423714071313,
+      "extension": 5.998698520921329,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "669395",
+  "pitcher_name": "Dylan Coleman",
+  "mlbam_id": "669395",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 85,
+      "pitch_percent": 0.6159420289855072,
+      "rhh_percent": 0.52,
+      "lhh_percent": 0.7301587301587301,
+      "start_speed": 95.15882352941175,
+      "max_start_speed": 98.8,
+      "ivb": 12.765882352941176,
+      "hb": 3.61529411764706,
+      "release_pos_z": 5.949259456322808,
+      "release_pos_x": 1.9429346984270657,
+      "extension": 6.568250641436254,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 32,
+      "pitch_percent": 0.2318840579710145,
+      "rhh_percent": 0.28,
+      "lhh_percent": 0.1746031746031746,
+      "start_speed": 89.70624999999998,
+      "max_start_speed": 93.2,
+      "ivb": 5.43125,
+      "hb": -3.90625,
+      "release_pos_z": 5.958372253690163,
+      "release_pos_x": 1.9403293930471404,
+      "extension": 6.5435060026083605,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 21,
+      "pitch_percent": 0.15217391304347827,
+      "rhh_percent": 0.2,
+      "lhh_percent": 0.09523809523809523,
+      "start_speed": 81.72857142857144,
+      "max_start_speed": 84.2,
+      "ivb": 3.2523809523809524,
+      "hb": -16.776190476190475,
+      "release_pos_z": 5.904550752616539,
+      "release_pos_x": 1.834863010906506,
+      "extension": 6.620275860319258,
+      "active_spin_percent": null
+    }
+  ]
+}

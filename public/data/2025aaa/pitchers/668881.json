@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "668881",
+  "pitcher_name": "Hunter Greene",
+  "mlbam_id": "668881",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 90,
+      "pitch_percent": 0.46153846153846156,
+      "rhh_percent": 0.4461538461538462,
+      "lhh_percent": 0.46923076923076923,
+      "start_speed": 99.10444444444445,
+      "max_start_speed": 100.5,
+      "ivb": 17.12888888888889,
+      "hb": 9.752222222222223,
+      "release_pos_z": 6.087157624934899,
+      "release_pos_x": 1.7021709836920706,
+      "extension": 6.540421487700774,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 78,
+      "pitch_percent": 0.4,
+      "rhh_percent": 0.5538461538461539,
+      "lhh_percent": 0.3230769230769231,
+      "start_speed": 89.43461538461538,
+      "max_start_speed": 91.8,
+      "ivb": 3.019230769230769,
+      "hb": -5.064102564102565,
+      "release_pos_z": 5.9735499103148175,
+      "release_pos_x": 1.9644077368121198,
+      "extension": 6.40446013421964,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 27,
+      "pitch_percent": 0.13846153846153847,
+      "rhh_percent": 0,
+      "lhh_percent": 0.2076923076923077,
+      "start_speed": 87.57407407407406,
+      "max_start_speed": 89.6,
+      "ivb": 8.692592592592591,
+      "hb": 11.307407407407409,
+      "release_pos_z": 6.028972921455189,
+      "release_pos_x": 1.461607891393367,
+      "extension": 6.610664608944039,
+      "active_spin_percent": null
+    }
+  ]
+}

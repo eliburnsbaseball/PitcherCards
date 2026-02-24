@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "801682",
+  "pitcher_name": "Ryan Boyer",
+  "mlbam_id": "801682",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 63,
+      "pitch_percent": 0.63,
+      "rhh_percent": 0.6338028169014085,
+      "lhh_percent": 0.6206896551724138,
+      "start_speed": 89.87619047619049,
+      "max_start_speed": 92.5,
+      "ivb": 13.796825396825396,
+      "hb": 5.539682539682539,
+      "release_pos_z": 5.00984898826579,
+      "release_pos_x": 1.0588285536626005,
+      "extension": 6.7395232337783,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 36,
+      "pitch_percent": 0.36,
+      "rhh_percent": 0.36619718309859156,
+      "lhh_percent": 0.3448275862068966,
+      "start_speed": 78.8583333333333,
+      "max_start_speed": 83,
+      "ivb": 4.511111111111112,
+      "hb": -14.716666666666665,
+      "release_pos_z": 4.613935422858633,
+      "release_pos_x": 1.2371532960222074,
+      "extension": 6.655731054735348,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 1,
+      "pitch_percent": 0.01,
+      "rhh_percent": 0,
+      "lhh_percent": 0.034482758620689655,
+      "start_speed": 84.8,
+      "max_start_speed": 84.8,
+      "ivb": 5.9,
+      "hb": 14.3,
+      "release_pos_z": 4.908511013951121,
+      "release_pos_x": 0.9586790357211494,
+      "extension": 6.930627418896826,
+      "active_spin_percent": null
+    }
+  ]
+}

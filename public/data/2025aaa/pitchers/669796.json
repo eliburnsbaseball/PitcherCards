@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "669796",
+  "pitcher_name": "Jose E. Hernandez",
+  "mlbam_id": "669796",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 240,
+      "pitch_percent": 0.48,
+      "rhh_percent": 0.4624624624624625,
+      "lhh_percent": 0.5149700598802395,
+      "start_speed": 92.5791666666667,
+      "max_start_speed": 94.9,
+      "ivb": 16.941250000000004,
+      "hb": 4.911666666666666,
+      "release_pos_z": 6.838754655347684,
+      "release_pos_x": 0.5694861231849707,
+      "extension": 5.668237061363692,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 196,
+      "pitch_percent": 0.392,
+      "rhh_percent": 0.3483483483483483,
+      "lhh_percent": 0.47904191616766467,
+      "start_speed": 83.88010204081637,
+      "max_start_speed": 87.6,
+      "ivb": 2.2489795918367337,
+      "hb": -2.437244897959184,
+      "release_pos_z": 6.750671511902755,
+      "release_pos_x": 0.6448859075064256,
+      "extension": 5.760594107814033,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 64,
+      "pitch_percent": 0.128,
+      "rhh_percent": 0.1891891891891892,
+      "lhh_percent": 0.005988023952095809,
+      "start_speed": 87.921875,
+      "max_start_speed": 89.8,
+      "ivb": 11.5296875,
+      "hb": 10.56875,
+      "release_pos_z": 6.721629820124418,
+      "release_pos_x": 0.7672019146301334,
+      "extension": 5.708666917314572,
+      "active_spin_percent": null
+    }
+  ]
+}

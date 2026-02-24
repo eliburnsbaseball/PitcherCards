@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "663986",
+  "pitcher_name": "Trevor Stephan",
+  "mlbam_id": "663986",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 158,
+      "pitch_percent": 0.45014245014245013,
+      "rhh_percent": 0.4444444444444444,
+      "lhh_percent": 0.45751633986928103,
+      "start_speed": 91.7778481012658,
+      "max_start_speed": 93.5,
+      "ivb": 14.509493670886082,
+      "hb": 5.312025316455696,
+      "release_pos_z": 5.628912310787257,
+      "release_pos_x": 2.4890816551515784,
+      "extension": 6.539732086365963,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 105,
+      "pitch_percent": 0.29914529914529914,
+      "rhh_percent": 0.21212121212121213,
+      "lhh_percent": 0.4117647058823529,
+      "start_speed": 84.56952380952382,
+      "max_start_speed": 91.2,
+      "ivb": 4.2647619047619045,
+      "hb": 9.20095238095238,
+      "release_pos_z": 5.706718576230958,
+      "release_pos_x": 2.4376571012087416,
+      "extension": 6.51022714691007,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 88,
+      "pitch_percent": 0.25071225071225073,
+      "rhh_percent": 0.3434343434343434,
+      "lhh_percent": 0.13071895424836602,
+      "start_speed": 81.09204545454547,
+      "max_start_speed": 84.3,
+      "ivb": 2.7227272727272736,
+      "hb": -10.63409090909091,
+      "release_pos_z": 5.647689134509452,
+      "release_pos_x": 2.4467191108129778,
+      "extension": 6.449753280793678,
+      "active_spin_percent": null
+    }
+  ]
+}

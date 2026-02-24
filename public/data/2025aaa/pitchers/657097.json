@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "657097",
+  "pitcher_name": "Jacob Webb",
+  "mlbam_id": "657097",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 30,
+      "pitch_percent": 0.6122448979591837,
+      "rhh_percent": 0.6666666666666666,
+      "lhh_percent": 0.5263157894736842,
+      "start_speed": 94.34333333333333,
+      "max_start_speed": 95.3,
+      "ivb": 17.166666666666668,
+      "hb": 8.276666666666666,
+      "release_pos_z": 5.636601193528696,
+      "release_pos_x": 3.0579044160999467,
+      "extension": 6.240937027122436,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 13,
+      "pitch_percent": 0.2653061224489796,
+      "rhh_percent": 0.13333333333333333,
+      "lhh_percent": 0.47368421052631576,
+      "start_speed": 85.58461538461539,
+      "max_start_speed": 87.1,
+      "ivb": 11.253846153846155,
+      "hb": 16.892307692307693,
+      "release_pos_z": 5.738226033841746,
+      "release_pos_x": 2.9975747074577352,
+      "extension": 6.291024987594225,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 6,
+      "pitch_percent": 0.12244897959183673,
+      "rhh_percent": 0.2,
+      "lhh_percent": 0,
+      "start_speed": 82.11666666666666,
+      "max_start_speed": 82.8,
+      "ivb": -8.299999999999999,
+      "hb": -12.85,
+      "release_pos_z": 5.717880579330114,
+      "release_pos_x": 3.136265800378286,
+      "extension": 5.993639736569726,
+      "active_spin_percent": null
+    }
+  ]
+}

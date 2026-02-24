@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "836128",
+  "pitcher_name": "Colton Cosper",
+  "mlbam_id": "836128",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 26,
+      "pitch_percent": 0.5652173913043478,
+      "rhh_percent": 0.5681818181818182,
+      "lhh_percent": 0.5,
+      "start_speed": 85.68461538461537,
+      "max_start_speed": 87.4,
+      "ivb": 12.415384615384614,
+      "hb": 9.426923076923076,
+      "release_pos_z": 4.902569218372617,
+      "release_pos_x": 2.6133899865618653,
+      "extension": 6.285183670731836,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 11,
+      "pitch_percent": 0.2391304347826087,
+      "rhh_percent": 0.22727272727272727,
+      "lhh_percent": 0.5,
+      "start_speed": 75.5909090909091,
+      "max_start_speed": 76.9,
+      "ivb": -3.272727272727273,
+      "hb": -5.5,
+      "release_pos_z": 5.044573288559941,
+      "release_pos_x": 2.593318995621165,
+      "extension": 6.186469424189988,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 9,
+      "pitch_percent": 0.1956521739130435,
+      "rhh_percent": 0.20454545454545456,
+      "lhh_percent": 0,
+      "start_speed": 79.38888888888889,
+      "max_start_speed": 80.6,
+      "ivb": 0.2333333333333332,
+      "hb": 14.188888888888888,
+      "release_pos_z": 4.876654601349846,
+      "release_pos_x": 2.7443819936747818,
+      "extension": 6.218825555789952,
+      "active_spin_percent": null
+    }
+  ]
+}

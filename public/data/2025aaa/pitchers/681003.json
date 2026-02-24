@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "681003",
+  "pitcher_name": "Andrew Walling",
+  "mlbam_id": "681003",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 50,
+      "pitch_percent": 0.6172839506172839,
+      "rhh_percent": 0.6956521739130435,
+      "lhh_percent": 0.5862068965517241,
+      "start_speed": 90.99999999999996,
+      "max_start_speed": 94.9,
+      "ivb": 4.614000000000001,
+      "hb": -4.209999999999999,
+      "release_pos_z": 5.644933946892539,
+      "release_pos_x": 2.8440009747628925,
+      "extension": 6.552714777103226,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 23,
+      "pitch_percent": 0.2839506172839506,
+      "rhh_percent": 0.21739130434782608,
+      "lhh_percent": 0.3103448275862069,
+      "start_speed": 85.08260869565218,
+      "max_start_speed": 86.4,
+      "ivb": 0.2782608695652174,
+      "hb": -9.004347826086958,
+      "release_pos_z": 5.40410482902019,
+      "release_pos_x": 3.0176544267136687,
+      "extension": 6.626090373858088,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 8,
+      "pitch_percent": 0.09876543209876543,
+      "rhh_percent": 0.08695652173913043,
+      "lhh_percent": 0.10344827586206896,
+      "start_speed": 95.325,
+      "max_start_speed": 96.3,
+      "ivb": 12.8625,
+      "hb": 0.7625000000000001,
+      "release_pos_z": 5.775006743745167,
+      "release_pos_x": 2.849476110246472,
+      "extension": 6.557427663534207,
+      "active_spin_percent": null
+    }
+  ]
+}

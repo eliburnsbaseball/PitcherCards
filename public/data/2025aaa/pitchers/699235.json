@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "699235",
+  "pitcher_name": "David Leon",
+  "mlbam_id": "699235",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 17,
+      "pitch_percent": 0.9444444444444444,
+      "rhh_percent": 1,
+      "lhh_percent": 0.8888888888888888,
+      "start_speed": 70.98823529411764,
+      "max_start_speed": 83.4,
+      "ivb": 15.794117647058824,
+      "hb": 3.0647058823529405,
+      "release_pos_z": 6.557939301490309,
+      "release_pos_x": 1.900115293788635,
+      "extension": 5.452367478040976,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 1,
+      "pitch_percent": 0.05555555555555555,
+      "rhh_percent": 0,
+      "lhh_percent": 0.1111111111111111,
+      "start_speed": 85.3,
+      "max_start_speed": 85.3,
+      "ivb": 14.9,
+      "hb": 1.9,
+      "release_pos_z": 6.427988587120044,
+      "release_pos_x": 1.8756818981330172,
+      "extension": 5.216921951643249,
+      "active_spin_percent": null
+    }
+  ]
+}

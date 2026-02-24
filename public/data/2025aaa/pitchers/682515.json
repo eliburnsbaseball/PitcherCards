@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "682515",
+  "pitcher_name": "Logan Porter",
+  "mlbam_id": "682515",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 18,
+      "pitch_percent": 0.75,
+      "rhh_percent": 0.7333333333333333,
+      "lhh_percent": 0.7777777777777778,
+      "start_speed": 33.3,
+      "max_start_speed": 34.5,
+      "ivb": 19.155555555555555,
+      "hb": 1.9055555555555561,
+      "release_pos_z": 7.29139591883992,
+      "release_pos_x": 1.1170278268415395,
+      "extension": 3.934372658626988,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 3,
+      "pitch_percent": 0.125,
+      "rhh_percent": 0.13333333333333333,
+      "lhh_percent": 0.1111111111111111,
+      "start_speed": 33.199999999999996,
+      "max_start_speed": 34.6,
+      "ivb": 23.26666666666667,
+      "hb": 4,
+      "release_pos_z": 7.320519178239404,
+      "release_pos_x": 1.0175663989401489,
+      "extension": 3.8904329970694675,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 3,
+      "pitch_percent": 0.125,
+      "rhh_percent": 0.13333333333333333,
+      "lhh_percent": 0.1111111111111111,
+      "start_speed": 79.23333333333333,
+      "max_start_speed": 80.3,
+      "ivb": 11.4,
+      "hb": 10.566666666666668,
+      "release_pos_z": 5.629957453127609,
+      "release_pos_x": 1.9015473360704174,
+      "extension": 5.2206321230790005,
+      "active_spin_percent": null
+    }
+  ]
+}

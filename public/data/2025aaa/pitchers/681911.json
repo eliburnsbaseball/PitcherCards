@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "681911",
+  "pitcher_name": "Alex Vesia",
+  "mlbam_id": "681911",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 22,
+      "pitch_percent": 0.6111111111111112,
+      "rhh_percent": 0.6206896551724138,
+      "lhh_percent": 0.5714285714285714,
+      "start_speed": 91.91363636363636,
+      "max_start_speed": 93.2,
+      "ivb": 21.304545454545455,
+      "hb": 4.872727272727272,
+      "release_pos_z": 6.020472845298948,
+      "release_pos_x": 0.3841603197383916,
+      "extension": 6.2224371003703505,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 11,
+      "pitch_percent": 0.3055555555555556,
+      "rhh_percent": 0.27586206896551724,
+      "lhh_percent": 0.42857142857142855,
+      "start_speed": 85.69999999999999,
+      "max_start_speed": 87,
+      "ivb": 5.963636363636363,
+      "hb": -7.072727272727272,
+      "release_pos_z": 6.205263478112763,
+      "release_pos_x": 0.25144377673488444,
+      "extension": 6.128888223682457,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 3,
+      "pitch_percent": 0.08333333333333333,
+      "rhh_percent": 0.10344827586206896,
+      "lhh_percent": 0,
+      "start_speed": 83.43333333333334,
+      "max_start_speed": 83.5,
+      "ivb": 9.700000000000001,
+      "hb": 12.9,
+      "release_pos_z": 5.948684324347437,
+      "release_pos_x": 0.6642244757297433,
+      "extension": 6.380210432215197,
+      "active_spin_percent": null
+    }
+  ]
+}

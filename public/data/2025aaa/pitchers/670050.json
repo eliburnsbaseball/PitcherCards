@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "670050",
+  "pitcher_name": "Stephen Ridings",
+  "mlbam_id": "670050",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 12,
+      "pitch_percent": 0.5217391304347826,
+      "rhh_percent": 0.46153846153846156,
+      "lhh_percent": 0.6,
+      "start_speed": 95.04166666666667,
+      "max_start_speed": 96.7,
+      "ivb": 16.85,
+      "hb": 9.075000000000001,
+      "release_pos_z": 6.153532290437204,
+      "release_pos_x": 2.129923046492606,
+      "extension": 6.566661670656084,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 9,
+      "pitch_percent": 0.391304347826087,
+      "rhh_percent": 0.46153846153846156,
+      "lhh_percent": 0.3,
+      "start_speed": 88.5,
+      "max_start_speed": 89.9,
+      "ivb": 3.9777777777777783,
+      "hb": 0.18888888888888897,
+      "release_pos_z": 6.086053919634091,
+      "release_pos_x": 2.206305202096792,
+      "extension": 6.54168702934239,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 2,
+      "pitch_percent": 0.08695652173913043,
+      "rhh_percent": 0.07692307692307693,
+      "lhh_percent": 0.1,
+      "start_speed": 91.55000000000001,
+      "max_start_speed": 95.7,
+      "ivb": 11.3,
+      "hb": 14.45,
+      "release_pos_z": 6.089208025526341,
+      "release_pos_x": 2.2804601776259856,
+      "extension": 6.5355774116143355,
+      "active_spin_percent": null
+    }
+  ]
+}

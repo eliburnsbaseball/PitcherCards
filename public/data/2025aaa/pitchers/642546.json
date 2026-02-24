@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "642546",
+  "pitcher_name": "Jonathan Hernández",
+  "mlbam_id": "642546",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 122,
+      "pitch_percent": 0.5893719806763285,
+      "rhh_percent": 0.5634920634920635,
+      "lhh_percent": 0.6296296296296297,
+      "start_speed": 87.02213114754099,
+      "max_start_speed": 91,
+      "ivb": 2.794262295081967,
+      "hb": -4.324590163934426,
+      "release_pos_z": 5.54188497817025,
+      "release_pos_x": 2.336826474193765,
+      "extension": 6.2402099588392055,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 79,
+      "pitch_percent": 0.38164251207729466,
+      "rhh_percent": 0.4365079365079365,
+      "lhh_percent": 0.2962962962962963,
+      "start_speed": 95.28987341772151,
+      "max_start_speed": 98.4,
+      "ivb": 4.91645569620253,
+      "hb": 17.48987341772151,
+      "release_pos_z": 5.430382194473606,
+      "release_pos_x": 2.4021137478795564,
+      "extension": 6.186531193147901,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 6,
+      "pitch_percent": 0.028985507246376812,
+      "rhh_percent": 0,
+      "lhh_percent": 0.07407407407407407,
+      "start_speed": 90.16666666666667,
+      "max_start_speed": 92.2,
+      "ivb": 3.766666666666667,
+      "hb": 18.133333333333333,
+      "release_pos_z": 5.449609004949697,
+      "release_pos_x": 2.335520764039332,
+      "extension": 6.357595921712963,
+      "active_spin_percent": null
+    }
+  ]
+}

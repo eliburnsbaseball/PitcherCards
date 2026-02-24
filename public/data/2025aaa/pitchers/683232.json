@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "683232",
+  "pitcher_name": "Nick Mears",
+  "mlbam_id": "683232",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 30,
+      "pitch_percent": 0.6976744186046512,
+      "rhh_percent": 0.7037037037037037,
+      "lhh_percent": 0.6875,
+      "start_speed": 94.89333333333335,
+      "max_start_speed": 96,
+      "ivb": 18.136666666666667,
+      "hb": 5.879999999999999,
+      "release_pos_z": 6.355752831993355,
+      "release_pos_x": 1.7312286512695716,
+      "extension": 6.5873256867584775,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 9,
+      "pitch_percent": 0.20930232558139536,
+      "rhh_percent": 0.25925925925925924,
+      "lhh_percent": 0.125,
+      "start_speed": 85.86666666666667,
+      "max_start_speed": 87.4,
+      "ivb": 0.06666666666666668,
+      "hb": -2.3111111111111113,
+      "release_pos_z": 6.308063774203464,
+      "release_pos_x": 1.7897267674148176,
+      "extension": 6.559587432057679,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 4,
+      "pitch_percent": 0.09302325581395349,
+      "rhh_percent": 0.037037037037037035,
+      "lhh_percent": 0.1875,
+      "start_speed": 80.525,
+      "max_start_speed": 80.9,
+      "ivb": -13.15,
+      "hb": -4.6000000000000005,
+      "release_pos_z": 6.3162304144526775,
+      "release_pos_x": 1.814530296128881,
+      "extension": 6.535824324884787,
+      "active_spin_percent": null
+    }
+  ]
+}

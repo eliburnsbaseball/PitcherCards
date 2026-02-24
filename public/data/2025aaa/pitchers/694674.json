@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "694674",
+  "pitcher_name": "Antonio Menendez",
+  "mlbam_id": "694674",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 231,
+      "pitch_percent": 0.5717821782178217,
+      "rhh_percent": 0.576036866359447,
+      "lhh_percent": 0.5668449197860963,
+      "start_speed": 89.96103896103898,
+      "max_start_speed": 92.2,
+      "ivb": -1.8350649350649353,
+      "hb": 11.342857142857149,
+      "release_pos_z": 3.3039813344193623,
+      "release_pos_x": 4.358645430749624,
+      "extension": 6.13354240448209,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 135,
+      "pitch_percent": 0.3341584158415842,
+      "rhh_percent": 0.33640552995391704,
+      "lhh_percent": 0.3315508021390374,
+      "start_speed": 80.39851851851857,
+      "max_start_speed": 82.3,
+      "ivb": 7.680740740740742,
+      "hb": -15.395555555555553,
+      "release_pos_z": 2.9601830502406896,
+      "release_pos_x": 4.420669581228825,
+      "extension": 6.039104155095515,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 38,
+      "pitch_percent": 0.09405940594059406,
+      "rhh_percent": 0.08755760368663594,
+      "lhh_percent": 0.10160427807486631,
+      "start_speed": 83.28684210526318,
+      "max_start_speed": 89.8,
+      "ivb": 7.0736842105263165,
+      "hb": -8.35,
+      "release_pos_z": 3.036914191327421,
+      "release_pos_x": 4.492261176535509,
+      "extension": 6.130274774402488,
+      "active_spin_percent": null
+    }
+  ]
+}

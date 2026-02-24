@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "689254",
+  "pitcher_name": "Mason Fluharty",
+  "mlbam_id": "689254",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 110,
+      "pitch_percent": 0.48672566371681414,
+      "rhh_percent": 0.5673076923076923,
+      "lhh_percent": 0.4180327868852459,
+      "start_speed": 90.42909090909093,
+      "max_start_speed": 92.5,
+      "ivb": 9.997272727272732,
+      "hb": -2.9172727272727257,
+      "release_pos_z": 5.76929457827977,
+      "release_pos_x": 3.6598079365571783,
+      "extension": 6.597351659859329,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 103,
+      "pitch_percent": 0.4557522123893805,
+      "rhh_percent": 0.3173076923076923,
+      "lhh_percent": 0.5737704918032787,
+      "start_speed": 81.83300970873786,
+      "max_start_speed": 84.6,
+      "ivb": 0.5766990291262137,
+      "hb": -15.817475728155342,
+      "release_pos_z": 5.84691136609542,
+      "release_pos_x": 3.426502454013625,
+      "extension": 6.752835449806262,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 13,
+      "pitch_percent": 0.05752212389380531,
+      "rhh_percent": 0.11538461538461539,
+      "lhh_percent": 0.00819672131147541,
+      "start_speed": 90.05384615384618,
+      "max_start_speed": 92.3,
+      "ivb": 7.076923076923077,
+      "hb": 10.884615384615385,
+      "release_pos_z": 5.824074115927387,
+      "release_pos_x": 3.647451414696096,
+      "extension": 6.797317365676913,
+      "active_spin_percent": null
+    }
+  ]
+}

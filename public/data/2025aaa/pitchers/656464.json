@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "656464",
+  "pitcher_name": "Kevin Ginkel",
+  "mlbam_id": "656464",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 61,
+      "pitch_percent": 0.5350877192982456,
+      "rhh_percent": 0.5211267605633803,
+      "lhh_percent": 0.5581395348837209,
+      "start_speed": 95.22295081967214,
+      "max_start_speed": 96.8,
+      "ivb": 14.552459016393446,
+      "hb": 9.32950819672131,
+      "release_pos_z": 6.479658257824974,
+      "release_pos_x": 2.0502917024874203,
+      "extension": 6.84717339980693,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 45,
+      "pitch_percent": 0.39473684210526316,
+      "rhh_percent": 0.38028169014084506,
+      "lhh_percent": 0.4186046511627907,
+      "start_speed": 84.27333333333334,
+      "max_start_speed": 86.4,
+      "ivb": -2.2844444444444436,
+      "hb": -4.115555555555555,
+      "release_pos_z": 6.516714884067628,
+      "release_pos_x": 2.076096476296386,
+      "extension": 6.677738340027684,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 8,
+      "pitch_percent": 0.07017543859649122,
+      "rhh_percent": 0.09859154929577464,
+      "lhh_percent": 0.023255813953488372,
+      "start_speed": 94.0375,
+      "max_start_speed": 94.5,
+      "ivb": 10.337500000000002,
+      "hb": 14.937499999999998,
+      "release_pos_z": 6.385194414228353,
+      "release_pos_x": 2.0925895844432247,
+      "extension": 6.994942492812015,
+      "active_spin_percent": null
+    }
+  ]
+}

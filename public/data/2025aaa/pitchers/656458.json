@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "656458",
+  "pitcher_name": "Lucas Gilbreath",
+  "mlbam_id": "656458",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 433,
+      "pitch_percent": 0.5587096774193548,
+      "rhh_percent": 0.5628517823639775,
+      "lhh_percent": 0.5495867768595041,
+      "start_speed": 89.81685912240184,
+      "max_start_speed": 93.5,
+      "ivb": 13.125866050808318,
+      "hb": 1.9789838337182457,
+      "release_pos_z": 5.802099763999744,
+      "release_pos_x": 1.9853104092750284,
+      "extension": 5.951614558356871,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 277,
+      "pitch_percent": 0.3574193548387097,
+      "rhh_percent": 0.3151969981238274,
+      "lhh_percent": 0.45041322314049587,
+      "start_speed": 79.35595667870037,
+      "max_start_speed": 83.6,
+      "ivb": -3.159927797833935,
+      "hb": -2.5592057761732843,
+      "release_pos_z": 5.7232117279048556,
+      "release_pos_x": 2.089794187151535,
+      "extension": 5.949409114088535,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 65,
+      "pitch_percent": 0.08387096774193549,
+      "rhh_percent": 0.12195121951219512,
+      "lhh_percent": 0,
+      "start_speed": 81.9723076923077,
+      "max_start_speed": 85,
+      "ivb": 5.704615384615384,
+      "hb": 7.3599999999999985,
+      "release_pos_z": 5.628787608904597,
+      "release_pos_x": 2.190985024072297,
+      "extension": 6.0178754344767,
+      "active_spin_percent": null
+    }
+  ]
+}

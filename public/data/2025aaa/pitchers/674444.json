@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "674444",
+  "pitcher_name": "Steven Cruz",
+  "mlbam_id": "674444",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 73,
+      "pitch_percent": 0.5447761194029851,
+      "rhh_percent": 0.5824175824175825,
+      "lhh_percent": 0.46511627906976744,
+      "start_speed": 97.41780821917813,
+      "max_start_speed": 100,
+      "ivb": 15.128767123287673,
+      "hb": 9.43013698630137,
+      "release_pos_z": 5.625787285550242,
+      "release_pos_x": 3.2713663561130986,
+      "extension": 6.613206820972956,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 42,
+      "pitch_percent": 0.31343283582089554,
+      "rhh_percent": 0.32967032967032966,
+      "lhh_percent": 0.27906976744186046,
+      "start_speed": 88.3047619047619,
+      "max_start_speed": 92.9,
+      "ivb": 3.6380952380952385,
+      "hb": -5.335714285714283,
+      "release_pos_z": 5.769345658926432,
+      "release_pos_x": 3.1978244254766213,
+      "extension": 6.5920975631586165,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 19,
+      "pitch_percent": 0.1417910447761194,
+      "rhh_percent": 0.08791208791208792,
+      "lhh_percent": 0.2558139534883721,
+      "start_speed": 92.93157894736841,
+      "max_start_speed": 95.1,
+      "ivb": 10.063157894736841,
+      "hb": 0.3105263157894737,
+      "release_pos_z": 5.632110652259315,
+      "release_pos_x": 3.2827594407622676,
+      "extension": 6.591312556014431,
+      "active_spin_percent": null
+    }
+  ]
+}

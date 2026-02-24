@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "663546",
+  "pitcher_name": "Sean Hjelle",
+  "mlbam_id": "663546",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 551,
+      "pitch_percent": 0.5183443085606774,
+      "rhh_percent": 0.5893186003683242,
+      "lhh_percent": 0.4442307692307692,
+      "start_speed": 93.17078039927392,
+      "max_start_speed": 95.6,
+      "ivb": 4.427767695099819,
+      "hb": 14.377858439201445,
+      "release_pos_z": 6.2950306181518325,
+      "release_pos_x": 1.5122982921184813,
+      "extension": 6.5472818150869845,
+      "active_spin_percent": null
+    },
+    {
+      "code": "KC",
+      "title": "knuckle curve",
+      "color": "#6236CD",
+      "count": 347,
+      "pitch_percent": 0.3264346190028222,
+      "rhh_percent": 0.3443830570902394,
+      "lhh_percent": 0.3076923076923077,
+      "start_speed": 85.05648414985588,
+      "max_start_speed": 90.8,
+      "ivb": -1.6109510086455319,
+      "hb": -3.9775216138328493,
+      "release_pos_z": 6.228774693026593,
+      "release_pos_x": 1.6783123718079307,
+      "extension": 6.480766463553253,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 165,
+      "pitch_percent": 0.15522107243650046,
+      "rhh_percent": 0.06629834254143646,
+      "lhh_percent": 0.24807692307692308,
+      "start_speed": 90.55696969696966,
+      "max_start_speed": 94.3,
+      "ivb": 6.715151515151515,
+      "hb": 2.191515151515151,
+      "release_pos_z": 6.292902295816228,
+      "release_pos_x": 1.5950212184225123,
+      "extension": 6.509175374305489,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "656945",
+  "pitcher_name": "Tanner Scott",
+  "mlbam_id": "656945",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 11,
+      "pitch_percent": 0.6875,
+      "rhh_percent": 0.75,
+      "lhh_percent": 0.5,
+      "start_speed": 97.67272727272729,
+      "max_start_speed": 98.7,
+      "ivb": 18.927272727272726,
+      "hb": 9.981818181818182,
+      "release_pos_z": 5.307628139010883,
+      "release_pos_x": 2.323352082448194,
+      "extension": 6.125574603006837,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 5,
+      "pitch_percent": 0.3125,
+      "rhh_percent": 0.25,
+      "lhh_percent": 0.5,
+      "start_speed": 90.86,
+      "max_start_speed": 91.8,
+      "ivb": 4.12,
+      "hb": -4.840000000000001,
+      "release_pos_z": 5.272083805746959,
+      "release_pos_x": 2.4217989292620645,
+      "extension": 6.160285379085012,
+      "active_spin_percent": null
+    }
+  ]
+}

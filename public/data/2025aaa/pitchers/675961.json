@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "675961",
+  "pitcher_name": "Alika Williams",
+  "mlbam_id": "675961",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 12,
+      "pitch_percent": 0.8,
+      "rhh_percent": 0.8571428571428571,
+      "lhh_percent": 0.75,
+      "start_speed": 43.68333333333334,
+      "max_start_speed": 50,
+      "ivb": 20.833333333333332,
+      "hb": -0.4416666666666666,
+      "release_pos_z": 7.10925607067196,
+      "release_pos_x": 1.442982309221172,
+      "extension": 4.428892356302076,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 3,
+      "pitch_percent": 0.2,
+      "rhh_percent": 0.14285714285714285,
+      "lhh_percent": 0.25,
+      "start_speed": 42.03333333333334,
+      "max_start_speed": 49.7,
+      "ivb": 18.733333333333334,
+      "hb": 2.733333333333333,
+      "release_pos_z": 7.182280887216251,
+      "release_pos_x": 1.4413939109645433,
+      "extension": 4.203123431310964,
+      "active_spin_percent": null
+    }
+  ]
+}

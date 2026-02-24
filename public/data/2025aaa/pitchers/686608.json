@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "686608",
+  "pitcher_name": "Jacob Wallace",
+  "mlbam_id": "686608",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 222,
+      "pitch_percent": 0.346875,
+      "rhh_percent": 0.33663366336633666,
+      "lhh_percent": 0.3644067796610169,
+      "start_speed": 94.09684684684682,
+      "max_start_speed": 95.9,
+      "ivb": 14.290090090090093,
+      "hb": 4.609009009009011,
+      "release_pos_z": 5.874946673401482,
+      "release_pos_x": 2.1649009694929595,
+      "extension": 6.252611329794863,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 214,
+      "pitch_percent": 0.334375,
+      "rhh_percent": 0.3465346534653465,
+      "lhh_percent": 0.3135593220338983,
+      "start_speed": 83.65233644859812,
+      "max_start_speed": 86.2,
+      "ivb": -5.359345794392526,
+      "hb": -6.43785046728972,
+      "release_pos_z": 5.979024391980912,
+      "release_pos_x": 2.0388322998939774,
+      "extension": 6.095176031882178,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 204,
+      "pitch_percent": 0.31875,
+      "rhh_percent": 0.31683168316831684,
+      "lhh_percent": 0.3220338983050847,
+      "start_speed": 88.6504901960785,
+      "max_start_speed": 91.2,
+      "ivb": 4.784313725490197,
+      "hb": -3.1999999999999997,
+      "release_pos_z": 5.92987964688953,
+      "release_pos_x": 2.089971227214349,
+      "extension": 6.202861968072654,
+      "active_spin_percent": null
+    }
+  ]
+}

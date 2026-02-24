@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "682624",
+  "pitcher_name": "Sandy Gaston",
+  "mlbam_id": "682624",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 60,
+      "pitch_percent": 0.6818181818181818,
+      "rhh_percent": 0.6052631578947368,
+      "lhh_percent": 0.74,
+      "start_speed": 93.94166666666666,
+      "max_start_speed": 97.7,
+      "ivb": 12.145000000000001,
+      "hb": 3.5999999999999996,
+      "release_pos_z": 5.659560283124653,
+      "release_pos_x": 2.164028021263424,
+      "extension": 7.149235041685463,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 19,
+      "pitch_percent": 0.2159090909090909,
+      "rhh_percent": 0.2894736842105263,
+      "lhh_percent": 0.16,
+      "start_speed": 88.73157894736842,
+      "max_start_speed": 92.6,
+      "ivb": 5.6421052631578945,
+      "hb": -1.7526315789473683,
+      "release_pos_z": 5.745624012506201,
+      "release_pos_x": 2.1196556596565155,
+      "extension": 7.123637494738268,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 9,
+      "pitch_percent": 0.10227272727272728,
+      "rhh_percent": 0.10526315789473684,
+      "lhh_percent": 0.1,
+      "start_speed": 84.13333333333333,
+      "max_start_speed": 87.4,
+      "ivb": 3.4,
+      "hb": -3.1222222222222222,
+      "release_pos_z": 5.71947410136605,
+      "release_pos_x": 2.158619368894923,
+      "extension": 7.157332156323396,
+      "active_spin_percent": null
+    }
+  ]
+}

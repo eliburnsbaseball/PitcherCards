@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "657193",
+  "pitcher_name": "Eddy Alvarez",
+  "mlbam_id": "657193",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 4,
+      "pitch_percent": 0.3333333333333333,
+      "rhh_percent": 0.42857142857142855,
+      "lhh_percent": 0.2,
+      "start_speed": 66.925,
+      "max_start_speed": 68.7,
+      "ivb": 15.475,
+      "hb": 8.950000000000001,
+      "release_pos_z": 6.109118643096934,
+      "release_pos_x": 1.844658395935907,
+      "extension": 3.6546361069671733,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 2,
+      "pitch_percent": 0.16666666666666666,
+      "rhh_percent": 0.14285714285714285,
+      "lhh_percent": 0.2,
+      "start_speed": 69.6,
+      "max_start_speed": 70.3,
+      "ivb": -10.7,
+      "hb": -11.3,
+      "release_pos_z": 6.039554454631348,
+      "release_pos_x": 1.5150408992914326,
+      "extension": 4.566407549267,
+      "active_spin_percent": null
+    }
+  ]
+}

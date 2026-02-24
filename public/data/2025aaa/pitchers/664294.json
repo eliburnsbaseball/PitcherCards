@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "664294",
+  "pitcher_name": "Dauri Moreta",
+  "mlbam_id": "664294",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 360,
+      "pitch_percent": 0.5405405405405406,
+      "rhh_percent": 0.5162162162162162,
+      "lhh_percent": 0.5709459459459459,
+      "start_speed": 82.54888888888877,
+      "max_start_speed": 85.5,
+      "ivb": 1.5055555555555562,
+      "hb": 3.0275000000000007,
+      "release_pos_z": 6.074522635351016,
+      "release_pos_x": 0.9162167322392881,
+      "extension": 6.193127661675865,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 296,
+      "pitch_percent": 0.4444444444444444,
+      "rhh_percent": 0.4837837837837838,
+      "lhh_percent": 0.3952702702702703,
+      "start_speed": 94.33547297297301,
+      "max_start_speed": 97.4,
+      "ivb": 17.319932432432417,
+      "hb": 8.954729729729726,
+      "release_pos_z": 6.186855279410891,
+      "release_pos_x": 0.5961812175724784,
+      "extension": 6.359033906351444,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 10,
+      "pitch_percent": 0.015015015015015015,
+      "rhh_percent": 0,
+      "lhh_percent": 0.033783783783783786,
+      "start_speed": 84.65,
+      "max_start_speed": 86.3,
+      "ivb": 12.88,
+      "hb": 11.05,
+      "release_pos_z": 6.054365045059309,
+      "release_pos_x": 0.8627356933274962,
+      "extension": 6.329874930057803,
+      "active_spin_percent": null
+    }
+  ]
+}

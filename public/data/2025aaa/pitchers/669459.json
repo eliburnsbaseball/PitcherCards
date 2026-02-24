@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "669459",
+  "pitcher_name": "Kyle Nelson",
+  "mlbam_id": "669459",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 407,
+      "pitch_percent": 0.6772046589018302,
+      "rhh_percent": 0.648876404494382,
+      "lhh_percent": 0.7183673469387755,
+      "start_speed": 83.8262899262899,
+      "max_start_speed": 86.9,
+      "ivb": 3.104914004914002,
+      "hb": -2.8837837837837856,
+      "release_pos_z": 5.793120878462923,
+      "release_pos_x": 1.0095441286626206,
+      "extension": 6.071511948724409,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 106,
+      "pitch_percent": 0.17637271214642264,
+      "rhh_percent": 0.17696629213483145,
+      "lhh_percent": 0.17551020408163265,
+      "start_speed": 90.06792452830189,
+      "max_start_speed": 91.5,
+      "ivb": 14.645283018867927,
+      "hb": 6.075471698113207,
+      "release_pos_z": 5.7606739666232185,
+      "release_pos_x": 1.0542616359887018,
+      "extension": 6.105758392289255,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 88,
+      "pitch_percent": 0.1464226289517471,
+      "rhh_percent": 0.17415730337078653,
+      "lhh_percent": 0.10612244897959183,
+      "start_speed": 87.67613636363635,
+      "max_start_speed": 89.5,
+      "ivb": 14.067045454545452,
+      "hb": 4.793181818181818,
+      "release_pos_z": 5.6965702968365655,
+      "release_pos_x": 0.9578378185679269,
+      "extension": 6.190266817262195,
+      "active_spin_percent": null
+    }
+  ]
+}

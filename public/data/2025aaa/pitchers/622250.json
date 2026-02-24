@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "622250",
+  "pitcher_name": "Josh Sborz",
+  "mlbam_id": "622250",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 103,
+      "pitch_percent": 0.553763440860215,
+      "rhh_percent": 0.5241935483870968,
+      "lhh_percent": 0.6129032258064516,
+      "start_speed": 91.74174757281551,
+      "max_start_speed": 93.9,
+      "ivb": 17.185436893203885,
+      "hb": 5.183495145631068,
+      "release_pos_z": 6.344400560550885,
+      "release_pos_x": 0.8643084969453383,
+      "extension": 5.916057002938151,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 50,
+      "pitch_percent": 0.26881720430107525,
+      "rhh_percent": 0.3709677419354839,
+      "lhh_percent": 0.06451612903225806,
+      "start_speed": 83.56199999999997,
+      "max_start_speed": 85.1,
+      "ivb": 2.472,
+      "hb": -2.198,
+      "release_pos_z": 6.284745395961877,
+      "release_pos_x": 1.2269776804602595,
+      "extension": 5.915698848502268,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 33,
+      "pitch_percent": 0.1774193548387097,
+      "rhh_percent": 0.10483870967741936,
+      "lhh_percent": 0.3225806451612903,
+      "start_speed": 79.84242424242423,
+      "max_start_speed": 83,
+      "ivb": -8.642424242424243,
+      "hb": -9.439393939393941,
+      "release_pos_z": 6.239609104580796,
+      "release_pos_x": 1.267055587114824,
+      "extension": 5.912122773740045,
+      "active_spin_percent": null
+    }
+  ]
+}

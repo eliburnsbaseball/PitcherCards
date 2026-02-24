@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "702920",
+  "pitcher_name": "Konner Piotto",
+  "mlbam_id": "702920",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 16,
+      "pitch_percent": 0.6956521739130435,
+      "rhh_percent": 0.4444444444444444,
+      "lhh_percent": 0.8571428571428571,
+      "start_speed": 70.6125,
+      "max_start_speed": 77.7,
+      "ivb": 16.225,
+      "hb": 8.037500000000001,
+      "release_pos_z": 6.330227256489127,
+      "release_pos_x": 1.1558096931960031,
+      "extension": 5.022134918082879,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 5,
+      "pitch_percent": 0.21739130434782608,
+      "rhh_percent": 0.3333333333333333,
+      "lhh_percent": 0.14285714285714285,
+      "start_speed": 49.279999999999994,
+      "max_start_speed": 52.8,
+      "ivb": 12.919999999999998,
+      "hb": 3.9200000000000004,
+      "release_pos_z": 7.032688065506205,
+      "release_pos_x": 0.224760684057174,
+      "extension": 4.479687629118311,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 2,
+      "pitch_percent": 0.08695652173913043,
+      "rhh_percent": 0.2222222222222222,
+      "lhh_percent": 0,
+      "start_speed": 78.05,
+      "max_start_speed": 80.5,
+      "ivb": 18.1,
+      "hb": 11.3,
+      "release_pos_z": 6.293112681859153,
+      "release_pos_x": 0.9882433617105992,
+      "extension": 5.36336566406399,
+      "active_spin_percent": null
+    }
+  ]
+}

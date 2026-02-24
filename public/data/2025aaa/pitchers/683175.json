@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "683175",
+  "pitcher_name": "Connor Phillips",
+  "mlbam_id": "683175",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 337,
+      "pitch_percent": 0.5800344234079173,
+      "rhh_percent": 0.526984126984127,
+      "lhh_percent": 0.6428571428571429,
+      "start_speed": 97.74985163204747,
+      "max_start_speed": 100,
+      "ivb": 16.928486646884284,
+      "hb": 8.7,
+      "release_pos_z": 6.085314459256011,
+      "release_pos_x": 1.1578581440074986,
+      "extension": 6.01222295415111,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 178,
+      "pitch_percent": 0.306368330464716,
+      "rhh_percent": 0.45396825396825397,
+      "lhh_percent": 0.13157894736842105,
+      "start_speed": 86.15617977528092,
+      "max_start_speed": 88.6,
+      "ivb": 0.4471910112359551,
+      "hb": -13.053370786516862,
+      "release_pos_z": 5.955385324248342,
+      "release_pos_x": 1.4185578337200218,
+      "extension": 5.802297437827462,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 66,
+      "pitch_percent": 0.11359724612736662,
+      "rhh_percent": 0.01904761904761905,
+      "lhh_percent": 0.22556390977443608,
+      "start_speed": 86.34393939393944,
+      "max_start_speed": 88.9,
+      "ivb": -9.231818181818182,
+      "hb": -3.0954545454545443,
+      "release_pos_z": 6.04773774122171,
+      "release_pos_x": 1.0750489582861154,
+      "extension": 6.0221725067649885,
+      "active_spin_percent": null
+    }
+  ]
+}

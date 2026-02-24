@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "656986",
+  "pitcher_name": "Bennett Sousa",
+  "mlbam_id": "656986",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 33,
+      "pitch_percent": 0.5689655172413793,
+      "rhh_percent": 0.5526315789473685,
+      "lhh_percent": 0.6,
+      "start_speed": 86.25757575757575,
+      "max_start_speed": 88.8,
+      "ivb": 1.6424242424242423,
+      "hb": -1.8575757575757574,
+      "release_pos_z": 6.322365421128264,
+      "release_pos_x": 1.053518072536827,
+      "extension": 6.346428396081835,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 24,
+      "pitch_percent": 0.41379310344827586,
+      "rhh_percent": 0.4473684210526316,
+      "lhh_percent": 0.35,
+      "start_speed": 94.95833333333337,
+      "max_start_speed": 96.1,
+      "ivb": 17.17083333333333,
+      "hb": 3.5500000000000003,
+      "release_pos_z": 6.270053208845744,
+      "release_pos_x": 1.2275285066237853,
+      "extension": 6.341701810219868,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 1,
+      "pitch_percent": 0.017241379310344827,
+      "rhh_percent": 0,
+      "lhh_percent": 0.05,
+      "start_speed": 93.7,
+      "max_start_speed": 93.7,
+      "ivb": 10.4,
+      "hb": 12.8,
+      "release_pos_z": 6.26686136371221,
+      "release_pos_x": 1.2912967908249446,
+      "extension": 6.294907884068435,
+      "active_spin_percent": null
+    }
+  ]
+}

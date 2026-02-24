@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "687607",
+  "pitcher_name": "Edgar Barclay",
+  "mlbam_id": "687607",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 17,
+      "pitch_percent": 0.4473684210526316,
+      "rhh_percent": 0.4090909090909091,
+      "lhh_percent": 0.5,
+      "start_speed": 88.81764705882354,
+      "max_start_speed": 90.2,
+      "ivb": 16.2764705882353,
+      "hb": 4.641176470588235,
+      "release_pos_z": 6.2381870792982355,
+      "release_pos_x": 1.144952281588162,
+      "extension": 6.074116676038666,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 11,
+      "pitch_percent": 0.2894736842105263,
+      "rhh_percent": 0.18181818181818182,
+      "lhh_percent": 0.4375,
+      "start_speed": 76.91818181818182,
+      "max_start_speed": 78.8,
+      "ivb": -2.872727272727272,
+      "hb": -10.500000000000002,
+      "release_pos_z": 5.835935069025852,
+      "release_pos_x": 1.8181724110485453,
+      "extension": 5.835918107209479,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 10,
+      "pitch_percent": 0.2631578947368421,
+      "rhh_percent": 0.4090909090909091,
+      "lhh_percent": 0.0625,
+      "start_speed": 79.85000000000001,
+      "max_start_speed": 80.9,
+      "ivb": 8.98,
+      "hb": 17.520000000000003,
+      "release_pos_z": 5.913708832728611,
+      "release_pos_x": 1.593089782311308,
+      "extension": 6.078223374596125,
+      "active_spin_percent": null
+    }
+  ]
+}

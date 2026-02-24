@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "679775",
+  "pitcher_name": "Kyle Backhus",
+  "mlbam_id": "679775",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 286,
+      "pitch_percent": 0.6177105831533477,
+      "rhh_percent": 0.6486486486486487,
+      "lhh_percent": 0.562874251497006,
+      "start_speed": 90.64440559440561,
+      "max_start_speed": 94.2,
+      "ivb": 1.2524475524475533,
+      "hb": 16.61153846153846,
+      "release_pos_z": 4.374797198045308,
+      "release_pos_x": 3.012514216414404,
+      "extension": 7.171203309774444,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 157,
+      "pitch_percent": 0.3390928725701944,
+      "rhh_percent": 0.28378378378378377,
+      "lhh_percent": 0.437125748502994,
+      "start_speed": 77.4331210191083,
+      "max_start_speed": 81.4,
+      "ivb": 1.508917197452229,
+      "hb": -11.72356687898089,
+      "release_pos_z": 4.27280866203316,
+      "release_pos_x": 3.1249737624581346,
+      "extension": 7.09978868576534,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 20,
+      "pitch_percent": 0.04319654427645788,
+      "rhh_percent": 0.06756756756756757,
+      "lhh_percent": 0,
+      "start_speed": 78.52999999999999,
+      "max_start_speed": 81.2,
+      "ivb": 4.249999999999999,
+      "hb": 10.12,
+      "release_pos_z": 4.367500304448329,
+      "release_pos_x": 3.121501497216868,
+      "extension": 7.193185653637331,
+      "active_spin_percent": null
+    }
+  ]
+}

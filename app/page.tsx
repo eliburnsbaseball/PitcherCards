@@ -16,7 +16,7 @@ import {
   Cell,
 } from "recharts";
 
-type DatasetKey = "2025" | "2026st";
+type DatasetKey = "2025" | "2026st" | "2025aaa" | "2025a";
 
 type PitchRow = {
   code: string;
@@ -97,6 +97,14 @@ function pct(v: any, digits = 1) {
 
 function classNames(...xs: Array<string | false | null | undefined>) {
   return xs.filter(Boolean).join(" ");
+}
+
+function datasetLabel(ds: DatasetKey) {
+  if (ds === "2025") return "2025 MLB";
+  if (ds === "2026st") return "2026 Spring Training";
+  if (ds === "2025aaa") return "2025 AAA";
+  if (ds === "2025a") return "2025 A";
+  return ds;
 }
 
 function Card({
@@ -187,51 +195,51 @@ function MovementTooltip({ active, payload }: any) {
         <div>
           Spin:{" "}
           <span className="font-semibold">
-            {d.spin ? `${fmt(d.spin, 0)} rpm` : "—"}
+            {d.spin != null && Number.isFinite(n(d.spin)) ? `${fmt(d.spin, 0)} rpm` : "—"}
           </span>
         </div>
         <div>
           Active Spin%:{" "}
           <span className="font-semibold">
-            d.activeSpin != null && Number.isFinite(n(d.activeSpin))
+            {d.activeSpin != null && Number.isFinite(n(d.activeSpin))
               ? pct(d.activeSpin, 1)
-              : "—"
+              : "—"}
           </span>
         </div>
         <div>
           Ext:{" "}
           <span className="font-semibold">
-            Number.isFinite(n(d.ext)) ? `${fmt(d.ext, 2)} ft` : "—"
+            {Number.isFinite(n(d.ext)) ? `${fmt(d.ext, 2)} ft` : "—"}
           </span>
         </div>
         <div>
           Arm:{" "}
           <span className="font-semibold">
-            d.arm != null && Number.isFinite(n(d.arm)) ? `${fmt(d.arm, 0)}°` : "—"
+            {d.arm != null && Number.isFinite(n(d.arm)) ? `${fmt(d.arm, 0)}°` : "—"}
           </span>
         </div>
         <div>
           Whiff/P:{" "}
           <span className="font-semibold">
-            d.whiffp != null && Number.isFinite(n(d.whiffp)) ? fmt(d.whiffp, 3) : "—"
+            {d.whiffp != null && Number.isFinite(n(d.whiffp)) ? fmt(d.whiffp, 3) : "—"}
           </span>
         </div>
         <div>
           SwM%:{" "}
           <span className="font-semibold">
-            d.swm != null && Number.isFinite(n(d.swm)) ? pct(d.swm, 1) : "—"
+            {d.swm != null && Number.isFinite(n(d.swm)) ? pct(d.swm, 1) : "—"}
           </span>
         </div>
         <div>
           Bar/PA%:{" "}
           <span className="font-semibold">
-            d.barpa != null && Number.isFinite(n(d.barpa)) ? pct(d.barpa, 2) : "—"
+            {d.barpa != null && Number.isFinite(n(d.barpa)) ? pct(d.barpa, 2) : "—"}
           </span>
         </div>
         <div>
           HardHit%:{" "}
           <span className="font-semibold">
-            d.hardhit != null && Number.isFinite(n(d.hardhit)) ? pct(d.hardhit, 1) : "—"
+            {d.hardhit != null && Number.isFinite(n(d.hardhit)) ? pct(d.hardhit, 1) : "—"}
           </span>
         </div>
       </div>
@@ -275,6 +283,7 @@ export default function Page() {
 
     (async () => {
       const res = await fetch(`/data/${dataset}/pitchers_index.json`, { cache: "no-store" });
+      if (!res.ok) throw new Error(`Index fetch failed: ${res.status}`);
       const data = (await res.json()) as PitcherIndexRow[];
       setIndex(data);
       setSelectedId(data?.[0]?.pitcher_id ?? "");
@@ -294,6 +303,7 @@ export default function Page() {
 
     (async () => {
       const res = await fetch(`/data/${dataset}/pitchers/${selectedId}.json`, { cache: "no-store" });
+      if (!res.ok) throw new Error(`Pitcher fetch failed: ${res.status}`);
       const data = (await res.json()) as PitcherJson;
       setPitcher(data);
       setLoading(false);
@@ -310,7 +320,7 @@ export default function Page() {
     return mid ? String(mid) : "";
   }, [pitcher?.mlbam_id, selectedId]);
 
-  // Load MLB meta
+  // Load MLB meta (for MiLB datasets this may not exist; we keep it optional)
   useEffect(() => {
     if (!metaId) return;
 
@@ -346,24 +356,12 @@ export default function Page() {
     ? `https://img.mlbstatic.com/mlb-photos/image/upload/w_213,q_100/v1/people/${metaId}/headshot/67/current`
     : null;
 
-const teamLogoUrl = useMemo(() => {
-  const id = playerMeta?.teamId;
-  if (!id) return null;
-
-  // Most reliable general team logo
-  const primary = `https://www.mlbstatic.com/team-logos/${id}.svg`;
-
-  // Optional: cap logos if you prefer them
-  const cap = dark
-    ? `https://www.mlbstatic.com/team-logos/team-cap-on-dark/${id}.svg`
-    : `https://www.mlbstatic.com/team-logos/team-cap-on-light/${id}.svg`;
-
-  // Choose primary by default (looks correct in both modes)
-  return primary;
-
-  // If you strongly prefer caps, return cap instead:
-  // return cap;
-}, [playerMeta?.teamId, dark]);
+  const teamLogoUrl = useMemo(() => {
+    const id = playerMeta?.teamId;
+    if (!id) return null;
+    // Most reliable general team logo
+    return `https://www.mlbstatic.com/team-logos/${id}.svg`;
+  }, [playerMeta?.teamId]);
 
   const movementData = useMemo(
     () =>
@@ -396,9 +394,7 @@ const teamLogoUrl = useMemo(() => {
     let x2 = 30 * Math.cos(rad);
     const y2 = 30 * Math.sin(rad);
 
-    if (playerMeta?.throws === "L") {
-      x2 = -x2; // reflect across y-axis
-    }
+    if (playerMeta?.throws === "L") x2 = -x2;
 
     return { segment: [{ x: 0, y: 0 }, { x: x2, y: y2 }] };
   }, [avgArmAngle, playerMeta?.throws]);
@@ -466,6 +462,7 @@ const teamLogoUrl = useMemo(() => {
             className="w-full max-w-md rounded-xl border border-slate-300 bg-white px-3 py-2 text-sm shadow-sm outline-none focus:border-slate-400 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100"
             value={selectedId}
             onChange={(e) => setSelectedId(e.target.value)}
+            disabled={!index.length}
           >
             {index.map((p) => (
               <option key={p.pitcher_id} value={p.pitcher_id}>
@@ -475,29 +472,26 @@ const teamLogoUrl = useMemo(() => {
           </select>
 
           {/* dataset toggle */}
-          <div className="flex items-center gap-2">
-            <button
-              onClick={() => setDataset("2025")}
-              className={classNames(
-                "rounded-xl border px-3 py-2 text-sm font-semibold shadow-sm",
-                dataset === "2025"
-                  ? "border-slate-200 bg-slate-900 text-white dark:border-slate-700"
-                  : "border-slate-300 bg-white text-slate-700 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200 dark:hover:bg-slate-800"
-              )}
-            >
-              2025
-            </button>
-            <button
-              onClick={() => setDataset("2026st")}
-              className={classNames(
-                "rounded-xl border px-3 py-2 text-sm font-semibold shadow-sm",
-                dataset === "2026st"
-                  ? "border-slate-200 bg-slate-900 text-white dark:border-slate-700"
-                  : "border-slate-300 bg-white text-slate-700 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200 dark:hover:bg-slate-800"
-              )}
-            >
-              2026 ST
-            </button>
+          <div className="flex flex-wrap items-center gap-2">
+            {[
+              { key: "2025", label: "2025" },
+              { key: "2026st", label: "2026 ST" },
+              { key: "2025aaa", label: "2025 AAA" },
+              { key: "2025a", label: "2025 A" },
+            ].map((b) => (
+              <button
+                key={b.key}
+                onClick={() => setDataset(b.key as DatasetKey)}
+                className={classNames(
+                  "rounded-xl border px-3 py-2 text-sm font-semibold shadow-sm",
+                  dataset === (b.key as DatasetKey)
+                    ? "border-slate-200 bg-slate-900 text-white dark:border-slate-700"
+                    : "border-slate-300 bg-white text-slate-700 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200 dark:hover:bg-slate-800"
+                )}
+              >
+                {b.label}
+              </button>
+            ))}
           </div>
 
           {/* dark toggle */}
@@ -529,7 +523,9 @@ const teamLogoUrl = useMemo(() => {
                     src={headshotUrl}
                     alt={pitcher?.pitcher_name ?? "Pitcher"}
                     className="h-full w-full object-cover"
-                    onError={(e) => (((e.currentTarget as HTMLImageElement).style.display = "none"))}
+                    onError={(e) => {
+                      (e.currentTarget as HTMLImageElement).style.display = "none";
+                    }}
                   />
                 ) : null}
               </div>
@@ -541,8 +537,7 @@ const teamLogoUrl = useMemo(() => {
 
                 <div className="mt-1 text-sm text-slate-200/90">
                   {playerMeta?.teamName ? `${playerMeta.teamName} • ` : ""}
-                  Pitch Movement / Arsenal Dashboard •{" "}
-                  {dataset === "2025" ? "2025" : "2026 Spring Training"}
+                  Pitch Movement / Arsenal Dashboard • {datasetLabel(dataset)}
                 </div>
 
                 <div className="mt-2 flex flex-wrap gap-2">
@@ -591,33 +586,32 @@ const teamLogoUrl = useMemo(() => {
                 ))}
               </div>
 
-{teamLogoUrl ? (
-  <div className="hidden sm:flex h-16 w-16 items-center justify-center rounded-2xl bg-white/10 ring-1 ring-white/10">
-    {/* eslint-disable-next-line @next/next/no-img-element */}
-    <img
-      src={teamLogoUrl}
-      alt={playerMeta?.teamName ?? "Team"}
-      className="h-12 w-12 object-contain"
-      onError={(e) => {
-        const img = e.currentTarget as HTMLImageElement;
-        const id = playerMeta?.teamId;
+              {teamLogoUrl ? (
+                <div className="hidden sm:flex h-16 w-16 items-center justify-center rounded-2xl bg-white/10 ring-1 ring-white/10">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={teamLogoUrl}
+                    alt={playerMeta?.teamName ?? "Team"}
+                    className="h-12 w-12 object-contain"
+                    onError={(e) => {
+                      const img = e.currentTarget as HTMLImageElement;
+                      const id = playerMeta?.teamId;
 
-        if (!id) {
-          img.style.display = "none";
-          return;
-        }
+                      if (!id) {
+                        img.style.display = "none";
+                        return;
+                      }
 
-        // If primary logo fails, fall back to cap variant
-        const fallback = dark
-          ? `https://www.mlbstatic.com/team-logos/team-cap-on-dark/${id}.svg`
-          : `https://www.mlbstatic.com/team-logos/team-cap-on-light/${id}.svg`;
+                      const fallback = dark
+                        ? `https://www.mlbstatic.com/team-logos/team-cap-on-dark/${id}.svg`
+                        : `https://www.mlbstatic.com/team-logos/team-cap-on-light/${id}.svg`;
 
-        if (img.src !== fallback) img.src = fallback;
-        else img.style.display = "none";
-      }}
-    />
-  </div>
-) : null}
+                      if (img.src !== fallback) img.src = fallback;
+                      else img.style.display = "none";
+                    }}
+                  />
+                </div>
+              ) : null}
             </div>
           </div>
         </div>

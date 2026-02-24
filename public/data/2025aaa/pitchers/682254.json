@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "682254",
+  "pitcher_name": "Mason Montgomery",
+  "mlbam_id": "682254",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 110,
+      "pitch_percent": 0.7971014492753623,
+      "rhh_percent": 0.8526315789473684,
+      "lhh_percent": 0.6744186046511628,
+      "start_speed": 99.00727272727275,
+      "max_start_speed": 102.3,
+      "ivb": 17.582727272727272,
+      "hb": 5.372727272727273,
+      "release_pos_z": 5.815967260304368,
+      "release_pos_x": 1.2550377502823058,
+      "extension": 6.780909465499928,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 28,
+      "pitch_percent": 0.2028985507246377,
+      "rhh_percent": 0.14736842105263157,
+      "lhh_percent": 0.32558139534883723,
+      "start_speed": 89.81428571428572,
+      "max_start_speed": 91.3,
+      "ivb": 1.882142857142857,
+      "hb": -1.2714285714285718,
+      "release_pos_z": 5.685152799257362,
+      "release_pos_x": 1.3655788483893343,
+      "extension": 6.721758453717784,
+      "active_spin_percent": null
+    }
+  ]
+}

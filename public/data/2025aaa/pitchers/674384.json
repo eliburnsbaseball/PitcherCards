@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "674384",
+  "pitcher_name": "Eduarniel Núñez",
+  "mlbam_id": "674384",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 261,
+      "pitch_percent": 0.6658163265306123,
+      "rhh_percent": 0.5990566037735849,
+      "lhh_percent": 0.7444444444444445,
+      "start_speed": 98.20766283524898,
+      "max_start_speed": 101.4,
+      "ivb": 12.362835249042144,
+      "hb": 3.996934865900385,
+      "release_pos_z": 5.389092486107708,
+      "release_pos_x": 1.7021451138852992,
+      "extension": 5.661960979382621,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 131,
+      "pitch_percent": 0.33418367346938777,
+      "rhh_percent": 0.4009433962264151,
+      "lhh_percent": 0.25555555555555554,
+      "start_speed": 88.50992366412213,
+      "max_start_speed": 91.1,
+      "ivb": -0.9343511450381676,
+      "hb": -6.674045801526715,
+      "release_pos_z": 5.427208984779196,
+      "release_pos_x": 1.6464655815000746,
+      "extension": 5.6814575199104045,
+      "active_spin_percent": null
+    }
+  ]
+}

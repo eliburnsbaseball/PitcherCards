@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "621399",
+  "pitcher_name": "Brady Feigl",
+  "mlbam_id": "621399",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 107,
+      "pitch_percent": 0.4115384615384615,
+      "rhh_percent": 0.37662337662337664,
+      "lhh_percent": 0.46226415094339623,
+      "start_speed": 92.71401869158878,
+      "max_start_speed": 94.3,
+      "ivb": 17.588785046728972,
+      "hb": 6.154205607476638,
+      "release_pos_z": 6.5564747022354295,
+      "release_pos_x": 1.847672448889734,
+      "extension": 5.541874267582558,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 98,
+      "pitch_percent": 0.3769230769230769,
+      "rhh_percent": 0.38311688311688313,
+      "lhh_percent": 0.36792452830188677,
+      "start_speed": 84.96224489795915,
+      "max_start_speed": 88.4,
+      "ivb": 5.690816326530611,
+      "hb": -0.557142857142857,
+      "release_pos_z": 6.498134069797891,
+      "release_pos_x": 1.8447694034608568,
+      "extension": 5.657352352119861,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 55,
+      "pitch_percent": 0.21153846153846154,
+      "rhh_percent": 0.24025974025974026,
+      "lhh_percent": 0.16981132075471697,
+      "start_speed": 80.92545454545457,
+      "max_start_speed": 85,
+      "ivb": -5.329090909090909,
+      "hb": -3.827272727272727,
+      "release_pos_z": 6.527030436284078,
+      "release_pos_x": 1.7495434803980168,
+      "extension": 5.613266350424167,
+      "active_spin_percent": null
+    }
+  ]
+}

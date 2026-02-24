@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "684081",
+  "pitcher_name": "Erick Brito",
+  "mlbam_id": "684081",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 17,
+      "pitch_percent": 0.7727272727272727,
+      "rhh_percent": 0.8235294117647058,
+      "lhh_percent": 0.6,
+      "start_speed": 43.670588235294126,
+      "max_start_speed": 48.9,
+      "ivb": 13.223529411764707,
+      "hb": -1.035294117647059,
+      "release_pos_z": 6.409895343616536,
+      "release_pos_x": 1.687102019204482,
+      "extension": 4.456882027704759,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 5,
+      "pitch_percent": 0.22727272727272727,
+      "rhh_percent": 0.17647058823529413,
+      "lhh_percent": 0.4,
+      "start_speed": 50.339999999999996,
+      "max_start_speed": 56.2,
+      "ivb": 16.5,
+      "hb": 4.62,
+      "release_pos_z": 6.247178027613856,
+      "release_pos_x": 1.655770114207268,
+      "extension": 4.335823920365938,
+      "active_spin_percent": null
+    }
+  ]
+}

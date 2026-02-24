@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "695378",
+  "pitcher_name": "Jack Sinclair",
+  "mlbam_id": "695378",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 422,
+      "pitch_percent": 0.5473411154345007,
+      "rhh_percent": 0.5341772151898734,
+      "lhh_percent": 0.5611702127659575,
+      "start_speed": 92.80118483412322,
+      "max_start_speed": 95,
+      "ivb": 9.26090047393364,
+      "hb": 16.55876777251185,
+      "release_pos_z": 5.23100680121499,
+      "release_pos_x": 2.131527827225631,
+      "extension": 6.40927723862049,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 246,
+      "pitch_percent": 0.31906614785992216,
+      "rhh_percent": 0.43037974683544306,
+      "lhh_percent": 0.20212765957446807,
+      "start_speed": 79.8016260162602,
+      "max_start_speed": 86.3,
+      "ivb": 5.367886178861788,
+      "hb": -14.937804878048787,
+      "release_pos_z": 5.241718616819012,
+      "release_pos_x": 2.2840947018812554,
+      "extension": 6.199577106970548,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 103,
+      "pitch_percent": 0.13359273670557717,
+      "rhh_percent": 0.035443037974683546,
+      "lhh_percent": 0.23670212765957446,
+      "start_speed": 83.96990291262134,
+      "max_start_speed": 86.6,
+      "ivb": 4.368932038834951,
+      "hb": 17.666019417475724,
+      "release_pos_z": 5.182464447263491,
+      "release_pos_x": 2.25792063739435,
+      "extension": 6.443674044933051,
+      "active_spin_percent": null
+    }
+  ]
+}

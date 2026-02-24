@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "676831",
+  "pitcher_name": "Kodi Whitley",
+  "mlbam_id": "676831",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 129,
+      "pitch_percent": 0.41883116883116883,
+      "rhh_percent": 0.3741935483870968,
+      "lhh_percent": 0.46405228758169936,
+      "start_speed": 93.26511627906979,
+      "max_start_speed": 96.1,
+      "ivb": 18.643410852713178,
+      "hb": 5.899999999999999,
+      "release_pos_z": 6.376585479379612,
+      "release_pos_x": 0.38023867865532746,
+      "extension": 6.34708276963926,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 103,
+      "pitch_percent": 0.3344155844155844,
+      "rhh_percent": 0.4967741935483871,
+      "lhh_percent": 0.16993464052287582,
+      "start_speed": 84.34951456310678,
+      "max_start_speed": 87.8,
+      "ivb": 5.843689320388348,
+      "hb": -3.491262135922331,
+      "release_pos_z": 6.395492942348052,
+      "release_pos_x": 0.423034049796383,
+      "extension": 6.365466392735731,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 76,
+      "pitch_percent": 0.24675324675324675,
+      "rhh_percent": 0.12903225806451613,
+      "lhh_percent": 0.3660130718954248,
+      "start_speed": 81.71578947368417,
+      "max_start_speed": 84.7,
+      "ivb": 13.915789473684212,
+      "hb": 11.05131578947368,
+      "release_pos_z": 6.331893736266805,
+      "release_pos_x": 0.446575852069741,
+      "extension": 6.417027449658238,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "572383",
+  "pitcher_name": "Brian Moran",
+  "mlbam_id": "572383",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 130,
+      "pitch_percent": 0.5882352941176471,
+      "rhh_percent": 0.6052631578947368,
+      "lhh_percent": 0.5507246376811594,
+      "start_speed": 83.38538461538462,
+      "max_start_speed": 86.6,
+      "ivb": 6.584615384615384,
+      "hb": -0.5676923076923077,
+      "release_pos_z": 4.704389413355957,
+      "release_pos_x": 2.807346396276411,
+      "extension": 7.26916119701069,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 60,
+      "pitch_percent": 0.27149321266968324,
+      "rhh_percent": 0.21710526315789475,
+      "lhh_percent": 0.391304347826087,
+      "start_speed": 69.38166666666666,
+      "max_start_speed": 72.5,
+      "ivb": 3.1849999999999996,
+      "hb": -15.959999999999997,
+      "release_pos_z": 4.209323548811806,
+      "release_pos_x": 2.864860041950144,
+      "extension": 7.3164081908778185,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 31,
+      "pitch_percent": 0.14027149321266968,
+      "rhh_percent": 0.17763157894736842,
+      "lhh_percent": 0.057971014492753624,
+      "start_speed": 80.4741935483871,
+      "max_start_speed": 83.1,
+      "ivb": 6.348387096774193,
+      "hb": 14.938709677419354,
+      "release_pos_z": 5.075004349498882,
+      "release_pos_x": 2.581913177064983,
+      "extension": 7.318730113107358,
+      "active_spin_percent": null
+    }
+  ]
+}

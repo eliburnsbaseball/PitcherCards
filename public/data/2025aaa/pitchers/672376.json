@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "672376",
+  "pitcher_name": "Luis Pacheco",
+  "mlbam_id": "672376",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 10,
+      "pitch_percent": 0.4166666666666667,
+      "rhh_percent": 0.1,
+      "lhh_percent": 0.6428571428571429,
+      "start_speed": 96.26000000000002,
+      "max_start_speed": 97.8,
+      "ivb": 14.88,
+      "hb": 7.669999999999999,
+      "release_pos_z": 6.078255306882743,
+      "release_pos_x": 1.3184281220247007,
+      "extension": 6.399929861676237,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 7,
+      "pitch_percent": 0.2916666666666667,
+      "rhh_percent": 0.2,
+      "lhh_percent": 0.35714285714285715,
+      "start_speed": 83.14285714285714,
+      "max_start_speed": 83.9,
+      "ivb": 2.885714285714286,
+      "hb": -7.942857142857144,
+      "release_pos_z": 5.892395691863733,
+      "release_pos_x": 1.4173706195415239,
+      "extension": 6.29948290544519,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 7,
+      "pitch_percent": 0.2916666666666667,
+      "rhh_percent": 0.7,
+      "lhh_percent": 0,
+      "start_speed": 96.64285714285715,
+      "max_start_speed": 97.2,
+      "ivb": 12.142857142857144,
+      "hb": 14.214285714285717,
+      "release_pos_z": 5.976296610005491,
+      "release_pos_x": 1.3677841947100229,
+      "extension": 6.416987127238353,
+      "active_spin_percent": null
+    }
+  ]
+}

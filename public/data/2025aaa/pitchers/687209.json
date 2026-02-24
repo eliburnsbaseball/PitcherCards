@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "687209",
+  "pitcher_name": "Zach Maxwell",
+  "mlbam_id": "687209",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 668,
+      "pitch_percent": 0.7136752136752137,
+      "rhh_percent": 0.6736641221374046,
+      "lhh_percent": 0.7645631067961165,
+      "start_speed": 99.11137724550895,
+      "max_start_speed": 101.9,
+      "ivb": 17.4505988023952,
+      "hb": 9.384431137724558,
+      "release_pos_z": 6.396532812990945,
+      "release_pos_x": 2.6462346694713106,
+      "extension": 6.07081615894629,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 139,
+      "pitch_percent": 0.1485042735042735,
+      "rhh_percent": 0.15267175572519084,
+      "lhh_percent": 0.14320388349514562,
+      "start_speed": 93.80863309352516,
+      "max_start_speed": 98.2,
+      "ivb": 10.067625899280571,
+      "hb": 0.037410071942446076,
+      "release_pos_z": 6.3994192671303045,
+      "release_pos_x": 2.658098989457782,
+      "extension": 6.054961356411346,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 129,
+      "pitch_percent": 0.13782051282051283,
+      "rhh_percent": 0.1736641221374046,
+      "lhh_percent": 0.09223300970873786,
+      "start_speed": 87.93023255813952,
+      "max_start_speed": 91.7,
+      "ivb": -0.9093023255813953,
+      "hb": -8.089147286821706,
+      "release_pos_z": 6.304816137756433,
+      "release_pos_x": 2.7355385505863645,
+      "extension": 5.9911605609095275,
+      "active_spin_percent": null
+    }
+  ]
+}

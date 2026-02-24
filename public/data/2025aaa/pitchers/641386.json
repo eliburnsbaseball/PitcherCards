@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "641386",
+  "pitcher_name": "Ben Bowden",
+  "mlbam_id": "641386",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 421,
+      "pitch_percent": 0.6227810650887574,
+      "rhh_percent": 0.634703196347032,
+      "lhh_percent": 0.6008403361344538,
+      "start_speed": 92.82042755344422,
+      "max_start_speed": 95.7,
+      "ivb": 15.130166270783855,
+      "hb": 11.365083135391918,
+      "release_pos_z": 5.901596000005218,
+      "release_pos_x": 0.6147288181707794,
+      "extension": 6.043830646603139,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 202,
+      "pitch_percent": 0.2988165680473373,
+      "rhh_percent": 0.24429223744292236,
+      "lhh_percent": 0.39915966386554624,
+      "start_speed": 82.80990099009897,
+      "max_start_speed": 87.3,
+      "ivb": 4.472772277227726,
+      "hb": -1.0955445544554456,
+      "release_pos_z": 5.987816994493553,
+      "release_pos_x": 0.6703107782563479,
+      "extension": 5.943615572453328,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 53,
+      "pitch_percent": 0.07840236686390532,
+      "rhh_percent": 0.12100456621004566,
+      "lhh_percent": 0,
+      "start_speed": 84.80000000000001,
+      "max_start_speed": 86.8,
+      "ivb": 8.007547169811321,
+      "hb": 12.684905660377357,
+      "release_pos_z": 6.015468161858713,
+      "release_pos_x": 0.6607972229120299,
+      "extension": 6.083084473197026,
+      "active_spin_percent": null
+    }
+  ]
+}

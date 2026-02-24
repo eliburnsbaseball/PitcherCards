@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "685300",
+  "pitcher_name": "Grant Richardson",
+  "mlbam_id": "685300",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 3,
+      "pitch_percent": 0.75,
+      "rhh_percent": null,
+      "lhh_percent": 0.75,
+      "start_speed": 83.53333333333333,
+      "max_start_speed": 83.7,
+      "ivb": 17.5,
+      "hb": 2.9,
+      "release_pos_z": 6.456631247037599,
+      "release_pos_x": 1.2686104471205375,
+      "extension": 6.041406727781706,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 1,
+      "pitch_percent": 0.25,
+      "rhh_percent": null,
+      "lhh_percent": 0.25,
+      "start_speed": 85.4,
+      "max_start_speed": 85.4,
+      "ivb": 18.5,
+      "hb": 1.6,
+      "release_pos_z": 6.47194517763645,
+      "release_pos_x": 1.06758983277098,
+      "extension": 6.109857902412121,
+      "active_spin_percent": null
+    }
+  ]
+}

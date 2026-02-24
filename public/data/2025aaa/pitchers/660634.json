@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "660634",
+  "pitcher_name": "Yonny Hernández",
+  "mlbam_id": "660634",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 16,
+      "pitch_percent": 0.64,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.7333333333333333,
+      "start_speed": 65.55624999999999,
+      "max_start_speed": 74,
+      "ivb": 14.837499999999999,
+      "hb": 3.9687499999999996,
+      "release_pos_z": 5.648077182518986,
+      "release_pos_x": 1.711759802670241,
+      "extension": 5.377040347095806,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 9,
+      "pitch_percent": 0.36,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.26666666666666666,
+      "start_speed": 40.333333333333336,
+      "max_start_speed": 42.5,
+      "ivb": 16.322222222222223,
+      "hb": -0.9555555555555557,
+      "release_pos_z": 6.082650034431465,
+      "release_pos_x": 1.1617203215079694,
+      "extension": 5.288614867703039,
+      "active_spin_percent": null
+    }
+  ]
+}

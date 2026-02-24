@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "641360",
+  "pitcher_name": "Phil Bickford",
+  "mlbam_id": "641360",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 536,
+      "pitch_percent": 0.6733668341708543,
+      "rhh_percent": 0.5994897959183674,
+      "lhh_percent": 0.745049504950495,
+      "start_speed": 91.98955223880601,
+      "max_start_speed": 94.7,
+      "ivb": 14.162873134328345,
+      "hb": 7.974067164179105,
+      "release_pos_z": 4.820650930435252,
+      "release_pos_x": 2.3006364280270533,
+      "extension": 6.753932363053343,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 256,
+      "pitch_percent": 0.32160804020100503,
+      "rhh_percent": 0.4005102040816326,
+      "lhh_percent": 0.24504950495049505,
+      "start_speed": 82.24492187499996,
+      "max_start_speed": 85.6,
+      "ivb": 7.995703125000004,
+      "hb": -6.365624999999997,
+      "release_pos_z": 4.710002886765448,
+      "release_pos_x": 2.3175687139580607,
+      "extension": 6.742682702875544,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 4,
+      "pitch_percent": 0.005025125628140704,
+      "rhh_percent": 0,
+      "lhh_percent": 0.009900990099009901,
+      "start_speed": 86.375,
+      "max_start_speed": 88.6,
+      "ivb": 5.55,
+      "hb": 8.425,
+      "release_pos_z": 4.776179239362703,
+      "release_pos_x": 2.2143819495755985,
+      "extension": 6.859398625762687,
+      "active_spin_percent": null
+    }
+  ]
+}

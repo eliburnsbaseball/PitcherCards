@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "678742",
+  "pitcher_name": "Rainer Nunez",
+  "mlbam_id": "678742",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 8,
+      "pitch_percent": 0.5333333333333333,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.5714285714285714,
+      "start_speed": 43.699999999999996,
+      "max_start_speed": 54.8,
+      "ivb": 15.450000000000001,
+      "hb": 1.4874999999999998,
+      "release_pos_z": 6.697010025180345,
+      "release_pos_x": 1.8267031292009108,
+      "extension": 5.761612472924909,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 5,
+      "pitch_percent": 0.3333333333333333,
+      "rhh_percent": 0.375,
+      "lhh_percent": 0.2857142857142857,
+      "start_speed": 52.61999999999999,
+      "max_start_speed": 64.8,
+      "ivb": 15.84,
+      "hb": 2.6399999999999997,
+      "release_pos_z": 6.5568808331094415,
+      "release_pos_x": 2.0902861486778046,
+      "extension": 5.691999292263435,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 2,
+      "pitch_percent": 0.13333333333333333,
+      "rhh_percent": 0.125,
+      "lhh_percent": 0.14285714285714285,
+      "start_speed": 74.25,
+      "max_start_speed": 74.4,
+      "ivb": 9.25,
+      "hb": 11.9,
+      "release_pos_z": 5.7868477186195175,
+      "release_pos_x": 2.7017451821628637,
+      "extension": 6.077664902461269,
+      "active_spin_percent": null
+    }
+  ]
+}

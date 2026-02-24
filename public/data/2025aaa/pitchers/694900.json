@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "694900",
+  "pitcher_name": "Kyle Amendt",
+  "mlbam_id": "694900",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 291,
+      "pitch_percent": 0.5359116022099447,
+      "rhh_percent": 0.525974025974026,
+      "lhh_percent": 0.548936170212766,
+      "start_speed": 91.2209621993127,
+      "max_start_speed": 94.3,
+      "ivb": 16.519931271477667,
+      "hb": -0.5247422680412369,
+      "release_pos_z": 6.654648638278258,
+      "release_pos_x": -0.4594118724594395,
+      "extension": 7.2263457494668275,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 140,
+      "pitch_percent": 0.2578268876611418,
+      "rhh_percent": 0.32792207792207795,
+      "lhh_percent": 0.16595744680851063,
+      "start_speed": 85.52214285714285,
+      "max_start_speed": 89.2,
+      "ivb": 1.5100000000000005,
+      "hb": -4.095714285714284,
+      "release_pos_z": 6.692083247137413,
+      "release_pos_x": -0.2987666300490508,
+      "extension": 7.0392606715602835,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 112,
+      "pitch_percent": 0.20626151012891344,
+      "rhh_percent": 0.1461038961038961,
+      "lhh_percent": 0.2851063829787234,
+      "start_speed": 79.60892857142856,
+      "max_start_speed": 82.5,
+      "ivb": -9.856250000000001,
+      "hb": -0.053571428571428596,
+      "release_pos_z": 6.6874029027124005,
+      "release_pos_x": -0.5346881700429053,
+      "extension": 7.0433731011297365,
+      "active_spin_percent": null
+    }
+  ]
+}

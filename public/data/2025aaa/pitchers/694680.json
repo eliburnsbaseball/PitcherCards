@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "694680",
+  "pitcher_name": "Trevor Martin",
+  "mlbam_id": "694680",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 36,
+      "pitch_percent": 0.5454545454545454,
+      "rhh_percent": 0.6363636363636364,
+      "lhh_percent": 0.45454545454545453,
+      "start_speed": 94.54166666666664,
+      "max_start_speed": 95.9,
+      "ivb": 16.13888888888889,
+      "hb": 8.508333333333335,
+      "release_pos_z": 5.742134076499384,
+      "release_pos_x": 1.7644709394678484,
+      "extension": 6.581112221502178,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 18,
+      "pitch_percent": 0.2727272727272727,
+      "rhh_percent": 0.3333333333333333,
+      "lhh_percent": 0.21212121212121213,
+      "start_speed": 89.00555555555556,
+      "max_start_speed": 90.5,
+      "ivb": 6.638888888888888,
+      "hb": -4.05,
+      "release_pos_z": 5.752620478587713,
+      "release_pos_x": 1.8428861128988179,
+      "extension": 6.480513755185498,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 12,
+      "pitch_percent": 0.18181818181818182,
+      "rhh_percent": 0.030303030303030304,
+      "lhh_percent": 0.3333333333333333,
+      "start_speed": 86.89999999999998,
+      "max_start_speed": 88.6,
+      "ivb": -1.2750000000000001,
+      "hb": 11.675000000000002,
+      "release_pos_z": 5.69409967998223,
+      "release_pos_x": 1.8230593572685219,
+      "extension": 6.558666833033165,
+      "active_spin_percent": null
+    }
+  ]
+}

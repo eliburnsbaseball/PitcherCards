@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "623149",
+  "pitcher_name": "Paul Sewald",
+  "mlbam_id": "623149",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 35,
+      "pitch_percent": 0.5555555555555556,
+      "rhh_percent": 0.5614035087719298,
+      "lhh_percent": 0.5,
+      "start_speed": 90.36571428571428,
+      "max_start_speed": 91.7,
+      "ivb": 12.068571428571426,
+      "hb": 12.697142857142856,
+      "release_pos_z": 4.371808028483519,
+      "release_pos_x": 3.7388693874723944,
+      "extension": 6.419355794097816,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 28,
+      "pitch_percent": 0.4444444444444444,
+      "rhh_percent": 0.43859649122807015,
+      "lhh_percent": 0.5,
+      "start_speed": 81.89642857142857,
+      "max_start_speed": 82.9,
+      "ivb": 6.9642857142857135,
+      "hb": -12.039285714285713,
+      "release_pos_z": 4.612791983253254,
+      "release_pos_x": 3.6994685664941858,
+      "extension": 6.229023625062777,
+      "active_spin_percent": null
+    }
+  ]
+}

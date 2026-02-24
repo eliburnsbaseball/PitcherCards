@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "521230",
+  "pitcher_name": "Liam Hendriks",
+  "mlbam_id": "521230",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 17,
+      "pitch_percent": 0.4722222222222222,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.4444444444444444,
+      "start_speed": 86.74705882352943,
+      "max_start_speed": 87.7,
+      "ivb": 3.635294117647058,
+      "hb": -2.0882352941176467,
+      "release_pos_z": 5.8471845757132925,
+      "release_pos_x": 1.7830709042859967,
+      "extension": 6.958791895269009,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 16,
+      "pitch_percent": 0.4444444444444444,
+      "rhh_percent": 0.4444444444444444,
+      "lhh_percent": 0.4444444444444444,
+      "start_speed": 94.14375000000001,
+      "max_start_speed": 95.2,
+      "ivb": 19.65625,
+      "hb": 8.375000000000002,
+      "release_pos_z": 5.912963422527004,
+      "release_pos_x": 1.7269453813419486,
+      "extension": 6.883428485091737,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 3,
+      "pitch_percent": 0.08333333333333333,
+      "rhh_percent": 0.05555555555555555,
+      "lhh_percent": 0.1111111111111111,
+      "start_speed": 82.7,
+      "max_start_speed": 83.3,
+      "ivb": -12.199999999999998,
+      "hb": -5.166666666666667,
+      "release_pos_z": 5.844255096287324,
+      "release_pos_x": 1.7956222970310252,
+      "extension": 6.850824066146292,
+      "active_spin_percent": null
+    }
+  ]
+}

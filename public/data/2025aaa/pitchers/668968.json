@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "668968",
+  "pitcher_name": "Hans Crouse",
+  "mlbam_id": "668968",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 7,
+      "pitch_percent": 0.5833333333333334,
+      "rhh_percent": 1,
+      "lhh_percent": 0.5,
+      "start_speed": 84.71428571428571,
+      "max_start_speed": 85.5,
+      "ivb": -0.38571428571428573,
+      "hb": 0.9142857142857143,
+      "release_pos_z": 5.949429626019021,
+      "release_pos_x": 0.8967644308109245,
+      "extension": 5.667354473409903,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 4,
+      "pitch_percent": 0.3333333333333333,
+      "rhh_percent": 0,
+      "lhh_percent": 0.4,
+      "start_speed": 95.275,
+      "max_start_speed": 95.4,
+      "ivb": 11.95,
+      "hb": 12.975,
+      "release_pos_z": 5.909474536916473,
+      "release_pos_x": 0.8621088332302538,
+      "extension": 5.410762175450211,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 1,
+      "pitch_percent": 0.08333333333333333,
+      "rhh_percent": 0,
+      "lhh_percent": 0.1,
+      "start_speed": 87,
+      "max_start_speed": 87,
+      "ivb": 7.6,
+      "hb": 12.6,
+      "release_pos_z": 5.768183950141421,
+      "release_pos_x": 1.14623633413066,
+      "extension": 5.689518956792846,
+      "active_spin_percent": null
+    }
+  ]
+}

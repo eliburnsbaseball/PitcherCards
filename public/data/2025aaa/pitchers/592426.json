@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "592426",
+  "pitcher_name": "Luke Jackson",
+  "mlbam_id": "592426",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 25,
+      "pitch_percent": 0.5555555555555556,
+      "rhh_percent": 0.6428571428571429,
+      "lhh_percent": 0.4117647058823529,
+      "start_speed": 86.66799999999998,
+      "max_start_speed": 88.2,
+      "ivb": -5.304000000000001,
+      "hb": -0.7999999999999998,
+      "release_pos_z": 6.283782744692777,
+      "release_pos_x": 2.2765547051601307,
+      "extension": 6.668724826493957,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 10,
+      "pitch_percent": 0.2222222222222222,
+      "rhh_percent": 0.21428571428571427,
+      "lhh_percent": 0.23529411764705882,
+      "start_speed": 93.73,
+      "max_start_speed": 94.7,
+      "ivb": 18,
+      "hb": 5.64,
+      "release_pos_z": 6.377174112924958,
+      "release_pos_x": 2.1243512296477847,
+      "extension": 6.819166349880897,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 10,
+      "pitch_percent": 0.2222222222222222,
+      "rhh_percent": 0.14285714285714285,
+      "lhh_percent": 0.35294117647058826,
+      "start_speed": 82.81,
+      "max_start_speed": 84.5,
+      "ivb": -11.850000000000003,
+      "hb": -5.0200000000000005,
+      "release_pos_z": 6.3371435693163125,
+      "release_pos_x": 2.4018025660513533,
+      "extension": 6.592078813663187,
+      "active_spin_percent": null
+    }
+  ]
+}

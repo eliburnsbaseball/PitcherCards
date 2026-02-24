@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "666150",
+  "pitcher_name": "Dominic Fletcher",
+  "mlbam_id": "666150",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 3,
+      "pitch_percent": 0.14285714285714285,
+      "rhh_percent": 0.3333333333333333,
+      "lhh_percent": 0.06666666666666667,
+      "start_speed": 66.2,
+      "max_start_speed": 69,
+      "ivb": 9.8,
+      "hb": 9.266666666666667,
+      "release_pos_z": 5.626112039272197,
+      "release_pos_x": 3.0337194084894747,
+      "extension": 5.411240558660267,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 3,
+      "pitch_percent": 0.14285714285714285,
+      "rhh_percent": 0.16666666666666666,
+      "lhh_percent": 0.13333333333333333,
+      "start_speed": 70.03333333333333,
+      "max_start_speed": 72.5,
+      "ivb": 2.1999999999999997,
+      "hb": -8.133333333333333,
+      "release_pos_z": 5.416329098351631,
+      "release_pos_x": 3.2564453289624034,
+      "extension": 5.528834008042395,
+      "active_spin_percent": null
+    }
+  ]
+}

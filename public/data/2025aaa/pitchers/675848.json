@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "675848",
+  "pitcher_name": "Juan Mejia",
+  "mlbam_id": "675848",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 160,
+      "pitch_percent": 0.6866952789699571,
+      "rhh_percent": 0.6524822695035462,
+      "lhh_percent": 0.7391304347826086,
+      "start_speed": 95.96187500000002,
+      "max_start_speed": 99.6,
+      "ivb": 12.052499999999998,
+      "hb": 2.3062499999999995,
+      "release_pos_z": 5.87851860390933,
+      "release_pos_x": 1.3706205961171136,
+      "extension": 6.109593926964424,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 68,
+      "pitch_percent": 0.2918454935622318,
+      "rhh_percent": 0.3404255319148936,
+      "lhh_percent": 0.21739130434782608,
+      "start_speed": 82.78382352941176,
+      "max_start_speed": 85.1,
+      "ivb": -0.7558823529411764,
+      "hb": -13.208823529411761,
+      "release_pos_z": 5.87137870131885,
+      "release_pos_x": 1.452218767101264,
+      "extension": 5.9454051223834306,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 5,
+      "pitch_percent": 0.02145922746781116,
+      "rhh_percent": 0.0070921985815602835,
+      "lhh_percent": 0.043478260869565216,
+      "start_speed": 91.54,
+      "max_start_speed": 92.5,
+      "ivb": 3.46,
+      "hb": 14.959999999999999,
+      "release_pos_z": 5.835503388457395,
+      "release_pos_x": 1.5751103977307532,
+      "extension": 6.0639109390310875,
+      "active_spin_percent": null
+    }
+  ]
+}

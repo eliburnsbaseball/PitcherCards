@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "679631",
+  "pitcher_name": "Terrin Vavra",
+  "mlbam_id": "679631",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 5,
+      "pitch_percent": 0.7142857142857143,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.8,
+      "start_speed": 39.92,
+      "max_start_speed": 43.1,
+      "ivb": 19.94,
+      "hb": 3.5200000000000005,
+      "release_pos_z": 7.081928502379887,
+      "release_pos_x": 1.0854062138741907,
+      "extension": 4.048150581792165,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 2,
+      "pitch_percent": 0.2857142857142857,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.2,
+      "start_speed": 39.15,
+      "max_start_speed": 40.5,
+      "ivb": 17.15,
+      "hb": 4.25,
+      "release_pos_z": 7.125403227767745,
+      "release_pos_x": 0.9828101687987145,
+      "extension": 3.9248417324070077,
+      "active_spin_percent": null
+    }
+  ]
+}

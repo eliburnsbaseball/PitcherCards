@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "655889",
+  "pitcher_name": "Manuel Rodríguez",
+  "mlbam_id": "655889",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 6,
+      "pitch_percent": 0.42857142857142855,
+      "rhh_percent": 0.625,
+      "lhh_percent": 0.16666666666666666,
+      "start_speed": 88.15000000000002,
+      "max_start_speed": 89.7,
+      "ivb": 0.15000000000000002,
+      "hb": -2.8333333333333335,
+      "release_pos_z": 5.733997904840348,
+      "release_pos_x": 0.8377362733095547,
+      "extension": 6.419583790734106,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 5,
+      "pitch_percent": 0.35714285714285715,
+      "rhh_percent": 0.125,
+      "lhh_percent": 0.6666666666666666,
+      "start_speed": 95.44,
+      "max_start_speed": 96.8,
+      "ivb": 14.14,
+      "hb": 4.4,
+      "release_pos_z": 5.760326026397349,
+      "release_pos_x": 0.916764053815202,
+      "extension": 6.405920492650962,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 3,
+      "pitch_percent": 0.21428571428571427,
+      "rhh_percent": 0.25,
+      "lhh_percent": 0.16666666666666666,
+      "start_speed": 94.43333333333334,
+      "max_start_speed": 96.5,
+      "ivb": 9.433333333333332,
+      "hb": 15.166666666666666,
+      "release_pos_z": 5.631034755906138,
+      "release_pos_x": 0.9498148606330216,
+      "extension": 6.486268282911237,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "672021",
+  "pitcher_name": "Eric Cerantola",
+  "mlbam_id": "672021",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 440,
+      "pitch_percent": 0.5301204819277109,
+      "rhh_percent": 0.5779376498800959,
+      "lhh_percent": 0.48184019370460046,
+      "start_speed": 85.7243181818182,
+      "max_start_speed": 92.7,
+      "ivb": 2.0288636363636354,
+      "hb": -1.5875000000000008,
+      "release_pos_z": 6.550203490396516,
+      "release_pos_x": 0.9956967064562703,
+      "extension": 6.351731693977469,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 382,
+      "pitch_percent": 0.4602409638554217,
+      "rhh_percent": 0.42206235011990406,
+      "lhh_percent": 0.49878934624697335,
+      "start_speed": 94.7382198952879,
+      "max_start_speed": 97.7,
+      "ivb": 15.156282722513094,
+      "hb": 5.941884816753928,
+      "release_pos_z": 6.591417968710403,
+      "release_pos_x": 0.88268429191691,
+      "extension": 6.557484902896056,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 8,
+      "pitch_percent": 0.00963855421686747,
+      "rhh_percent": 0,
+      "lhh_percent": 0.01937046004842615,
+      "start_speed": 85.5125,
+      "max_start_speed": 88.5,
+      "ivb": 11.5875,
+      "hb": 10.7,
+      "release_pos_z": 6.549112906352258,
+      "release_pos_x": 0.9800185469069793,
+      "extension": 6.681071064516763,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "665861",
+  "pitcher_name": "Sebastián Rivero",
+  "mlbam_id": "665861",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 16,
+      "pitch_percent": 0.7619047619047619,
+      "rhh_percent": 0.8333333333333334,
+      "lhh_percent": 0.3333333333333333,
+      "start_speed": 59.84375,
+      "max_start_speed": 72.2,
+      "ivb": 14.837499999999999,
+      "hb": 3.1687500000000006,
+      "release_pos_z": 6.542305508651665,
+      "release_pos_x": 1.4706928757816413,
+      "extension": 5.092309499412536,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 5,
+      "pitch_percent": 0.23809523809523808,
+      "rhh_percent": 0.16666666666666666,
+      "lhh_percent": 0.6666666666666666,
+      "start_speed": 52.54,
+      "max_start_speed": 62,
+      "ivb": 6.92,
+      "hb": -3.1,
+      "release_pos_z": 6.5677098578896365,
+      "release_pos_x": 1.7312070646463043,
+      "extension": 4.969078202893707,
+      "active_spin_percent": null
+    }
+  ]
+}

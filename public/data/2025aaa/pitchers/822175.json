@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "822175",
+  "pitcher_name": "Bridger Holmes",
+  "mlbam_id": "822175",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 18,
+      "pitch_percent": 0.3673469387755102,
+      "rhh_percent": 0.42424242424242425,
+      "lhh_percent": 0.25,
+      "start_speed": 81.84444444444443,
+      "max_start_speed": 82.5,
+      "ivb": -0.7666666666666667,
+      "hb": -14.305555555555555,
+      "release_pos_z": 3.831849571630609,
+      "release_pos_x": 3.4186008969515638,
+      "extension": 5.546704287080462,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 17,
+      "pitch_percent": 0.3469387755102041,
+      "rhh_percent": 0.3939393939393939,
+      "lhh_percent": 0.25,
+      "start_speed": 81.28235294117647,
+      "max_start_speed": 82.3,
+      "ivb": -2.0176470588235293,
+      "hb": -14.982352941176472,
+      "release_pos_z": 3.8224429758728435,
+      "release_pos_x": 3.4521808752426346,
+      "extension": 5.489037958343685,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 14,
+      "pitch_percent": 0.2857142857142857,
+      "rhh_percent": 0.18181818181818182,
+      "lhh_percent": 0.5,
+      "start_speed": 92.26428571428572,
+      "max_start_speed": 93.5,
+      "ivb": 2.7428571428571433,
+      "hb": 13.278571428571427,
+      "release_pos_z": 4.022713244470768,
+      "release_pos_x": 3.4045796758215703,
+      "extension": 5.660284149452168,
+      "active_spin_percent": null
+    }
+  ]
+}

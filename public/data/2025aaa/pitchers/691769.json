@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "691769",
+  "pitcher_name": "Philip Abner",
+  "mlbam_id": "691769",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 66,
+      "pitch_percent": 0.6285714285714286,
+      "rhh_percent": 0.6875,
+      "lhh_percent": 0.5789473684210527,
+      "start_speed": 90.70757575757575,
+      "max_start_speed": 92.2,
+      "ivb": 11.959090909090909,
+      "hb": -1.8999999999999997,
+      "release_pos_z": 5.671386620138439,
+      "release_pos_x": 2.6553004831700284,
+      "extension": 6.467501501640025,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 39,
+      "pitch_percent": 0.37142857142857144,
+      "rhh_percent": 0.3125,
+      "lhh_percent": 0.42105263157894735,
+      "start_speed": 80.14615384615387,
+      "max_start_speed": 82.8,
+      "ivb": 0.8666666666666668,
+      "hb": -10.133333333333333,
+      "release_pos_z": 5.4396330937627795,
+      "release_pos_x": 2.9317228719865054,
+      "extension": 6.3766958210501,
+      "active_spin_percent": null
+    }
+  ]
+}

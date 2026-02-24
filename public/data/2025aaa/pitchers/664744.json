@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "664744",
+  "pitcher_name": "Jose Espada",
+  "mlbam_id": "664744",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 246,
+      "pitch_percent": 0.4448462929475588,
+      "rhh_percent": 0.45045045045045046,
+      "lhh_percent": 0.43636363636363634,
+      "start_speed": 94.27276422764226,
+      "max_start_speed": 96.8,
+      "ivb": 17.315853658536582,
+      "hb": 6.619918699186991,
+      "release_pos_z": 6.479891221460187,
+      "release_pos_x": 1.6659301483283155,
+      "extension": 6.065362562826716,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 210,
+      "pitch_percent": 0.379746835443038,
+      "rhh_percent": 0.42042042042042044,
+      "lhh_percent": 0.3181818181818182,
+      "start_speed": 83.95666666666672,
+      "max_start_speed": 87.3,
+      "ivb": -1.2238095238095243,
+      "hb": 1.7633333333333339,
+      "release_pos_z": 6.119113492211567,
+      "release_pos_x": 1.9991825765812092,
+      "extension": 6.136400224494897,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 97,
+      "pitch_percent": 0.17540687160940324,
+      "rhh_percent": 0.12912912912912913,
+      "lhh_percent": 0.24545454545454545,
+      "start_speed": 89.50000000000004,
+      "max_start_speed": 92.8,
+      "ivb": 6.8226804123711355,
+      "hb": 10.292783505154642,
+      "release_pos_z": 6.263960631820473,
+      "release_pos_x": 1.8502679066467849,
+      "extension": 6.180651186995598,
+      "active_spin_percent": null
+    }
+  ]
+}

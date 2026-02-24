@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "675910",
+  "pitcher_name": "Chris Williams",
+  "mlbam_id": "675910",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 11,
+      "pitch_percent": 0.5789473684210527,
+      "rhh_percent": 0.6,
+      "lhh_percent": 0.5555555555555556,
+      "start_speed": 39.654545454545456,
+      "max_start_speed": 45.2,
+      "ivb": 22.27272727272727,
+      "hb": -6.409090909090909,
+      "release_pos_z": 6.965344338494779,
+      "release_pos_x": 1.0128921813017444,
+      "extension": 4.57231175067649,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 7,
+      "pitch_percent": 0.3684210526315789,
+      "rhh_percent": 0.3,
+      "lhh_percent": 0.4444444444444444,
+      "start_speed": 42.471428571428575,
+      "max_start_speed": 52.2,
+      "ivb": 16.37142857142857,
+      "hb": 1.8000000000000003,
+      "release_pos_z": 6.773084778953525,
+      "release_pos_x": 1.2131946532847369,
+      "extension": 4.754646380756879,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 1,
+      "pitch_percent": 0.05263157894736842,
+      "rhh_percent": 0.1,
+      "lhh_percent": 0,
+      "start_speed": 63.7,
+      "max_start_speed": 63.7,
+      "ivb": 14.2,
+      "hb": 11.6,
+      "release_pos_z": 6.025535287347487,
+      "release_pos_x": 1.7624277094841234,
+      "extension": 5.426848009135397,
+      "active_spin_percent": null
+    }
+  ]
+}

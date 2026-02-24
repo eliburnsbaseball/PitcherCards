@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "676755",
+  "pitcher_name": "Isaac Mattson",
+  "mlbam_id": "676755",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 208,
+      "pitch_percent": 0.6479750778816199,
+      "rhh_percent": 0.6555555555555556,
+      "lhh_percent": 0.6382978723404256,
+      "start_speed": 93.91490384615386,
+      "max_start_speed": 98.3,
+      "ivb": 19.3951923076923,
+      "hb": 8.941826923076926,
+      "release_pos_z": 6.113674531272566,
+      "release_pos_x": 1.3451425239970913,
+      "extension": 6.622746601083829,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 81,
+      "pitch_percent": 0.2523364485981308,
+      "rhh_percent": 0.3111111111111111,
+      "lhh_percent": 0.1773049645390071,
+      "start_speed": 84.92716049382716,
+      "max_start_speed": 89.9,
+      "ivb": 4.9148148148148145,
+      "hb": -3.808641975308642,
+      "release_pos_z": 6.109651575759686,
+      "release_pos_x": 1.5211081814753555,
+      "extension": 6.462113829061316,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 32,
+      "pitch_percent": 0.09968847352024922,
+      "rhh_percent": 0.03333333333333333,
+      "lhh_percent": 0.18439716312056736,
+      "start_speed": 84.6875,
+      "max_start_speed": 87.3,
+      "ivb": 9.962499999999999,
+      "hb": 12.215625000000001,
+      "release_pos_z": 6.0183835746008,
+      "release_pos_x": 1.4981543769395687,
+      "extension": 6.769140427546943,
+      "active_spin_percent": null
+    }
+  ]
+}

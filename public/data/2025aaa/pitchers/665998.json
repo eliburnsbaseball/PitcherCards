@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "665998",
+  "pitcher_name": "Ismael Munguia",
+  "mlbam_id": "665998",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 39,
+      "pitch_percent": 0.9069767441860465,
+      "rhh_percent": 0.8888888888888888,
+      "lhh_percent": 0.9375,
+      "start_speed": 54.31282051282052,
+      "max_start_speed": 78.5,
+      "ivb": 14.938461538461539,
+      "hb": -0.056410256410256675,
+      "release_pos_z": 6.455483275068245,
+      "release_pos_x": 0.9813637208965347,
+      "extension": 5.102394437549867,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 4,
+      "pitch_percent": 0.09302325581395349,
+      "rhh_percent": 0.1111111111111111,
+      "lhh_percent": 0.0625,
+      "start_speed": 46.475,
+      "max_start_speed": 48.5,
+      "ivb": -5.625,
+      "hb": -6.35,
+      "release_pos_z": 6.545341232728096,
+      "release_pos_x": 0.8773485000717707,
+      "extension": 5.005330054266519,
+      "active_spin_percent": null
+    }
+  ]
+}

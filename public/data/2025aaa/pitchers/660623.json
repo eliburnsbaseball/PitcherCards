@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "660623",
+  "pitcher_name": "Huascar Ynoa",
+  "mlbam_id": "660623",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 55,
+      "pitch_percent": 0.5092592592592593,
+      "rhh_percent": 0.5416666666666666,
+      "lhh_percent": 0.4444444444444444,
+      "start_speed": 92.9890909090909,
+      "max_start_speed": 95.2,
+      "ivb": 13.86909090909091,
+      "hb": 9.959999999999999,
+      "release_pos_z": 6.3520462416608945,
+      "release_pos_x": 1.6759536750056168,
+      "extension": 5.924659085621643,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 41,
+      "pitch_percent": 0.37962962962962965,
+      "rhh_percent": 0.4444444444444444,
+      "lhh_percent": 0.25,
+      "start_speed": 82.32926829268291,
+      "max_start_speed": 84.7,
+      "ivb": -2.446341463414634,
+      "hb": -2.797560975609755,
+      "release_pos_z": 5.938652654191406,
+      "release_pos_x": 2.2065332216898312,
+      "extension": 5.737063550592071,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 12,
+      "pitch_percent": 0.1111111111111111,
+      "rhh_percent": 0.013888888888888888,
+      "lhh_percent": 0.3055555555555556,
+      "start_speed": 86.40833333333332,
+      "max_start_speed": 88.5,
+      "ivb": 10.549999999999999,
+      "hb": 15.766666666666666,
+      "release_pos_z": 6.068153178504899,
+      "release_pos_x": 2.1372396745381645,
+      "extension": 5.9151348187617705,
+      "active_spin_percent": null
+    }
+  ]
+}

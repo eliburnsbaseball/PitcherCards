@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "702911",
+  "pitcher_name": "Tristan Garnett",
+  "mlbam_id": "702911",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 14,
+      "pitch_percent": 0.5833333333333334,
+      "rhh_percent": 0.6363636363636364,
+      "lhh_percent": 0,
+      "start_speed": 78.78571428571429,
+      "max_start_speed": 80.5,
+      "ivb": 14.364285714285714,
+      "hb": 11.621428571428568,
+      "release_pos_z": 7.468066496941367,
+      "release_pos_x": 0.30594151326757585,
+      "extension": 5.498894815492416,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 9,
+      "pitch_percent": 0.375,
+      "rhh_percent": 0.36363636363636365,
+      "lhh_percent": 0.5,
+      "start_speed": 90.33333333333334,
+      "max_start_speed": 91.9,
+      "ivb": 18.666666666666664,
+      "hb": 5.5888888888888895,
+      "release_pos_z": 7.384479764201135,
+      "release_pos_x": 0.42491794090294843,
+      "extension": 5.488959990083894,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 1,
+      "pitch_percent": 0.041666666666666664,
+      "rhh_percent": 0,
+      "lhh_percent": 0.5,
+      "start_speed": 79.8,
+      "max_start_speed": 79.8,
+      "ivb": 2,
+      "hb": 0.5,
+      "release_pos_z": 7.340150451942204,
+      "release_pos_x": 0.560066617781536,
+      "extension": 5.082027489472685,
+      "active_spin_percent": null
+    }
+  ]
+}

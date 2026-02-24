@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "663627",
+  "pitcher_name": "Clay Helvey",
+  "mlbam_id": "663627",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 290,
+      "pitch_percent": 0.5598455598455598,
+      "rhh_percent": 0.5135135135135135,
+      "lhh_percent": 0.5945945945945946,
+      "start_speed": 92.60068965517246,
+      "max_start_speed": 95.1,
+      "ivb": 12.642413793103445,
+      "hb": -1.0803448275862066,
+      "release_pos_z": 5.808568417457309,
+      "release_pos_x": 2.278398192568992,
+      "extension": 6.085502327843297,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 123,
+      "pitch_percent": 0.23745173745173745,
+      "rhh_percent": 0.20270270270270271,
+      "lhh_percent": 0.2635135135135135,
+      "start_speed": 82.08617886178864,
+      "max_start_speed": 84.1,
+      "ivb": -9.282926829268295,
+      "hb": -6.8577235772357685,
+      "release_pos_z": 5.723663279540897,
+      "release_pos_x": 2.2586342543378226,
+      "extension": 6.13822736877302,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 105,
+      "pitch_percent": 0.20270270270270271,
+      "rhh_percent": 0.28378378378378377,
+      "lhh_percent": 0.14189189189189189,
+      "start_speed": 88.6,
+      "max_start_speed": 90.6,
+      "ivb": 4.564761904761905,
+      "hb": -4.766666666666664,
+      "release_pos_z": 5.687506867915038,
+      "release_pos_x": 2.3737456189535977,
+      "extension": 6.078334644116604,
+      "active_spin_percent": null
+    }
+  ]
+}

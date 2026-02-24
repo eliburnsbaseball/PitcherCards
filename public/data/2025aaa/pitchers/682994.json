@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "682994",
+  "pitcher_name": "Chris Villaman",
+  "mlbam_id": "682994",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 31,
+      "pitch_percent": 0.6458333333333334,
+      "rhh_percent": 0.6410256410256411,
+      "lhh_percent": 0.6666666666666666,
+      "start_speed": 90.63225806451611,
+      "max_start_speed": 92.1,
+      "ivb": 17.967741935483872,
+      "hb": 4.503225806451613,
+      "release_pos_z": 5.844410148827073,
+      "release_pos_x": 1.466001858612196,
+      "extension": 6.211240256463702,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 16,
+      "pitch_percent": 0.3333333333333333,
+      "rhh_percent": 0.358974358974359,
+      "lhh_percent": 0.2222222222222222,
+      "start_speed": 80.725,
+      "max_start_speed": 82.3,
+      "ivb": 10.168749999999998,
+      "hb": 13.41875,
+      "release_pos_z": 5.80893033658986,
+      "release_pos_x": 1.4349283450805608,
+      "extension": 6.290516322713737,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 1,
+      "pitch_percent": 0.020833333333333332,
+      "rhh_percent": 0,
+      "lhh_percent": 0.1111111111111111,
+      "start_speed": 83.6,
+      "max_start_speed": 83.6,
+      "ivb": 8.3,
+      "hb": -1.3,
+      "release_pos_z": 5.779063642410863,
+      "release_pos_x": 1.4684837271847022,
+      "extension": 6.1813358571624875,
+      "active_spin_percent": null
+    }
+  ]
+}

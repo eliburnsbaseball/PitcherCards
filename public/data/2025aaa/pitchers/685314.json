@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "685314",
+  "pitcher_name": "Andrew Saalfrank",
+  "mlbam_id": "685314",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 105,
+      "pitch_percent": 0.5223880597014925,
+      "rhh_percent": 0.518796992481203,
+      "lhh_percent": 0.5294117647058824,
+      "start_speed": 79.5171428571429,
+      "max_start_speed": 81.5,
+      "ivb": -8.68095238095238,
+      "hb": -6.073333333333332,
+      "release_pos_z": 6.317067245388292,
+      "release_pos_x": 0.8799334611238067,
+      "extension": 6.161786366010786,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 61,
+      "pitch_percent": 0.3034825870646766,
+      "rhh_percent": 0.3383458646616541,
+      "lhh_percent": 0.23529411764705882,
+      "start_speed": 89.06229508196722,
+      "max_start_speed": 90.8,
+      "ivb": 5.288524590163934,
+      "hb": 9.383606557377052,
+      "release_pos_z": 6.327694623194582,
+      "release_pos_x": 1.0894636609262798,
+      "extension": 6.019732038601454,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 35,
+      "pitch_percent": 0.17412935323383086,
+      "rhh_percent": 0.14285714285714285,
+      "lhh_percent": 0.23529411764705882,
+      "start_speed": 88.67714285714287,
+      "max_start_speed": 91.1,
+      "ivb": 6.699999999999998,
+      "hb": 2.2028571428571424,
+      "release_pos_z": 6.291692731297458,
+      "release_pos_x": 1.1246827307838192,
+      "extension": 5.987310986179432,
+      "active_spin_percent": null
+    }
+  ]
+}

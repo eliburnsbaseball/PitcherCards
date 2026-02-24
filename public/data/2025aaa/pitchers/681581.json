@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "681581",
+  "pitcher_name": "Andy Weber",
+  "mlbam_id": "681581",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 40,
+      "pitch_percent": 0.5405405405405406,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.6071428571428571,
+      "start_speed": 53.910000000000004,
+      "max_start_speed": 59.4,
+      "ivb": 10.580000000000002,
+      "hb": 0.8799999999999999,
+      "release_pos_z": 6.203833219757338,
+      "release_pos_x": 2.6780665792633727,
+      "extension": 4.371728421761713,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 34,
+      "pitch_percent": 0.4594594594594595,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.39285714285714285,
+      "start_speed": 58.11176470588236,
+      "max_start_speed": 72.9,
+      "ivb": 13.314705882352944,
+      "hb": 1.7088235294117649,
+      "release_pos_z": 6.121833296836215,
+      "release_pos_x": 2.7775115035728524,
+      "extension": 4.393159839403856,
+      "active_spin_percent": null
+    }
+  ]
+}

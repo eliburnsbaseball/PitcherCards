@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "661563",
+  "pitcher_name": "Luis Gil",
+  "mlbam_id": "661563",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 54,
+      "pitch_percent": 0.39705882352941174,
+      "rhh_percent": 0.42105263157894735,
+      "lhh_percent": 0.36666666666666664,
+      "start_speed": 85.1259259259259,
+      "max_start_speed": 89.1,
+      "ivb": 4.153703703703703,
+      "hb": -10.092592592592593,
+      "release_pos_z": 5.678547388881809,
+      "release_pos_x": 3.148830029499715,
+      "extension": 6.73159178328802,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 52,
+      "pitch_percent": 0.38235294117647056,
+      "rhh_percent": 0.39473684210526316,
+      "lhh_percent": 0.36666666666666664,
+      "start_speed": 95.17884615384618,
+      "max_start_speed": 98.4,
+      "ivb": 15.3,
+      "hb": 3.142307692307692,
+      "release_pos_z": 5.805882573724691,
+      "release_pos_x": 3.0322592646530997,
+      "extension": 6.695526912195825,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 30,
+      "pitch_percent": 0.22058823529411764,
+      "rhh_percent": 0.18421052631578946,
+      "lhh_percent": 0.26666666666666666,
+      "start_speed": 90.62666666666665,
+      "max_start_speed": 92.5,
+      "ivb": 3.3666666666666667,
+      "hb": 13.813333333333333,
+      "release_pos_z": 5.19215485703577,
+      "release_pos_x": 3.23599785347984,
+      "extension": 6.715408595557287,
+      "active_spin_percent": null
+    }
+  ]
+}

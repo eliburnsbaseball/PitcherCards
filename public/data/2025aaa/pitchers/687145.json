@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "687145",
+  "pitcher_name": "Evan Justice",
+  "mlbam_id": "687145",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 274,
+      "pitch_percent": 0.46757679180887374,
+      "rhh_percent": 0.5197044334975369,
+      "lhh_percent": 0.35,
+      "start_speed": 93.07737226277378,
+      "max_start_speed": 95.8,
+      "ivb": 6.255109489051098,
+      "hb": 14.301094890510944,
+      "release_pos_z": 4.770721459693778,
+      "release_pos_x": 2.2334173640674635,
+      "extension": 6.067144403042221,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 166,
+      "pitch_percent": 0.2832764505119454,
+      "rhh_percent": 0.2438423645320197,
+      "lhh_percent": 0.37222222222222223,
+      "start_speed": 93.10180722891566,
+      "max_start_speed": 96.9,
+      "ivb": 11.961445783132534,
+      "hb": 9.146987951807233,
+      "release_pos_z": 4.929218962103256,
+      "release_pos_x": 1.869380252282459,
+      "extension": 5.997032195417166,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 146,
+      "pitch_percent": 0.24914675767918087,
+      "rhh_percent": 0.23645320197044334,
+      "lhh_percent": 0.2777777777777778,
+      "start_speed": 81.83698630136985,
+      "max_start_speed": 84.3,
+      "ivb": -4.445890410958904,
+      "hb": -2.2232876712328764,
+      "release_pos_z": 4.762704902719307,
+      "release_pos_x": 2.1472851282498526,
+      "extension": 5.942029145615389,
+      "active_spin_percent": null
+    }
+  ]
+}

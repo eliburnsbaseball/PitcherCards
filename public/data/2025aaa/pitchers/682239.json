@@ -1,0 +1,25 @@
+{
+  "pitcher_id": "682239",
+  "pitcher_name": "Luke Ritter",
+  "mlbam_id": "682239",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 10,
+      "pitch_percent": 0.1388888888888889,
+      "rhh_percent": 0.18604651162790697,
+      "lhh_percent": 0.06896551724137931,
+      "start_speed": 58.95,
+      "max_start_speed": 64.1,
+      "ivb": 14.709999999999999,
+      "hb": 5.83,
+      "release_pos_z": 6.442283060511281,
+      "release_pos_x": 1.8741854891663412,
+      "extension": 4.520124692827369,
+      "active_spin_percent": null
+    }
+  ]
+}

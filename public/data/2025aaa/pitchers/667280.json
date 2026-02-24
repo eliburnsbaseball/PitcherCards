@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "667280",
+  "pitcher_name": "Andrew Misiaszek",
+  "mlbam_id": "667280",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 310,
+      "pitch_percent": 0.5626134301270418,
+      "rhh_percent": 0.49868766404199477,
+      "lhh_percent": 0.7058823529411765,
+      "start_speed": 83.5609677419355,
+      "max_start_speed": 86.6,
+      "ivb": 2.089032258064515,
+      "hb": -2.4848387096774194,
+      "release_pos_z": 5.526737472696821,
+      "release_pos_x": 0.8972895594685424,
+      "extension": 5.543313421125603,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 219,
+      "pitch_percent": 0.397459165154265,
+      "rhh_percent": 0.4435695538057743,
+      "lhh_percent": 0.29411764705882354,
+      "start_speed": 90.90867579908678,
+      "max_start_speed": 92.9,
+      "ivb": 17.05479452054795,
+      "hb": 8.211415525114159,
+      "release_pos_z": 5.610735449642807,
+      "release_pos_x": 0.8360135036068788,
+      "extension": 5.594697298915103,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 22,
+      "pitch_percent": 0.039927404718693285,
+      "rhh_percent": 0.05774278215223097,
+      "lhh_percent": 0,
+      "start_speed": 86.89545454545456,
+      "max_start_speed": 88.3,
+      "ivb": 7.804545454545453,
+      "hb": 14.822727272727274,
+      "release_pos_z": 5.452976847229486,
+      "release_pos_x": 0.9620795858929899,
+      "extension": 5.610651777168015,
+      "active_spin_percent": null
+    }
+  ]
+}

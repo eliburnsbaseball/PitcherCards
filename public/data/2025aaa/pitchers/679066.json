@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "679066",
+  "pitcher_name": "Valentin Linarez",
+  "mlbam_id": "679066",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 42,
+      "pitch_percent": 0.5185185185185185,
+      "rhh_percent": 0.47368421052631576,
+      "lhh_percent": 0.5581395348837209,
+      "start_speed": 92.80952380952382,
+      "max_start_speed": 94.6,
+      "ivb": 14.649999999999999,
+      "hb": 2.3142857142857145,
+      "release_pos_z": 6.071227318518285,
+      "release_pos_x": 2.479681601003154,
+      "extension": 6.889953506234212,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 30,
+      "pitch_percent": 0.37037037037037035,
+      "rhh_percent": 0.47368421052631576,
+      "lhh_percent": 0.27906976744186046,
+      "start_speed": 82.91,
+      "max_start_speed": 85,
+      "ivb": 8.82,
+      "hb": -8.103333333333333,
+      "release_pos_z": 5.994007357309177,
+      "release_pos_x": 2.9208862716840445,
+      "extension": 6.95908754520479,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 9,
+      "pitch_percent": 0.1111111111111111,
+      "rhh_percent": 0.05263157894736842,
+      "lhh_percent": 0.16279069767441862,
+      "start_speed": 88.8888888888889,
+      "max_start_speed": 91.4,
+      "ivb": 9.422222222222224,
+      "hb": 10.433333333333332,
+      "release_pos_z": 6.018156631051701,
+      "release_pos_x": 2.6580900667279397,
+      "extension": 7.010622150022424,
+      "active_spin_percent": null
+    }
+  ]
+}

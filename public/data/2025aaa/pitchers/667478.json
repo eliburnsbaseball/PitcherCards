@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "667478",
+  "pitcher_name": "Evan Kravetz",
+  "mlbam_id": "667478",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 183,
+      "pitch_percent": 0.45979899497487436,
+      "rhh_percent": 0.4541832669322709,
+      "lhh_percent": 0.46938775510204084,
+      "start_speed": 89.75136612021856,
+      "max_start_speed": 92.1,
+      "ivb": 17.731147540983596,
+      "hb": 11.62786885245902,
+      "release_pos_z": 6.83148748208609,
+      "release_pos_x": 2.113791116877383,
+      "extension": 6.605574294913339,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 125,
+      "pitch_percent": 0.314070351758794,
+      "rhh_percent": 0.3904382470119522,
+      "lhh_percent": 0.1836734693877551,
+      "start_speed": 79.43200000000002,
+      "max_start_speed": 84.1,
+      "ivb": 4.200800000000003,
+      "hb": 8.767999999999999,
+      "release_pos_z": 6.660987578945975,
+      "release_pos_x": 2.017923455999798,
+      "extension": 6.871261137690364,
+      "active_spin_percent": null
+    },
+    {
+      "code": "KC",
+      "title": "knuckle curve",
+      "color": "#6236CD",
+      "count": 90,
+      "pitch_percent": 0.22613065326633167,
+      "rhh_percent": 0.1553784860557769,
+      "lhh_percent": 0.3469387755102041,
+      "start_speed": 78.17555555555558,
+      "max_start_speed": 82.8,
+      "ivb": -7.2555555555555555,
+      "hb": -6.565555555555554,
+      "release_pos_z": 6.522280259238098,
+      "release_pos_x": 2.198713733015627,
+      "extension": 6.829808332614379,
+      "active_spin_percent": null
+    }
+  ]
+}

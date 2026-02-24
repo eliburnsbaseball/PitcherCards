@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "686531",
+  "pitcher_name": "Andre Lipcius",
+  "mlbam_id": "686531",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 16,
+      "pitch_percent": 0.5333333333333333,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.5555555555555556,
+      "start_speed": 45.743750000000006,
+      "max_start_speed": 59.9,
+      "ivb": 12.943750000000001,
+      "hb": 4.706249999999999,
+      "release_pos_z": 6.86674289849059,
+      "release_pos_x": 2.1005289490677703,
+      "extension": 3.8143041929108756,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 10,
+      "pitch_percent": 0.3333333333333333,
+      "rhh_percent": 0.4166666666666667,
+      "lhh_percent": 0.2777777777777778,
+      "start_speed": 52.71,
+      "max_start_speed": 65.6,
+      "ivb": 18.04,
+      "hb": 7.889999999999999,
+      "release_pos_z": 6.761131614056842,
+      "release_pos_x": 2.0941124762937315,
+      "extension": 3.953633182187108,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 4,
+      "pitch_percent": 0.13333333333333333,
+      "rhh_percent": 0.08333333333333333,
+      "lhh_percent": 0.16666666666666666,
+      "start_speed": 70.75,
+      "max_start_speed": 84,
+      "ivb": 16.375,
+      "hb": 11.350000000000001,
+      "release_pos_z": 6.507063253123797,
+      "release_pos_x": 2.1611650508564644,
+      "extension": 4.32580108916123,
+      "active_spin_percent": null
+    }
+  ]
+}

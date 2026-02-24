@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "699613",
+  "pitcher_name": "Houston Harding",
+  "mlbam_id": "699613",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 23,
+      "pitch_percent": 0.4339622641509434,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.18181818181818182,
+      "start_speed": 90.41304347826087,
+      "max_start_speed": 92.6,
+      "ivb": 16.52173913043478,
+      "hb": 7.178260869565216,
+      "release_pos_z": 5.897521999400017,
+      "release_pos_x": 2.5807172177253754,
+      "extension": 6.694163518783942,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 19,
+      "pitch_percent": 0.3584905660377358,
+      "rhh_percent": 0.3333333333333333,
+      "lhh_percent": 0.45454545454545453,
+      "start_speed": 76.66842105263159,
+      "max_start_speed": 78.6,
+      "ivb": 9.88421052631579,
+      "hb": 7.536842105263159,
+      "release_pos_z": 5.590248794008032,
+      "release_pos_x": 2.5665608955841592,
+      "extension": 6.446417566500848,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 11,
+      "pitch_percent": 0.20754716981132076,
+      "rhh_percent": 0.16666666666666666,
+      "lhh_percent": 0.36363636363636365,
+      "start_speed": 84.22727272727273,
+      "max_start_speed": 88.1,
+      "ivb": 5.3999999999999995,
+      "hb": 1.1181818181818182,
+      "release_pos_z": 5.952395593639252,
+      "release_pos_x": 2.3442298806577586,
+      "extension": 6.423292039484211,
+      "active_spin_percent": null
+    }
+  ]
+}

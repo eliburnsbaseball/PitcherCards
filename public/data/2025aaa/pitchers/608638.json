@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "608638",
+  "pitcher_name": "JT Chargois",
+  "mlbam_id": "608638",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 60,
+      "pitch_percent": 0.5660377358490566,
+      "rhh_percent": 0.5833333333333334,
+      "lhh_percent": 0.5434782608695652,
+      "start_speed": 91.7683333333334,
+      "max_start_speed": 93.3,
+      "ivb": 7.338333333333332,
+      "hb": 16.116666666666667,
+      "release_pos_z": 5.410381775381446,
+      "release_pos_x": 1.642236811012457,
+      "extension": 6.0718861753437805,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 42,
+      "pitch_percent": 0.39622641509433965,
+      "rhh_percent": 0.36666666666666664,
+      "lhh_percent": 0.43478260869565216,
+      "start_speed": 82.57380952380953,
+      "max_start_speed": 84.9,
+      "ivb": 0.4714285714285714,
+      "hb": -5.795238095238095,
+      "release_pos_z": 5.3563144441542425,
+      "release_pos_x": 1.7291984589708065,
+      "extension": 6.014729730009511,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 4,
+      "pitch_percent": 0.03773584905660377,
+      "rhh_percent": 0.05,
+      "lhh_percent": 0.021739130434782608,
+      "start_speed": 91.64999999999999,
+      "max_start_speed": 92.8,
+      "ivb": 9.825,
+      "hb": 13.875,
+      "release_pos_z": 5.429547792742362,
+      "release_pos_x": 1.6259354625936493,
+      "extension": 6.04666690966541,
+      "active_spin_percent": null
+    }
+  ]
+}

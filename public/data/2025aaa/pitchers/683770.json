@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "683770",
+  "pitcher_name": "Will Robertson",
+  "mlbam_id": "683770",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 1,
+      "pitch_percent": 0.05555555555555555,
+      "rhh_percent": 0.09090909090909091,
+      "lhh_percent": 0,
+      "start_speed": 65.1,
+      "max_start_speed": 65.1,
+      "ivb": 15.2,
+      "hb": 11.4,
+      "release_pos_z": 6.190012668629515,
+      "release_pos_x": 2.7990758991008122,
+      "extension": 4.4795462908367885,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 1,
+      "pitch_percent": 0.05555555555555555,
+      "rhh_percent": 0.09090909090909091,
+      "lhh_percent": 0,
+      "start_speed": 63.1,
+      "max_start_speed": 63.1,
+      "ivb": 21.6,
+      "hb": 0.7,
+      "release_pos_z": 5.984906033043096,
+      "release_pos_x": 2.983933626296225,
+      "extension": 4.398016101261973,
+      "active_spin_percent": null
+    }
+  ]
+}

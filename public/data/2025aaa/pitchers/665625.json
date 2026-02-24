@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "665625",
+  "pitcher_name": "Elvis Peguero",
+  "mlbam_id": "665625",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 272,
+      "pitch_percent": 0.5291828793774319,
+      "rhh_percent": 0.5434782608695652,
+      "lhh_percent": 0.5052083333333334,
+      "start_speed": 95.3731617647059,
+      "max_start_speed": 97.8,
+      "ivb": 3.108823529411764,
+      "hb": 16.158823529411748,
+      "release_pos_z": 5.441206174927842,
+      "release_pos_x": 2.7176296812516423,
+      "extension": 6.943522973912243,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 242,
+      "pitch_percent": 0.4708171206225681,
+      "rhh_percent": 0.45652173913043476,
+      "lhh_percent": 0.4947916666666667,
+      "start_speed": 88.35909090909092,
+      "max_start_speed": 91.7,
+      "ivb": -1.7123966942148754,
+      "hb": -3.464462809917355,
+      "release_pos_z": 5.404329092712207,
+      "release_pos_x": 2.8520095337315436,
+      "extension": 6.84617801409353,
+      "active_spin_percent": null
+    }
+  ]
+}

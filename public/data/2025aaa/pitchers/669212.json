@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "669212",
+  "pitcher_name": "Eli Morgan",
+  "mlbam_id": "669212",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 84,
+      "pitch_percent": 0.4158415841584158,
+      "rhh_percent": 0.4,
+      "lhh_percent": 0.4329896907216495,
+      "start_speed": 91.18690476190474,
+      "max_start_speed": 92.8,
+      "ivb": 16.84166666666667,
+      "hb": 10.08452380952381,
+      "release_pos_z": 5.815487213318638,
+      "release_pos_x": 0.43363667272462536,
+      "extension": 6.346901963721213,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 84,
+      "pitch_percent": 0.4158415841584158,
+      "rhh_percent": 0.3333333333333333,
+      "lhh_percent": 0.5051546391752577,
+      "start_speed": 77.71190476190475,
+      "max_start_speed": 80,
+      "ivb": 3.801190476190477,
+      "hb": 16.433333333333337,
+      "release_pos_z": 5.743342200530247,
+      "release_pos_x": 0.7160588839704474,
+      "extension": 6.2321088010736085,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 34,
+      "pitch_percent": 0.16831683168316833,
+      "rhh_percent": 0.26666666666666666,
+      "lhh_percent": 0.061855670103092786,
+      "start_speed": 84.9176470588235,
+      "max_start_speed": 87.4,
+      "ivb": 1.838235294117647,
+      "hb": -3.4794117647058833,
+      "release_pos_z": 5.833914217554537,
+      "release_pos_x": 0.48992474749195525,
+      "extension": 6.1498906482423745,
+      "active_spin_percent": null
+    }
+  ]
+}

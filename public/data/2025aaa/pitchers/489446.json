@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "489446",
+  "pitcher_name": "Kirby Yates",
+  "mlbam_id": "489446",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 13,
+      "pitch_percent": 0.6190476190476191,
+      "rhh_percent": 1,
+      "lhh_percent": 0.5789473684210527,
+      "start_speed": 92.53846153846153,
+      "max_start_speed": 93.5,
+      "ivb": 14.023076923076925,
+      "hb": 13.938461538461537,
+      "release_pos_z": 5.070911902245101,
+      "release_pos_x": 2.6278474276106794,
+      "extension": 6.060632336345427,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 8,
+      "pitch_percent": 0.38095238095238093,
+      "rhh_percent": 0,
+      "lhh_percent": 0.42105263157894735,
+      "start_speed": 87.26249999999999,
+      "max_start_speed": 88.4,
+      "ivb": 3.1874999999999996,
+      "hb": 11.2,
+      "release_pos_z": 5.03527895745896,
+      "release_pos_x": 2.551591492954516,
+      "extension": 6.152308962229192,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "640455",
+  "pitcher_name": "Sean Manaea",
+  "mlbam_id": "640455",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 66,
+      "pitch_percent": 0.4888888888888889,
+      "rhh_percent": 0.5057471264367817,
+      "lhh_percent": 0.4583333333333333,
+      "start_speed": 90.30000000000001,
+      "max_start_speed": 92.8,
+      "ivb": 9.945454545454547,
+      "hb": 14.131818181818181,
+      "release_pos_z": 5.313388527729783,
+      "release_pos_x": 3.5499183178354183,
+      "extension": 6.904768778568051,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 51,
+      "pitch_percent": 0.37777777777777777,
+      "rhh_percent": 0.3218390804597701,
+      "lhh_percent": 0.4791666666666667,
+      "start_speed": 77.58627450980393,
+      "max_start_speed": 82,
+      "ivb": 3.7921568627450974,
+      "hb": -12.207843137254903,
+      "release_pos_z": 5.482420787062127,
+      "release_pos_x": 3.4555253693147505,
+      "extension": 6.672979439964499,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 18,
+      "pitch_percent": 0.13333333333333333,
+      "rhh_percent": 0.1724137931034483,
+      "lhh_percent": 0.0625,
+      "start_speed": 83.19444444444444,
+      "max_start_speed": 85.5,
+      "ivb": 1.0277777777777777,
+      "hb": 14.799999999999999,
+      "release_pos_z": 5.483597528882743,
+      "release_pos_x": 3.518526823176735,
+      "extension": 6.634536884953307,
+      "active_spin_percent": null
+    }
+  ]
+}

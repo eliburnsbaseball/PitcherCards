@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "689877",
+  "pitcher_name": "Ryan Harbin",
+  "mlbam_id": "689877",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 148,
+      "pitch_percent": 0.49169435215946844,
+      "rhh_percent": 0.556390977443609,
+      "lhh_percent": 0.44047619047619047,
+      "start_speed": 97.36554054054052,
+      "max_start_speed": 99.5,
+      "ivb": 15.204054054054053,
+      "hb": 8.964189189189186,
+      "release_pos_z": 6.236424890576526,
+      "release_pos_x": 2.39743419717468,
+      "extension": 6.789262382090791,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 128,
+      "pitch_percent": 0.42524916943521596,
+      "rhh_percent": 0.43609022556390975,
+      "lhh_percent": 0.4166666666666667,
+      "start_speed": 87.07734374999993,
+      "max_start_speed": 90,
+      "ivb": -2.1062499999999997,
+      "hb": -9.71953125,
+      "release_pos_z": 6.017514319524276,
+      "release_pos_x": 2.5791818798615016,
+      "extension": 6.923731753962885,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 25,
+      "pitch_percent": 0.08305647840531562,
+      "rhh_percent": 0.007518796992481203,
+      "lhh_percent": 0.14285714285714285,
+      "start_speed": 89.988,
+      "max_start_speed": 91.7,
+      "ivb": -1.7160000000000004,
+      "hb": 10.732000000000001,
+      "release_pos_z": 5.955191183852434,
+      "release_pos_x": 2.5754844376439854,
+      "extension": 6.788070687427345,
+      "active_spin_percent": null
+    }
+  ]
+}

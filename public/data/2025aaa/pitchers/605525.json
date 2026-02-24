@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "605525",
+  "pitcher_name": "J.B. Wendelken",
+  "mlbam_id": "605525",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 10,
+      "pitch_percent": 0.5263157894736842,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.5555555555555556,
+      "start_speed": 92.74,
+      "max_start_speed": 93.8,
+      "ivb": 12.110000000000001,
+      "hb": 3.0999999999999996,
+      "release_pos_z": 5.596171044731006,
+      "release_pos_x": 2.8808929124129943,
+      "extension": 6.376992328183033,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 9,
+      "pitch_percent": 0.47368421052631576,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.4444444444444444,
+      "start_speed": 85.1888888888889,
+      "max_start_speed": 86.9,
+      "ivb": 4.544444444444445,
+      "hb": 11.422222222222222,
+      "release_pos_z": 5.494876759315231,
+      "release_pos_x": 2.8671625748261658,
+      "extension": 6.232799930845562,
+      "active_spin_percent": null
+    }
+  ]
+}

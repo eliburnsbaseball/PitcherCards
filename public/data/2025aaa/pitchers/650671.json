@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "650671",
+  "pitcher_name": "José Quijada",
+  "mlbam_id": "650671",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 229,
+      "pitch_percent": 0.8807692307692307,
+      "rhh_percent": 0.8313253012048193,
+      "lhh_percent": 0.9680851063829787,
+      "start_speed": 93.99912663755458,
+      "max_start_speed": 97.7,
+      "ivb": 13.934061135371186,
+      "hb": 5.854585152838429,
+      "release_pos_z": 5.301678331116495,
+      "release_pos_x": 2.0981720916976525,
+      "extension": 6.51023493341154,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 31,
+      "pitch_percent": 0.11923076923076924,
+      "rhh_percent": 0.1686746987951807,
+      "lhh_percent": 0.031914893617021274,
+      "start_speed": 86.60000000000001,
+      "max_start_speed": 89.6,
+      "ivb": 6.712903225806452,
+      "hb": 11.683870967741935,
+      "release_pos_z": 5.270248380053365,
+      "release_pos_x": 2.1945794073910077,
+      "extension": 6.444948251614399,
+      "active_spin_percent": null
+    }
+  ]
+}

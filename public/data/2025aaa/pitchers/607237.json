@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "607237",
+  "pitcher_name": "Amir Garrett",
+  "mlbam_id": "607237",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 53,
+      "pitch_percent": 0.5,
+      "rhh_percent": 0.4107142857142857,
+      "lhh_percent": 0.6,
+      "start_speed": 81.28301886792451,
+      "max_start_speed": 83.5,
+      "ivb": -0.7056603773584906,
+      "hb": -2.6698113207547176,
+      "release_pos_z": 5.6750838120932645,
+      "release_pos_x": 2.4488733501133133,
+      "extension": 6.536433243798394,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 43,
+      "pitch_percent": 0.4056603773584906,
+      "rhh_percent": 0.44642857142857145,
+      "lhh_percent": 0.36,
+      "start_speed": 92.78372093023255,
+      "max_start_speed": 96.1,
+      "ivb": 12.727906976744185,
+      "hb": 7.523255813953487,
+      "release_pos_z": 5.770099677066496,
+      "release_pos_x": 2.431833199056528,
+      "extension": 6.678511037424549,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 10,
+      "pitch_percent": 0.09433962264150944,
+      "rhh_percent": 0.14285714285714285,
+      "lhh_percent": 0.04,
+      "start_speed": 91.32000000000001,
+      "max_start_speed": 93.1,
+      "ivb": 11.17,
+      "hb": 10.74,
+      "release_pos_z": 5.616579602121494,
+      "release_pos_x": 2.6611100499131886,
+      "extension": 6.723592988648574,
+      "active_spin_percent": null
+    }
+  ]
+}

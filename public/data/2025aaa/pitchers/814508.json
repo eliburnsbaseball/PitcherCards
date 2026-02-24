@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "814508",
+  "pitcher_name": "Colby Martin",
+  "mlbam_id": "814508",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 16,
+      "pitch_percent": 0.6153846153846154,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.6363636363636364,
+      "start_speed": 98.54375,
+      "max_start_speed": 100.1,
+      "ivb": 16.968749999999996,
+      "hb": 5.925000000000001,
+      "release_pos_z": 5.938408083068865,
+      "release_pos_x": 0.7838519418012243,
+      "extension": 6.075436384891912,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 9,
+      "pitch_percent": 0.34615384615384615,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.3181818181818182,
+      "start_speed": 87.6,
+      "max_start_speed": 89.2,
+      "ivb": 2.011111111111111,
+      "hb": -2.711111111111111,
+      "release_pos_z": 5.7817259733645585,
+      "release_pos_x": 1.0329115673250082,
+      "extension": 6.010846531198445,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 1,
+      "pitch_percent": 0.038461538461538464,
+      "rhh_percent": 0,
+      "lhh_percent": 0.045454545454545456,
+      "start_speed": 96.8,
+      "max_start_speed": 96.8,
+      "ivb": 9.7,
+      "hb": 16.7,
+      "release_pos_z": 5.72407367864981,
+      "release_pos_x": 1.05823631366526,
+      "extension": 6.096524381110515,
+      "active_spin_percent": null
+    }
+  ]
+}

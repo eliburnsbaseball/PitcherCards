@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "694725",
+  "pitcher_name": "Michael Fowler",
+  "mlbam_id": "694725",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 22,
+      "pitch_percent": 0.6666666666666666,
+      "rhh_percent": 0.6,
+      "lhh_percent": 0.7692307692307693,
+      "start_speed": 95.77727272727272,
+      "max_start_speed": 96.8,
+      "ivb": 16.16818181818182,
+      "hb": 3.5818181818181825,
+      "release_pos_z": 6.099318259599883,
+      "release_pos_x": 2.162328297242709,
+      "extension": 7.045643089816756,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 11,
+      "pitch_percent": 0.3333333333333333,
+      "rhh_percent": 0.4,
+      "lhh_percent": 0.23076923076923078,
+      "start_speed": 80.35454545454544,
+      "max_start_speed": 81.2,
+      "ivb": -13.07272727272727,
+      "hb": -11.036363636363637,
+      "release_pos_z": 5.971164392780927,
+      "release_pos_x": 2.5626941785589534,
+      "extension": 6.9165384082326575,
+      "active_spin_percent": null
+    }
+  ]
+}

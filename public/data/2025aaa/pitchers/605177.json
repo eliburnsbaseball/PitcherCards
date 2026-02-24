@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "605177",
+  "pitcher_name": "Andrew Chafin",
+  "mlbam_id": "605177",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 90,
+      "pitch_percent": 0.43478260869565216,
+      "rhh_percent": 0.4246575342465753,
+      "lhh_percent": 0.45901639344262296,
+      "start_speed": 89.66666666666669,
+      "max_start_speed": 92.1,
+      "ivb": 12.20333333333333,
+      "hb": 14.50444444444444,
+      "release_pos_z": 6.46048899494225,
+      "release_pos_x": 2.0471713723519525,
+      "extension": 6.467103125427717,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 80,
+      "pitch_percent": 0.3864734299516908,
+      "rhh_percent": 0.3904109589041096,
+      "lhh_percent": 0.3770491803278688,
+      "start_speed": 80.77874999999997,
+      "max_start_speed": 84.5,
+      "ivb": -1.2587500000000003,
+      "hb": -0.9149999999999998,
+      "release_pos_z": 6.3500519733357565,
+      "release_pos_x": 2.1884696513397,
+      "extension": 6.385350570910907,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 37,
+      "pitch_percent": 0.178743961352657,
+      "rhh_percent": 0.18493150684931506,
+      "lhh_percent": 0.16393442622950818,
+      "start_speed": 89.09189189189188,
+      "max_start_speed": 91,
+      "ivb": 15.821621621621619,
+      "hb": 8.324324324324323,
+      "release_pos_z": 6.545844790587775,
+      "release_pos_x": 1.9461881274742185,
+      "extension": 6.4176601704611445,
+      "active_spin_percent": null
+    }
+  ]
+}

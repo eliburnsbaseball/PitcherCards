@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "657044",
+  "pitcher_name": "Ryan Thompson",
+  "mlbam_id": "657044",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 12,
+      "pitch_percent": 0.5,
+      "rhh_percent": 0.4375,
+      "lhh_percent": 0.625,
+      "start_speed": 87.925,
+      "max_start_speed": 88.5,
+      "ivb": -4.483333333333333,
+      "hb": 9.808333333333332,
+      "release_pos_z": 3.5665100619096157,
+      "release_pos_x": 3.835134059368494,
+      "extension": 6.708445751648578,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 8,
+      "pitch_percent": 0.3333333333333333,
+      "rhh_percent": 0.4375,
+      "lhh_percent": 0.125,
+      "start_speed": 76.3375,
+      "max_start_speed": 77.3,
+      "ivb": 6.1125,
+      "hb": -13.787500000000001,
+      "release_pos_z": 3.646278892174768,
+      "release_pos_x": 3.7996734406321733,
+      "extension": 6.899619274528911,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 4,
+      "pitch_percent": 0.16666666666666666,
+      "rhh_percent": 0.125,
+      "lhh_percent": 0.25,
+      "start_speed": 87.975,
+      "max_start_speed": 89.2,
+      "ivb": 3.4499999999999997,
+      "hb": 8.925,
+      "release_pos_z": 3.7482789205871025,
+      "release_pos_x": 3.923426837212276,
+      "extension": 6.785055970342757,
+      "active_spin_percent": null
+    }
+  ]
+}

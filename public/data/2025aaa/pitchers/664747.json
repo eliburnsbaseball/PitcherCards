@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "664747",
+  "pitcher_name": "Alexis Díaz",
+  "mlbam_id": "664747",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 302,
+      "pitch_percent": 0.601593625498008,
+      "rhh_percent": 0.6142322097378277,
+      "lhh_percent": 0.5872340425531914,
+      "start_speed": 93.46357615894043,
+      "max_start_speed": 97.2,
+      "ivb": 14.558278145695365,
+      "hb": 11.243046357615896,
+      "release_pos_z": 4.819769124987871,
+      "release_pos_x": 2.378217862719857,
+      "extension": 7.60060784935044,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 200,
+      "pitch_percent": 0.398406374501992,
+      "rhh_percent": 0.3857677902621723,
+      "lhh_percent": 0.4127659574468085,
+      "start_speed": 87.65800000000004,
+      "max_start_speed": 91.7,
+      "ivb": 5.714500000000004,
+      "hb": -2.237,
+      "release_pos_z": 4.931434903436427,
+      "release_pos_x": 2.4182110762714673,
+      "extension": 7.549056640800948,
+      "active_spin_percent": null
+    }
+  ]
+}

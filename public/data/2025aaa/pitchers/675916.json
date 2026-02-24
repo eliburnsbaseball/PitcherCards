@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "675916",
+  "pitcher_name": "James Karinchak",
+  "mlbam_id": "675916",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 290,
+      "pitch_percent": 0.5380333951762524,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.596244131455399,
+      "start_speed": 92.70689655172406,
+      "max_start_speed": 94.7,
+      "ivb": 19.988620689655182,
+      "hb": 3.2110344827586204,
+      "release_pos_z": 6.7646644110824115,
+      "release_pos_x": -0.08195984173847808,
+      "extension": 5.832555667585813,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 249,
+      "pitch_percent": 0.4619666048237477,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.40375586854460094,
+      "start_speed": 81.25742971887553,
+      "max_start_speed": 83.9,
+      "ivb": -8.28473895582329,
+      "hb": 1.844176706827309,
+      "release_pos_z": 6.7343592737538,
+      "release_pos_x": -0.01842785074405414,
+      "extension": 5.5919914919472085,
+      "active_spin_percent": null
+    }
+  ]
+}

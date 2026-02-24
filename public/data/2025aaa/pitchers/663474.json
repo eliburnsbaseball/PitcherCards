@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "663474",
+  "pitcher_name": "Triston McKenzie",
+  "mlbam_id": "663474",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 135,
+      "pitch_percent": 0.7068062827225131,
+      "rhh_percent": 0.6964285714285714,
+      "lhh_percent": 0.7215189873417721,
+      "start_speed": 94.62222222222216,
+      "max_start_speed": 97.4,
+      "ivb": 19.45925925925925,
+      "hb": 2.9266666666666663,
+      "release_pos_z": 6.441649946230972,
+      "release_pos_x": 1.8256835469898387,
+      "extension": 6.707148379436358,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 32,
+      "pitch_percent": 0.16753926701570682,
+      "rhh_percent": 0.16964285714285715,
+      "lhh_percent": 0.16455696202531644,
+      "start_speed": 80.43124999999999,
+      "max_start_speed": 82.8,
+      "ivb": -7.503125000000001,
+      "hb": -8.578125000000002,
+      "release_pos_z": 6.341922897146625,
+      "release_pos_x": 2.140410432721424,
+      "extension": 6.486413648350531,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 24,
+      "pitch_percent": 0.1256544502617801,
+      "rhh_percent": 0.13392857142857142,
+      "lhh_percent": 0.11392405063291139,
+      "start_speed": 89.2333333333333,
+      "max_start_speed": 91.2,
+      "ivb": 8.924999999999999,
+      "hb": -2.945833333333333,
+      "release_pos_z": 6.3182902318713134,
+      "release_pos_x": 2.099072026135377,
+      "extension": 6.616399739175349,
+      "active_spin_percent": null
+    }
+  ]
+}

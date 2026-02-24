@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "670280",
+  "pitcher_name": "David Bednar",
+  "mlbam_id": "670280",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 28,
+      "pitch_percent": 0.4307692307692308,
+      "rhh_percent": 0.4146341463414634,
+      "lhh_percent": 0.4583333333333333,
+      "start_speed": 96.53214285714287,
+      "max_start_speed": 97.8,
+      "ivb": 19.103571428571428,
+      "hb": 8.417857142857144,
+      "release_pos_z": 5.958324870529142,
+      "release_pos_x": 1.721721477978264,
+      "extension": 6.605894276035493,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 26,
+      "pitch_percent": 0.4,
+      "rhh_percent": 0.4146341463414634,
+      "lhh_percent": 0.375,
+      "start_speed": 76.76538461538462,
+      "max_start_speed": 79,
+      "ivb": -8.534615384615384,
+      "hb": -8.465384615384615,
+      "release_pos_z": 5.869232133993559,
+      "release_pos_x": 1.8288466962671897,
+      "extension": 6.1699467805027,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 11,
+      "pitch_percent": 0.16923076923076924,
+      "rhh_percent": 0.17073170731707318,
+      "lhh_percent": 0.16666666666666666,
+      "start_speed": 91.72727272727272,
+      "max_start_speed": 92.7,
+      "ivb": 5.472727272727273,
+      "hb": 5.927272727272728,
+      "release_pos_z": 5.907037360461637,
+      "release_pos_x": 1.7663406270627,
+      "extension": 6.6086975656580815,
+      "active_spin_percent": null
+    }
+  ]
+}

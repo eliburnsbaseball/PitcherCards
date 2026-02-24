@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "543238",
+  "pitcher_name": "Anthony Gose",
+  "mlbam_id": "543238",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 448,
+      "pitch_percent": 0.6418338108882522,
+      "rhh_percent": 0.6533665835411472,
+      "lhh_percent": 0.6262626262626263,
+      "start_speed": 95.1448660714286,
+      "max_start_speed": 98.6,
+      "ivb": 16.769866071428567,
+      "hb": 5.620089285714292,
+      "release_pos_z": 5.7771302040644725,
+      "release_pos_x": 1.0278870998034662,
+      "extension": 5.943430685639934,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 250,
+      "pitch_percent": 0.35816618911174786,
+      "rhh_percent": 0.34663341645885287,
+      "lhh_percent": 0.37373737373737376,
+      "start_speed": 85.41079999999998,
+      "max_start_speed": 89,
+      "ivb": 0.16280000000000008,
+      "hb": -3.1603999999999997,
+      "release_pos_z": 5.807560790084137,
+      "release_pos_x": 1.0888350569704939,
+      "extension": 5.920681822406926,
+      "active_spin_percent": null
+    }
+  ]
+}

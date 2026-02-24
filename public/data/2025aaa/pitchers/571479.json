@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "571479",
+  "pitcher_name": "Andrew Bellatti",
+  "mlbam_id": "571479",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 65,
+      "pitch_percent": 0.5855855855855856,
+      "rhh_percent": 0.5974025974025974,
+      "lhh_percent": 0.5588235294117647,
+      "start_speed": 91.73384615384613,
+      "max_start_speed": 94,
+      "ivb": 13.747692307692308,
+      "hb": 10.110769230769229,
+      "release_pos_z": 5.2246892392248245,
+      "release_pos_x": 2.7239610230260967,
+      "extension": 6.043299269022552,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 34,
+      "pitch_percent": 0.3063063063063063,
+      "rhh_percent": 0.35064935064935066,
+      "lhh_percent": 0.20588235294117646,
+      "start_speed": 85.06470588235297,
+      "max_start_speed": 90.3,
+      "ivb": 4.408823529411766,
+      "hb": -2.085294117647059,
+      "release_pos_z": 5.198494713477598,
+      "release_pos_x": 2.7187452045478353,
+      "extension": 5.996261720408217,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 12,
+      "pitch_percent": 0.10810810810810811,
+      "rhh_percent": 0.05194805194805195,
+      "lhh_percent": 0.23529411764705882,
+      "start_speed": 87.29166666666667,
+      "max_start_speed": 91.6,
+      "ivb": 3.2249999999999996,
+      "hb": 15.083333333333334,
+      "release_pos_z": 5.2543509750105155,
+      "release_pos_x": 2.578152058436827,
+      "extension": 6.104070656227353,
+      "active_spin_percent": null
+    }
+  ]
+}

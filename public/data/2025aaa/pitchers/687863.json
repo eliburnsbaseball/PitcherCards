@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "687863",
+  "pitcher_name": "Porter Hodge",
+  "mlbam_id": "687863",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 187,
+      "pitch_percent": 0.5373563218390804,
+      "rhh_percent": 0.5307017543859649,
+      "lhh_percent": 0.55,
+      "start_speed": 95.40267379679146,
+      "max_start_speed": 98,
+      "ivb": 15.023529411764713,
+      "hb": 0.7775401069518717,
+      "release_pos_z": 5.803594790340294,
+      "release_pos_x": 2.603445213441767,
+      "extension": 7.265927062143492,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 158,
+      "pitch_percent": 0.4540229885057471,
+      "rhh_percent": 0.4649122807017544,
+      "lhh_percent": 0.43333333333333335,
+      "start_speed": 83.7392405063291,
+      "max_start_speed": 87.3,
+      "ivb": 1.6556962025316457,
+      "hb": -14.439240506329115,
+      "release_pos_z": 5.65963248173542,
+      "release_pos_x": 2.890588114720105,
+      "extension": 7.166938194858717,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 3,
+      "pitch_percent": 0.008620689655172414,
+      "rhh_percent": 0.0043859649122807015,
+      "lhh_percent": 0.016666666666666666,
+      "start_speed": 89.46666666666665,
+      "max_start_speed": 90,
+      "ivb": 1.6666666666666663,
+      "hb": 2.4333333333333336,
+      "release_pos_z": 5.84569429650675,
+      "release_pos_x": 2.4623681825177273,
+      "extension": 7.241109747612235,
+      "active_spin_percent": null
+    }
+  ]
+}

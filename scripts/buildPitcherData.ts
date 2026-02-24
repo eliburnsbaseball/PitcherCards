@@ -396,11 +396,13 @@ function buildArmAngle2025FallbackMap(raw2025Dir: string): Map<string, number> {
   return out;
 }
 
-function datasetKeyFromArg(arg: string | undefined): "2025" | "2026st" {
+function datasetKeyFromArg(arg: string | undefined): "2025" | "2026st" | "2025aaa" | "2025a" {
   if (!arg) return "2025";
   const a = arg.toLowerCase();
   if (a === "2025") return "2025";
   if (a === "2026" || a === "2026st" || a === "st" || a === "spring") return "2026st";
+  if (a === "2025aaa" || a === "aaa") return "2025aaa";
+  if (a === "2025a" || a === "a") return "2025a";
   return "2025";
 }
 

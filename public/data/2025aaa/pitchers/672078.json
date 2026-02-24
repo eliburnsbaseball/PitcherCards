@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "672078",
+  "pitcher_name": "Eric Pardinho",
+  "mlbam_id": "672078",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 127,
+      "pitch_percent": 0.4163934426229508,
+      "rhh_percent": 0.32432432432432434,
+      "lhh_percent": 0.5583333333333333,
+      "start_speed": 84.03937007874013,
+      "max_start_speed": 86.4,
+      "ivb": 0.14094488188976398,
+      "hb": 13.93464566929134,
+      "release_pos_z": 5.567071704794991,
+      "release_pos_x": 1.1637795444321737,
+      "extension": 6.087195355014882,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 98,
+      "pitch_percent": 0.32131147540983607,
+      "rhh_percent": 0.31891891891891894,
+      "lhh_percent": 0.325,
+      "start_speed": 92.28775510204085,
+      "max_start_speed": 94.4,
+      "ivb": 13.471428571428568,
+      "hb": 9.869387755102041,
+      "release_pos_z": 5.64563871958973,
+      "release_pos_x": 0.9954719397301303,
+      "extension": 6.105048136408534,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 80,
+      "pitch_percent": 0.26229508196721313,
+      "rhh_percent": 0.3567567567567568,
+      "lhh_percent": 0.11666666666666667,
+      "start_speed": 85.15,
+      "max_start_speed": 87.5,
+      "ivb": 2.495000000000001,
+      "hb": 1.2049999999999996,
+      "release_pos_z": 5.610517513867775,
+      "release_pos_x": 1.2071692273575803,
+      "extension": 6.0557780457898165,
+      "active_spin_percent": null
+    }
+  ]
+}

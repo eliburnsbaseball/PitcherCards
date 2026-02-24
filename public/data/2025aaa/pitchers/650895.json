@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "650895",
+  "pitcher_name": "Diego Castillo",
+  "mlbam_id": "650895",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 167,
+      "pitch_percent": 0.4730878186968839,
+      "rhh_percent": 0.5639810426540285,
+      "lhh_percent": 0.3380281690140845,
+      "start_speed": 87.24550898203593,
+      "max_start_speed": 90.4,
+      "ivb": 1.0916167664670662,
+      "hb": -4.5095808383233535,
+      "release_pos_z": 5.690003144536209,
+      "release_pos_x": 1.3677931319388552,
+      "extension": 5.579667774290755,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 116,
+      "pitch_percent": 0.3286118980169972,
+      "rhh_percent": 0.27014218009478674,
+      "lhh_percent": 0.4154929577464789,
+      "start_speed": 95.79655172413794,
+      "max_start_speed": 98.9,
+      "ivb": 4.148275862068967,
+      "hb": 15.068965517241383,
+      "release_pos_z": 5.596555113792353,
+      "release_pos_x": 1.3329397905850406,
+      "extension": 5.597937041403548,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 70,
+      "pitch_percent": 0.19830028328611898,
+      "rhh_percent": 0.16587677725118483,
+      "lhh_percent": 0.24647887323943662,
+      "start_speed": 96.03285714285713,
+      "max_start_speed": 98.8,
+      "ivb": 7.710000000000001,
+      "hb": 11.318571428571428,
+      "release_pos_z": 5.588106235058133,
+      "release_pos_x": 1.3793351768104893,
+      "extension": 5.546032164778012,
+      "active_spin_percent": null
+    }
+  ]
+}

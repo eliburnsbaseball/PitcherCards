@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "612434",
+  "pitcher_name": "Miguel Castro",
+  "mlbam_id": "612434",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 148,
+      "pitch_percent": 0.4758842443729904,
+      "rhh_percent": 0.43333333333333335,
+      "lhh_percent": 0.5343511450381679,
+      "start_speed": 95.62364864864863,
+      "max_start_speed": 98.1,
+      "ivb": 4.2662162162162165,
+      "hb": 16.494594594594588,
+      "release_pos_z": 4.859808370070181,
+      "release_pos_x": 2.4129515518595426,
+      "extension": 6.668795439824422,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 99,
+      "pitch_percent": 0.3183279742765273,
+      "rhh_percent": 0.45,
+      "lhh_percent": 0.13740458015267176,
+      "start_speed": 82.96868686868686,
+      "max_start_speed": 85.2,
+      "ivb": 3.588888888888889,
+      "hb": -12.957575757575755,
+      "release_pos_z": 4.8305641507657855,
+      "release_pos_x": 2.5288987690003277,
+      "extension": 6.549573881381476,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 64,
+      "pitch_percent": 0.2057877813504823,
+      "rhh_percent": 0.11666666666666667,
+      "lhh_percent": 0.3282442748091603,
+      "start_speed": 89.34531250000002,
+      "max_start_speed": 91.3,
+      "ivb": -0.004687499999999914,
+      "hb": 17.1078125,
+      "release_pos_z": 4.918107883145916,
+      "release_pos_x": 2.4197690012753315,
+      "extension": 6.770363741420039,
+      "active_spin_percent": null
+    }
+  ]
+}

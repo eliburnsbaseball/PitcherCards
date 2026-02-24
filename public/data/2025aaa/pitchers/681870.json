@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "681870",
+  "pitcher_name": "Erik Sabrowski",
+  "mlbam_id": "681870",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 67,
+      "pitch_percent": 0.5193798449612403,
+      "rhh_percent": 0.5393258426966292,
+      "lhh_percent": 0.475,
+      "start_speed": 93.0731343283582,
+      "max_start_speed": 95.1,
+      "ivb": 18.777611940298513,
+      "hb": 8.323880597014922,
+      "release_pos_z": 6.107350768184773,
+      "release_pos_x": 1.4259091883565982,
+      "extension": 6.598792550535966,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 43,
+      "pitch_percent": 0.3333333333333333,
+      "rhh_percent": 0.25842696629213485,
+      "lhh_percent": 0.5,
+      "start_speed": 86.7511627906977,
+      "max_start_speed": 88.3,
+      "ivb": 5.697674418604651,
+      "hb": -1.3581395348837209,
+      "release_pos_z": 6.094273953564699,
+      "release_pos_x": 1.6226744795138897,
+      "extension": 6.550304328323984,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 19,
+      "pitch_percent": 0.14728682170542637,
+      "rhh_percent": 0.20224719101123595,
+      "lhh_percent": 0.025,
+      "start_speed": 78.88421052631578,
+      "max_start_speed": 79.7,
+      "ivb": -14.557894736842103,
+      "hb": -6.705263157894737,
+      "release_pos_z": 6.262582788961102,
+      "release_pos_x": 1.236724794049283,
+      "extension": 6.394726600910091,
+      "active_spin_percent": null
+    }
+  ]
+}

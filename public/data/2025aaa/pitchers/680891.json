@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "680891",
+  "pitcher_name": "Jack Neely",
+  "mlbam_id": "680891",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 356,
+      "pitch_percent": 0.5943238731218697,
+      "rhh_percent": 0.606508875739645,
+      "lhh_percent": 0.578544061302682,
+      "start_speed": 85.6943820224718,
+      "max_start_speed": 88.7,
+      "ivb": 2.4207865168539313,
+      "hb": -1.3870786516853937,
+      "release_pos_z": 6.173116156998579,
+      "release_pos_x": 1.594362689792815,
+      "extension": 6.784039938113916,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 243,
+      "pitch_percent": 0.4056761268781302,
+      "rhh_percent": 0.39349112426035504,
+      "lhh_percent": 0.421455938697318,
+      "start_speed": 94.3481481481482,
+      "max_start_speed": 96.9,
+      "ivb": 16.542386831275724,
+      "hb": 7.620164609053494,
+      "release_pos_z": 6.165489882906383,
+      "release_pos_x": 1.5628424277500534,
+      "extension": 6.83269857420677,
+      "active_spin_percent": null
+    }
+  ]
+}

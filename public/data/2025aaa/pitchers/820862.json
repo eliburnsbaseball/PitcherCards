@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "820862",
+  "pitcher_name": "José Fermin",
+  "mlbam_id": "820862",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 105,
+      "pitch_percent": 0.5497382198952879,
+      "rhh_percent": 0.5346534653465347,
+      "lhh_percent": 0.5666666666666667,
+      "start_speed": 97.93238095238097,
+      "max_start_speed": 100.6,
+      "ivb": 14.979999999999999,
+      "hb": 7.863809523809522,
+      "release_pos_z": 6.170805002519399,
+      "release_pos_x": 1.6305828275272107,
+      "extension": 6.249250542636911,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 80,
+      "pitch_percent": 0.418848167539267,
+      "rhh_percent": 0.43564356435643564,
+      "lhh_percent": 0.4,
+      "start_speed": 90.32875,
+      "max_start_speed": 93.7,
+      "ivb": 0.8987499999999999,
+      "hb": 0.32249999999999995,
+      "release_pos_z": 6.336151980132541,
+      "release_pos_x": 1.8249967140598389,
+      "extension": 5.931170086989058,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 6,
+      "pitch_percent": 0.031413612565445025,
+      "rhh_percent": 0.0297029702970297,
+      "lhh_percent": 0.03333333333333333,
+      "start_speed": 98.18333333333332,
+      "max_start_speed": 100.2,
+      "ivb": 12.15,
+      "hb": 11.700000000000001,
+      "release_pos_z": 6.248862195812773,
+      "release_pos_x": 1.65132766066867,
+      "extension": 6.17889061185939,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "683145",
+  "pitcher_name": "Colin Barber",
+  "mlbam_id": "683145",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 5,
+      "pitch_percent": 0.625,
+      "rhh_percent": 0.5,
+      "lhh_percent": 1,
+      "start_speed": 61.64,
+      "max_start_speed": 63.9,
+      "ivb": 15.74,
+      "hb": 7.88,
+      "release_pos_z": 6.361746500192196,
+      "release_pos_x": 1.4258490508591302,
+      "extension": 4.93466700391028,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 3,
+      "pitch_percent": 0.375,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0,
+      "start_speed": 68.13333333333333,
+      "max_start_speed": 73.3,
+      "ivb": 13.166666666666666,
+      "hb": 9.566666666666668,
+      "release_pos_z": 6.370722889346506,
+      "release_pos_x": 1.3877512005982273,
+      "extension": 4.96445053696683,
+      "active_spin_percent": null
+    }
+  ]
+}

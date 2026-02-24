@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "682445",
+  "pitcher_name": "Domingo Gonzalez",
+  "mlbam_id": "682445",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 567,
+      "pitch_percent": 0.5815384615384616,
+      "rhh_percent": 0.5528756957328386,
+      "lhh_percent": 0.6169724770642202,
+      "start_speed": 93.79523809523819,
+      "max_start_speed": 96.7,
+      "ivb": 10.761728395061725,
+      "hb": 14.328218694885368,
+      "release_pos_z": 4.734586770860678,
+      "release_pos_x": 2.23520827639475,
+      "extension": 5.974094274398509,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 365,
+      "pitch_percent": 0.37435897435897436,
+      "rhh_percent": 0.44712430426716143,
+      "lhh_percent": 0.28440366972477066,
+      "start_speed": 87.11863013698628,
+      "max_start_speed": 89.9,
+      "ivb": 0.7306849315068494,
+      "hb": -2.0789041095890415,
+      "release_pos_z": 4.831476627979159,
+      "release_pos_x": 2.1920232729614986,
+      "extension": 5.993174191348746,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 43,
+      "pitch_percent": 0.0441025641025641,
+      "rhh_percent": 0,
+      "lhh_percent": 0.09862385321100918,
+      "start_speed": 87.30465116279072,
+      "max_start_speed": 89.7,
+      "ivb": 3.706976744186046,
+      "hb": 11.71627906976744,
+      "release_pos_z": 4.740198393386955,
+      "release_pos_x": 2.3034789369369246,
+      "extension": 6.080364665427726,
+      "active_spin_percent": null
+    }
+  ]
+}

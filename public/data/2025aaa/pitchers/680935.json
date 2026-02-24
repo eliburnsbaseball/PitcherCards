@@ -1,0 +1,25 @@
+{
+  "pitcher_id": "680935",
+  "pitcher_name": "Connor Pavolony",
+  "mlbam_id": "680935",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 3,
+      "pitch_percent": 1,
+      "rhh_percent": null,
+      "lhh_percent": 1,
+      "start_speed": 49.166666666666664,
+      "max_start_speed": 50.2,
+      "ivb": 20.866666666666667,
+      "hb": 10.2,
+      "release_pos_z": 6.891541034428381,
+      "release_pos_x": 2.1339725587473475,
+      "extension": 4.893420092010521,
+      "active_spin_percent": null
+    }
+  ]
+}

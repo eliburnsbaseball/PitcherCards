@@ -1,0 +1,25 @@
+{
+  "pitcher_id": "676701",
+  "pitcher_name": "Alan Trejo",
+  "mlbam_id": "676701",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 15,
+      "pitch_percent": 0.5357142857142857,
+      "rhh_percent": 0.4090909090909091,
+      "lhh_percent": 1,
+      "start_speed": 57.75333333333334,
+      "max_start_speed": 60.8,
+      "ivb": 14.233333333333333,
+      "hb": 3.1799999999999993,
+      "release_pos_z": 6.165459491463019,
+      "release_pos_x": 2.4678107791503905,
+      "extension": 5.282500009510551,
+      "active_spin_percent": null
+    }
+  ]
+}

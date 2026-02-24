@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "656484",
+  "pitcher_name": "Tristan Gray",
+  "mlbam_id": "656484",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 9,
+      "pitch_percent": 0.9,
+      "rhh_percent": 0.9,
+      "lhh_percent": null,
+      "start_speed": 51.05555555555555,
+      "max_start_speed": 53.7,
+      "ivb": 21.022222222222222,
+      "hb": -0.1777777777777775,
+      "release_pos_z": 6.441202317391138,
+      "release_pos_x": 1.2733454501399553,
+      "extension": 4.710561599404239,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 1,
+      "pitch_percent": 0.1,
+      "rhh_percent": 0.1,
+      "lhh_percent": null,
+      "start_speed": 49.4,
+      "max_start_speed": 49.4,
+      "ivb": 16.3,
+      "hb": 10.7,
+      "release_pos_z": 6.103440362953535,
+      "release_pos_x": 1.1748404404375075,
+      "extension": 4.825079522214036,
+      "active_spin_percent": null
+    }
+  ]
+}

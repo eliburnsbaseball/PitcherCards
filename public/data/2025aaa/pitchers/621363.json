@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "621363",
+  "pitcher_name": "Colin Poche",
+  "mlbam_id": "621363",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 203,
+      "pitch_percent": 0.5918367346938775,
+      "rhh_percent": 0.6019417475728155,
+      "lhh_percent": 0.5766423357664233,
+      "start_speed": 92.61280788177335,
+      "max_start_speed": 94.8,
+      "ivb": 18.92660098522167,
+      "hb": 4.590640394088669,
+      "release_pos_z": 6.117186913378982,
+      "release_pos_x": 1.7179044865446504,
+      "extension": 7.289896192674893,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 140,
+      "pitch_percent": 0.40816326530612246,
+      "rhh_percent": 0.39805825242718446,
+      "lhh_percent": 0.4233576642335766,
+      "start_speed": 83.24928571428569,
+      "max_start_speed": 87.9,
+      "ivb": 2.547857142857142,
+      "hb": -5.227142857142859,
+      "release_pos_z": 6.261868729490397,
+      "release_pos_x": 1.5502314864008069,
+      "extension": 7.2255581226703365,
+      "active_spin_percent": null
+    }
+  ]
+}

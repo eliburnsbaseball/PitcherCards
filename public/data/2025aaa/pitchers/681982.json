@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "681982",
+  "pitcher_name": "Grant Anderson",
+  "mlbam_id": "681982",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 12,
+      "pitch_percent": 0.42857142857142855,
+      "rhh_percent": 0.5714285714285714,
+      "lhh_percent": 0.2857142857142857,
+      "start_speed": 79.32499999999999,
+      "max_start_speed": 80.4,
+      "ivb": 1.508333333333333,
+      "hb": -14.758333333333335,
+      "release_pos_z": 4.34574291052729,
+      "release_pos_x": 2.5114972690725232,
+      "extension": 6.330424287798954,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 10,
+      "pitch_percent": 0.35714285714285715,
+      "rhh_percent": 0.07142857142857142,
+      "lhh_percent": 0.6428571428571429,
+      "start_speed": 92.35,
+      "max_start_speed": 93.6,
+      "ivb": 11.34,
+      "hb": 11.08,
+      "release_pos_z": 4.690137936382726,
+      "release_pos_x": 2.432080073567248,
+      "extension": 6.325544115938179,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 6,
+      "pitch_percent": 0.21428571428571427,
+      "rhh_percent": 0.35714285714285715,
+      "lhh_percent": 0.07142857142857142,
+      "start_speed": 92.03333333333335,
+      "max_start_speed": 92.6,
+      "ivb": -0.55,
+      "hb": 17.483333333333334,
+      "release_pos_z": 4.682925768862421,
+      "release_pos_x": 2.442804324627996,
+      "extension": 6.346402850931811,
+      "active_spin_percent": null
+    }
+  ]
+}

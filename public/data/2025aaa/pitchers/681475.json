@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "681475",
+  "pitcher_name": "Luke Albright",
+  "mlbam_id": "681475",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 45,
+      "pitch_percent": 0.47368421052631576,
+      "rhh_percent": 0.4473684210526316,
+      "lhh_percent": 0.49122807017543857,
+      "start_speed": 91.46444444444445,
+      "max_start_speed": 93.4,
+      "ivb": 16.286666666666665,
+      "hb": 3.5555555555555554,
+      "release_pos_z": 6.072484228657144,
+      "release_pos_x": 0.4771125313645406,
+      "extension": 7.12623459743319,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 31,
+      "pitch_percent": 0.3263157894736842,
+      "rhh_percent": 0.42105263157894735,
+      "lhh_percent": 0.2631578947368421,
+      "start_speed": 88.07096774193548,
+      "max_start_speed": 90.9,
+      "ivb": 6.7935483870967746,
+      "hb": -2.625806451612904,
+      "release_pos_z": 6.0442547068291015,
+      "release_pos_x": 0.7222425688505377,
+      "extension": 6.9700983308711635,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 19,
+      "pitch_percent": 0.2,
+      "rhh_percent": 0.13157894736842105,
+      "lhh_percent": 0.24561403508771928,
+      "start_speed": 79.39999999999999,
+      "max_start_speed": 82,
+      "ivb": -14.010526315789473,
+      "hb": -4.0210526315789465,
+      "release_pos_z": 6.030068685213627,
+      "release_pos_x": 0.6327172324789864,
+      "extension": 7.007153364046688,
+      "active_spin_percent": null
+    }
+  ]
+}

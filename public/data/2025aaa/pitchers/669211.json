@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "669211",
+  "pitcher_name": "Keegan Akin",
+  "mlbam_id": "669211",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 17,
+      "pitch_percent": 0.4594594594594595,
+      "rhh_percent": 0.5714285714285714,
+      "lhh_percent": 0.391304347826087,
+      "start_speed": 93.82941176470588,
+      "max_start_speed": 94.8,
+      "ivb": 17.070588235294117,
+      "hb": 10.852941176470589,
+      "release_pos_z": 6.118431750567389,
+      "release_pos_x": 1.8106498740587653,
+      "extension": 5.662446010451897,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 15,
+      "pitch_percent": 0.40540540540540543,
+      "rhh_percent": 0.14285714285714285,
+      "lhh_percent": 0.5652173913043478,
+      "start_speed": 86.39999999999999,
+      "max_start_speed": 87.5,
+      "ivb": 3.7133333333333334,
+      "hb": -2,
+      "release_pos_z": 5.97253453017913,
+      "release_pos_x": 1.9832673329292783,
+      "extension": 5.5060224262426685,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 5,
+      "pitch_percent": 0.13513513513513514,
+      "rhh_percent": 0.2857142857142857,
+      "lhh_percent": 0.043478260869565216,
+      "start_speed": 86.1,
+      "max_start_speed": 86.8,
+      "ivb": 9.719999999999999,
+      "hb": 16.82,
+      "release_pos_z": 5.8557587367979576,
+      "release_pos_x": 2.023932028973907,
+      "extension": 5.751416076526841,
+      "active_spin_percent": null
+    }
+  ]
+}

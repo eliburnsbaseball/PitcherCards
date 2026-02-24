@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "804912",
+  "pitcher_name": "Mason Vinyard",
+  "mlbam_id": "804912",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 16,
+      "pitch_percent": 0.47058823529411764,
+      "rhh_percent": 0.4117647058823529,
+      "lhh_percent": 0.5294117647058824,
+      "start_speed": 79.9625,
+      "max_start_speed": 81.9,
+      "ivb": -2.675,
+      "hb": -13.9375,
+      "release_pos_z": 5.997487970992639,
+      "release_pos_x": 1.2888635689362313,
+      "extension": 6.047818857985011,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 10,
+      "pitch_percent": 0.29411764705882354,
+      "rhh_percent": 0.47058823529411764,
+      "lhh_percent": 0.11764705882352941,
+      "start_speed": 92.37,
+      "max_start_speed": 93.1,
+      "ivb": 14.15,
+      "hb": 13.12,
+      "release_pos_z": 6.066334108579712,
+      "release_pos_x": 0.9587430965797825,
+      "extension": 6.195381667418169,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 8,
+      "pitch_percent": 0.23529411764705882,
+      "rhh_percent": 0.11764705882352941,
+      "lhh_percent": 0.35294117647058826,
+      "start_speed": 86.375,
+      "max_start_speed": 88.3,
+      "ivb": 8.025,
+      "hb": 19.112499999999997,
+      "release_pos_z": 5.8770504153421115,
+      "release_pos_x": 1.2712628350753852,
+      "extension": 6.059022470028015,
+      "active_spin_percent": null
+    }
+  ]
+}

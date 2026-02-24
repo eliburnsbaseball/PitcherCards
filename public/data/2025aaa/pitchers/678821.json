@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "678821",
+  "pitcher_name": "Luis Peralta",
+  "mlbam_id": "678821",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 537,
+      "pitch_percent": 0.6884615384615385,
+      "rhh_percent": 0.6861702127659575,
+      "lhh_percent": 0.6944444444444444,
+      "start_speed": 94.3571694599628,
+      "max_start_speed": 96.8,
+      "ivb": 12.65810055865923,
+      "hb": 11.647113594040954,
+      "release_pos_z": 5.115316430164844,
+      "release_pos_x": 2.381546382791488,
+      "extension": 6.051031501112715,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 219,
+      "pitch_percent": 0.28076923076923077,
+      "rhh_percent": 0.2712765957446808,
+      "lhh_percent": 0.3055555555555556,
+      "start_speed": 81.47305936073062,
+      "max_start_speed": 84.3,
+      "ivb": -3.073059360730591,
+      "hb": -8.964383561643839,
+      "release_pos_z": 5.070896480448989,
+      "release_pos_x": 2.575695709623853,
+      "extension": 5.853544753150675,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 24,
+      "pitch_percent": 0.03076923076923077,
+      "rhh_percent": 0.0425531914893617,
+      "lhh_percent": 0,
+      "start_speed": 87.07499999999999,
+      "max_start_speed": 88.4,
+      "ivb": 10.116666666666667,
+      "hb": 10.841666666666669,
+      "release_pos_z": 4.970662315508767,
+      "release_pos_x": 2.4934317346502235,
+      "extension": 6.0555727134093,
+      "active_spin_percent": null
+    }
+  ]
+}

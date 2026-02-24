@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "691947",
+  "pitcher_name": "Ronan Kopp",
+  "mlbam_id": "691947",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 277,
+      "pitch_percent": 0.5496031746031746,
+      "rhh_percent": 0.5168539325842697,
+      "lhh_percent": 0.5864978902953587,
+      "start_speed": 96.17545126353794,
+      "max_start_speed": 99.2,
+      "ivb": 17.687364620938634,
+      "hb": 2.212635379061371,
+      "release_pos_z": 6.587451262438011,
+      "release_pos_x": 1.6830281567160554,
+      "extension": 6.158303108389237,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 227,
+      "pitch_percent": 0.4503968253968254,
+      "rhh_percent": 0.48314606741573035,
+      "lhh_percent": 0.41350210970464135,
+      "start_speed": 91.2387665198238,
+      "max_start_speed": 94.1,
+      "ivb": 3.609251101321584,
+      "hb": -5.594273127753308,
+      "release_pos_z": 6.565001961944426,
+      "release_pos_x": 1.7846175482232656,
+      "extension": 6.06817394536957,
+      "active_spin_percent": null
+    }
+  ]
+}

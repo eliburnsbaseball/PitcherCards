@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "657024",
+  "pitcher_name": "Erik Swanson",
+  "mlbam_id": "657024",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 31,
+      "pitch_percent": 0.5,
+      "rhh_percent": 0.3684210526315789,
+      "lhh_percent": 0.7083333333333334,
+      "start_speed": 83.13870967741934,
+      "max_start_speed": 84.5,
+      "ivb": 2.1870967741935488,
+      "hb": 11.209677419354836,
+      "release_pos_z": 6.120999871383391,
+      "release_pos_x": 0.9072035016892086,
+      "extension": 6.739794900173344,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 26,
+      "pitch_percent": 0.41935483870967744,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.2916666666666667,
+      "start_speed": 92.50384615384617,
+      "max_start_speed": 93.7,
+      "ivb": 17.653846153846157,
+      "hb": 9.849999999999998,
+      "release_pos_z": 6.274214471900768,
+      "release_pos_x": 0.7111067682919304,
+      "extension": 6.777205969845245,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 5,
+      "pitch_percent": 0.08064516129032258,
+      "rhh_percent": 0.13157894736842105,
+      "lhh_percent": 0,
+      "start_speed": 86.85999999999999,
+      "max_start_speed": 87.7,
+      "ivb": 4.12,
+      "hb": -3.2600000000000002,
+      "release_pos_z": 6.092512389987057,
+      "release_pos_x": 1.0054068264008482,
+      "extension": 6.672352541303534,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "621114",
+  "pitcher_name": "Ryan Burr",
+  "mlbam_id": "621114",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 61,
+      "pitch_percent": 0.5083333333333333,
+      "rhh_percent": 0.4186046511627907,
+      "lhh_percent": 0.5584415584415584,
+      "start_speed": 92.96393442622951,
+      "max_start_speed": 95.1,
+      "ivb": 15.652459016393445,
+      "hb": 1.2131147540983607,
+      "release_pos_z": 6.430702392515969,
+      "release_pos_x": 1.8694371150571947,
+      "extension": 7.105136795917067,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 59,
+      "pitch_percent": 0.49166666666666664,
+      "rhh_percent": 0.5813953488372093,
+      "lhh_percent": 0.44155844155844154,
+      "start_speed": 84.6728813559322,
+      "max_start_speed": 86.5,
+      "ivb": -2.333898305084745,
+      "hb": -4.38135593220339,
+      "release_pos_z": 6.411109706484212,
+      "release_pos_x": 2.0245179691675204,
+      "extension": 6.994266361416339,
+      "active_spin_percent": null
+    }
+  ]
+}

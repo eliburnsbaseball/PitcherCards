@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "668876",
+  "pitcher_name": "Zach Humphreys",
+  "mlbam_id": "668876",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 13,
+      "pitch_percent": 0.9285714285714286,
+      "rhh_percent": 1,
+      "lhh_percent": 0.8,
+      "start_speed": 55.638461538461534,
+      "max_start_speed": 60.7,
+      "ivb": 16.869230769230768,
+      "hb": -4.976923076923077,
+      "release_pos_z": 6.272029887085806,
+      "release_pos_x": 1.6619168517377754,
+      "extension": 4.3330905268639155,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 1,
+      "pitch_percent": 0.07142857142857142,
+      "rhh_percent": 0,
+      "lhh_percent": 0.2,
+      "start_speed": 52.5,
+      "max_start_speed": 52.5,
+      "ivb": 13.1,
+      "hb": 2.3,
+      "release_pos_z": 6.288270180789971,
+      "release_pos_x": 1.687021562079065,
+      "extension": 4.292376244345019,
+      "active_spin_percent": null
+    }
+  ]
+}

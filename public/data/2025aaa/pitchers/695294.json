@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "695294",
+  "pitcher_name": "Tommy McCollum",
+  "mlbam_id": "695294",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 30,
+      "pitch_percent": 0.44776119402985076,
+      "rhh_percent": 0.4642857142857143,
+      "lhh_percent": 0.4358974358974359,
+      "start_speed": 94.54666666666668,
+      "max_start_speed": 95.5,
+      "ivb": 17.133333333333333,
+      "hb": 8.596666666666666,
+      "release_pos_z": 6.129132916822498,
+      "release_pos_x": 1.171571366559327,
+      "extension": 7.2483816029295145,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 22,
+      "pitch_percent": 0.3283582089552239,
+      "rhh_percent": 0.2857142857142857,
+      "lhh_percent": 0.358974358974359,
+      "start_speed": 86.13181818181818,
+      "max_start_speed": 88.1,
+      "ivb": 4.431818181818182,
+      "hb": 8.495454545454546,
+      "release_pos_z": 6.0718377678707505,
+      "release_pos_x": 1.205003165555601,
+      "extension": 7.39450481861141,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 15,
+      "pitch_percent": 0.22388059701492538,
+      "rhh_percent": 0.25,
+      "lhh_percent": 0.20512820512820512,
+      "start_speed": 88.60000000000001,
+      "max_start_speed": 90.7,
+      "ivb": 7.426666666666667,
+      "hb": -0.84,
+      "release_pos_z": 6.114686873530902,
+      "release_pos_x": 1.1137328618253006,
+      "extension": 7.33269888417955,
+      "active_spin_percent": null
+    }
+  ]
+}

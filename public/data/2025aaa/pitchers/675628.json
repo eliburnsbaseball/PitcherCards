@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "675628",
+  "pitcher_name": "Darius Hill",
+  "mlbam_id": "675628",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 26,
+      "pitch_percent": 0.896551724137931,
+      "rhh_percent": 0.875,
+      "lhh_percent": 1,
+      "start_speed": 65.66923076923078,
+      "max_start_speed": 73.9,
+      "ivb": 8.361538461538462,
+      "hb": -2.1576923076923076,
+      "release_pos_z": 5.60952037485716,
+      "release_pos_x": 2.4118784965123123,
+      "extension": 5.716282121497429,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 2,
+      "pitch_percent": 0.06896551724137931,
+      "rhh_percent": 0.08333333333333333,
+      "lhh_percent": 0,
+      "start_speed": 75.80000000000001,
+      "max_start_speed": 80.7,
+      "ivb": 7,
+      "hb": 15,
+      "release_pos_z": 5.264933365544184,
+      "release_pos_x": 2.5995420728863623,
+      "extension": 5.876914127433068,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 1,
+      "pitch_percent": 0.034482758620689655,
+      "rhh_percent": 0.041666666666666664,
+      "lhh_percent": 0,
+      "start_speed": 66.9,
+      "max_start_speed": 66.9,
+      "ivb": 2.3,
+      "hb": 12.2,
+      "release_pos_z": 5.775166520325017,
+      "release_pos_x": 2.46950102423153,
+      "extension": 5.729178223447266,
+      "active_spin_percent": null
+    }
+  ]
+}

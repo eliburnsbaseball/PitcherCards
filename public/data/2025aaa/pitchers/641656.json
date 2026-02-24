@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "641656",
+  "pitcher_name": "Ian Hamilton",
+  "mlbam_id": "641656",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 128,
+      "pitch_percent": 0.3987538940809969,
+      "rhh_percent": 0.40669856459330145,
+      "lhh_percent": 0.38392857142857145,
+      "start_speed": 87.35546875000003,
+      "max_start_speed": 90.2,
+      "ivb": 4.946874999999999,
+      "hb": -0.4359375000000003,
+      "release_pos_z": 5.931583697308403,
+      "release_pos_x": 2.7389563944361575,
+      "extension": 5.4956166216466915,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 117,
+      "pitch_percent": 0.3644859813084112,
+      "rhh_percent": 0.430622009569378,
+      "lhh_percent": 0.24107142857142858,
+      "start_speed": 94.64700854700848,
+      "max_start_speed": 97,
+      "ivb": 8.988034188034188,
+      "hb": 16.64957264957264,
+      "release_pos_z": 5.893081998575171,
+      "release_pos_x": 2.7022800271621037,
+      "extension": 5.602156631719196,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 76,
+      "pitch_percent": 0.2367601246105919,
+      "rhh_percent": 0.16267942583732056,
+      "lhh_percent": 0.375,
+      "start_speed": 95.39342105263155,
+      "max_start_speed": 97.2,
+      "ivb": 14.764473684210529,
+      "hb": 11.001315789473685,
+      "release_pos_z": 5.9936323779870975,
+      "release_pos_x": 2.670819154337504,
+      "extension": 5.6096937956319195,
+      "active_spin_percent": null
+    }
+  ]
+}

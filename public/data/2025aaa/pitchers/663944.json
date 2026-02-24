@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "663944",
+  "pitcher_name": "Cody Roberts",
+  "mlbam_id": "663944",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 25,
+      "pitch_percent": 0.5555555555555556,
+      "rhh_percent": 0.6,
+      "lhh_percent": 0.5333333333333333,
+      "start_speed": 89.66799999999999,
+      "max_start_speed": 92.2,
+      "ivb": 13.808,
+      "hb": 3.404,
+      "release_pos_z": 6.02652186055849,
+      "release_pos_x": 0.8144142980885334,
+      "extension": 6.01831132985013,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 7,
+      "pitch_percent": 0.15555555555555556,
+      "rhh_percent": 0.2,
+      "lhh_percent": 0.13333333333333333,
+      "start_speed": 80.11428571428571,
+      "max_start_speed": 83.1,
+      "ivb": 15.599999999999998,
+      "hb": 4.985714285714287,
+      "release_pos_z": 6.436427884172695,
+      "release_pos_x": 1.0349165053822271,
+      "extension": 5.523213734167544,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 4,
+      "pitch_percent": 0.08888888888888889,
+      "rhh_percent": 0.06666666666666667,
+      "lhh_percent": 0.1,
+      "start_speed": 86.25,
+      "max_start_speed": 87.1,
+      "ivb": 2.45,
+      "hb": -5.35,
+      "release_pos_z": 5.8259845847257585,
+      "release_pos_x": 1.058542978010557,
+      "extension": 6.0246994638002205,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "702878",
+  "pitcher_name": "Douglas Orellana",
+  "mlbam_id": "702878",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 184,
+      "pitch_percent": 0.47668393782383417,
+      "rhh_percent": 0.45374449339207046,
+      "lhh_percent": 0.5094339622641509,
+      "start_speed": 94.13804347826088,
+      "max_start_speed": 96.4,
+      "ivb": 14.352173913043474,
+      "hb": -1.4467391304347825,
+      "release_pos_z": 6.683646042715736,
+      "release_pos_x": 0.7192572493238979,
+      "extension": 6.4311442762233675,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 182,
+      "pitch_percent": 0.47150259067357514,
+      "rhh_percent": 0.4977973568281938,
+      "lhh_percent": 0.4339622641509434,
+      "start_speed": 85.38461538461542,
+      "max_start_speed": 88.2,
+      "ivb": -1.4467032967032964,
+      "hb": -1.930219780219781,
+      "release_pos_z": 6.677299580906019,
+      "release_pos_x": 0.49870713206565576,
+      "extension": 6.489364699777504,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 20,
+      "pitch_percent": 0.05181347150259067,
+      "rhh_percent": 0.048458149779735685,
+      "lhh_percent": 0.05660377358490566,
+      "start_speed": 79.71499999999999,
+      "max_start_speed": 82.6,
+      "ivb": -11.860000000000001,
+      "hb": -2.335,
+      "release_pos_z": 6.689570635186652,
+      "release_pos_x": 0.44148077805758756,
+      "extension": 6.455173795388561,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "624647",
+  "pitcher_name": "Victor González",
+  "mlbam_id": "624647",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 470,
+      "pitch_percent": 0.6216931216931217,
+      "rhh_percent": 0.6470588235294118,
+      "lhh_percent": 0.5741444866920152,
+      "start_speed": 92.82361702127659,
+      "max_start_speed": 95.5,
+      "ivb": 7.801276595744675,
+      "hb": 15.230212765957448,
+      "release_pos_z": 5.0003324875879125,
+      "release_pos_x": 2.318163550985852,
+      "extension": 6.049269934452628,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 215,
+      "pitch_percent": 0.2843915343915344,
+      "rhh_percent": 0.21703853955375255,
+      "lhh_percent": 0.41064638783269963,
+      "start_speed": 85.52093023255814,
+      "max_start_speed": 89.2,
+      "ivb": 1.75906976744186,
+      "hb": -0.19209302325581407,
+      "release_pos_z": 4.96773815314908,
+      "release_pos_x": 2.3429304058097933,
+      "extension": 6.120113360129398,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 71,
+      "pitch_percent": 0.09391534391534391,
+      "rhh_percent": 0.1359026369168357,
+      "lhh_percent": 0.015209125475285171,
+      "start_speed": 86.90704225352113,
+      "max_start_speed": 91.9,
+      "ivb": 6.515492957746478,
+      "hb": 13.60140845070423,
+      "release_pos_z": 4.972868477608289,
+      "release_pos_x": 2.418848924810587,
+      "extension": 6.193853196807698,
+      "active_spin_percent": null
+    }
+  ]
+}

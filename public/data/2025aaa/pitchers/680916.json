@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "680916",
+  "pitcher_name": "Franco Aleman",
+  "mlbam_id": "680916",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 534,
+      "pitch_percent": 0.7129506008010681,
+      "rhh_percent": 0.6919739696312365,
+      "lhh_percent": 0.7465277777777778,
+      "start_speed": 96.48426966292152,
+      "max_start_speed": 99.8,
+      "ivb": 12.750936329588017,
+      "hb": 14.379400749063668,
+      "release_pos_z": 5.778668640753773,
+      "release_pos_x": 1.9452989790040054,
+      "extension": 6.937645042449388,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 197,
+      "pitch_percent": 0.2630173564753004,
+      "rhh_percent": 0.30151843817787416,
+      "lhh_percent": 0.2013888888888889,
+      "start_speed": 86.17715736040611,
+      "max_start_speed": 90.9,
+      "ivb": 2.2878172588832477,
+      "hb": -2.6182741116751274,
+      "release_pos_z": 6.0647966387483905,
+      "release_pos_x": 1.9233107809875325,
+      "extension": 6.6744580136669365,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 18,
+      "pitch_percent": 0.02403204272363151,
+      "rhh_percent": 0.006507592190889371,
+      "lhh_percent": 0.052083333333333336,
+      "start_speed": 86.74444444444444,
+      "max_start_speed": 92.1,
+      "ivb": 7.955555555555555,
+      "hb": 11.01111111111111,
+      "release_pos_z": 5.931499376660965,
+      "release_pos_x": 1.8727308039737887,
+      "extension": 6.946786634455454,
+      "active_spin_percent": null
+    }
+  ]
+}

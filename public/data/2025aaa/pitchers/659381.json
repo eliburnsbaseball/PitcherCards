@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "659381",
+  "pitcher_name": "Justin King",
+  "mlbam_id": "659381",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 55,
+      "pitch_percent": 0.4782608695652174,
+      "rhh_percent": 0.4857142857142857,
+      "lhh_percent": 0.4666666666666667,
+      "start_speed": 94.47090909090907,
+      "max_start_speed": 96.9,
+      "ivb": 16.62363636363636,
+      "hb": 8.147272727272725,
+      "release_pos_z": 6.102519697484106,
+      "release_pos_x": 2.0858572317358037,
+      "extension": 6.294096855276097,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 39,
+      "pitch_percent": 0.3391304347826087,
+      "rhh_percent": 0.22857142857142856,
+      "lhh_percent": 0.5111111111111111,
+      "start_speed": 82.85128205128207,
+      "max_start_speed": 87.1,
+      "ivb": 2.289743589743589,
+      "hb": -11.148717948717948,
+      "release_pos_z": 5.94318412260999,
+      "release_pos_x": 2.4732230642817585,
+      "extension": 6.136664124212365,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 21,
+      "pitch_percent": 0.1826086956521739,
+      "rhh_percent": 0.2857142857142857,
+      "lhh_percent": 0.022222222222222223,
+      "start_speed": 86.33809523809525,
+      "max_start_speed": 89.3,
+      "ivb": 7.857142857142857,
+      "hb": 15.399999999999999,
+      "release_pos_z": 5.932872446659682,
+      "release_pos_x": 2.4037838242159477,
+      "extension": 6.175867337903488,
+      "active_spin_percent": null
+    }
+  ]
+}

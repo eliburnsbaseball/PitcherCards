@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "681799",
+  "pitcher_name": "Ethan Roberts",
+  "mlbam_id": "681799",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 397,
+      "pitch_percent": 0.5286284953395473,
+      "rhh_percent": 0.5195402298850574,
+      "lhh_percent": 0.5411392405063291,
+      "start_speed": 82.78740554156167,
+      "max_start_speed": 85.3,
+      "ivb": 0.5450881612090681,
+      "hb": -19.693198992443328,
+      "release_pos_z": 5.074988728259366,
+      "release_pos_x": 2.2371619985497175,
+      "extension": 6.237080001273337,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 276,
+      "pitch_percent": 0.36750998668442075,
+      "rhh_percent": 0.335632183908046,
+      "lhh_percent": 0.41139240506329117,
+      "start_speed": 92.29239130434782,
+      "max_start_speed": 95.2,
+      "ivb": 11.41521739130434,
+      "hb": -0.8746376811594206,
+      "release_pos_z": 5.206498746231104,
+      "release_pos_x": 2.0809015120318337,
+      "extension": 6.285182821076376,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 78,
+      "pitch_percent": 0.10386151797603196,
+      "rhh_percent": 0.14482758620689656,
+      "lhh_percent": 0.04746835443037975,
+      "start_speed": 93.26538461538463,
+      "max_start_speed": 95.3,
+      "ivb": 10.093589743589746,
+      "hb": 9.612820512820512,
+      "release_pos_z": 5.099673396863839,
+      "release_pos_x": 2.1010073888007272,
+      "extension": 6.336650083365593,
+      "active_spin_percent": null
+    }
+  ]
+}

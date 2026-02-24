@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "641835",
+  "pitcher_name": "Tim Mayza",
+  "mlbam_id": "641835",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 36,
+      "pitch_percent": 0.782608695652174,
+      "rhh_percent": 0.7631578947368421,
+      "lhh_percent": 0.875,
+      "start_speed": 93.49166666666667,
+      "max_start_speed": 95.4,
+      "ivb": 9.538888888888888,
+      "hb": 15.652777777777771,
+      "release_pos_z": 6.218252437235389,
+      "release_pos_x": 1.858505392362596,
+      "extension": 6.847834006725713,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 10,
+      "pitch_percent": 0.21739130434782608,
+      "rhh_percent": 0.23684210526315788,
+      "lhh_percent": 0.125,
+      "start_speed": 87.23,
+      "max_start_speed": 88.4,
+      "ivb": 2.9199999999999995,
+      "hb": -1.83,
+      "release_pos_z": 6.107892711579911,
+      "release_pos_x": 2.0112475063098474,
+      "extension": 6.90792854535527,
+      "active_spin_percent": null
+    }
+  ]
+}

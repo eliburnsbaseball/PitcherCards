@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "701604",
+  "pitcher_name": "Andrew Lindsey",
+  "mlbam_id": "701604",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 12,
+      "pitch_percent": 0.631578947368421,
+      "rhh_percent": 0.5454545454545454,
+      "lhh_percent": 0.75,
+      "start_speed": 94.8,
+      "max_start_speed": 95.8,
+      "ivb": 3.4249999999999994,
+      "hb": 17.150000000000002,
+      "release_pos_z": 4.934785805211191,
+      "release_pos_x": 1.8905073858805748,
+      "extension": 6.251821122107565,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 7,
+      "pitch_percent": 0.3684210526315789,
+      "rhh_percent": 0.45454545454545453,
+      "lhh_percent": 0.25,
+      "start_speed": 88.52857142857144,
+      "max_start_speed": 90.3,
+      "ivb": 6.3428571428571425,
+      "hb": -3.1285714285714286,
+      "release_pos_z": 5.386126266169008,
+      "release_pos_x": 1.7517803661013702,
+      "extension": 6.190076304002092,
+      "active_spin_percent": null
+    }
+  ]
+}

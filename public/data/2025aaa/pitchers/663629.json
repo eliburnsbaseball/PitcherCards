@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "663629",
+  "pitcher_name": "Ethan Small",
+  "mlbam_id": "663629",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 77,
+      "pitch_percent": 0.5833333333333334,
+      "rhh_percent": 0.5970149253731343,
+      "lhh_percent": 0.5692307692307692,
+      "start_speed": 91.59610389610388,
+      "max_start_speed": 93.9,
+      "ivb": 18.01038961038961,
+      "hb": 5.684415584415584,
+      "release_pos_z": 6.366433399899703,
+      "release_pos_x": 1.9847724727248905,
+      "extension": 6.327440654237981,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 29,
+      "pitch_percent": 0.2196969696969697,
+      "rhh_percent": 0.31343283582089554,
+      "lhh_percent": 0.12307692307692308,
+      "start_speed": 80.02413793103447,
+      "max_start_speed": 82.5,
+      "ivb": 7.082758620689655,
+      "hb": 13.268965517241382,
+      "release_pos_z": 6.157711951544029,
+      "release_pos_x": 2.612120653393385,
+      "extension": 6.502550204058909,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 26,
+      "pitch_percent": 0.19696969696969696,
+      "rhh_percent": 0.08955223880597014,
+      "lhh_percent": 0.3076923076923077,
+      "start_speed": 78.96923076923076,
+      "max_start_speed": 80,
+      "ivb": -5.088461538461539,
+      "hb": -1.4500000000000004,
+      "release_pos_z": 6.1322872617482185,
+      "release_pos_x": 2.513590237975154,
+      "extension": 6.337822868755004,
+      "active_spin_percent": null
+    }
+  ]
+}

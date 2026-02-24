@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "680102",
+  "pitcher_name": "Cameron Pferrer",
+  "mlbam_id": "680102",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 3,
+      "pitch_percent": 0.5,
+      "rhh_percent": 0.5,
+      "lhh_percent": null,
+      "start_speed": 95.16666666666667,
+      "max_start_speed": 95.2,
+      "ivb": 17.666666666666668,
+      "hb": 5.366666666666667,
+      "release_pos_z": 5.916049916492157,
+      "release_pos_x": 0.5533857919592542,
+      "extension": 5.879821360481665,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 3,
+      "pitch_percent": 0.5,
+      "rhh_percent": 0.5,
+      "lhh_percent": null,
+      "start_speed": 87.93333333333334,
+      "max_start_speed": 88.5,
+      "ivb": 3.9333333333333336,
+      "hb": -5.966666666666666,
+      "release_pos_z": 5.838153155741515,
+      "release_pos_x": 0.5782575996109812,
+      "extension": 5.930461726055815,
+      "active_spin_percent": null
+    }
+  ]
+}

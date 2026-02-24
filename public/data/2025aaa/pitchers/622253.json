@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "622253",
+  "pitcher_name": "Dillon Tate",
+  "mlbam_id": "622253",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 247,
+      "pitch_percent": 0.4075907590759076,
+      "rhh_percent": 0.39622641509433965,
+      "lhh_percent": 0.4201388888888889,
+      "start_speed": 92.59028340080974,
+      "max_start_speed": 96.5,
+      "ivb": 2.396761133603241,
+      "hb": 16.495141700404858,
+      "release_pos_z": 5.398699692659397,
+      "release_pos_x": 1.9311373102595584,
+      "extension": 6.31023162966083,
+      "active_spin_percent": null
+    },
+    {
+      "code": "ST",
+      "title": "sweeper",
+      "color": "#DDB43A",
+      "count": 239,
+      "pitch_percent": 0.3943894389438944,
+      "rhh_percent": 0.5377358490566038,
+      "lhh_percent": 0.2361111111111111,
+      "start_speed": 79.83891213389117,
+      "max_start_speed": 83.6,
+      "ivb": 5.091631799163181,
+      "hb": -6.968619246861922,
+      "release_pos_z": 5.1086844142590175,
+      "release_pos_x": 2.240791574772447,
+      "extension": 6.159197954079936,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 120,
+      "pitch_percent": 0.19801980198019803,
+      "rhh_percent": 0.0660377358490566,
+      "lhh_percent": 0.34375,
+      "start_speed": 83.32999999999998,
+      "max_start_speed": 86.5,
+      "ivb": -3.403333333333333,
+      "hb": 12.586666666666664,
+      "release_pos_z": 5.1907770712316195,
+      "release_pos_x": 1.9920211078979058,
+      "extension": 6.228054204983263,
+      "active_spin_percent": null
+    }
+  ]
+}

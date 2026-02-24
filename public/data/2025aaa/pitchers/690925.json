@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "690925",
+  "pitcher_name": "Clayton Beeter",
+  "mlbam_id": "690925",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 275,
+      "pitch_percent": 0.5612244897959183,
+      "rhh_percent": 0.5573770491803278,
+      "lhh_percent": 0.5650406504065041,
+      "start_speed": 95.99018181818191,
+      "max_start_speed": 98.9,
+      "ivb": 17.71054545454545,
+      "hb": 3.5847272727272745,
+      "release_pos_z": 6.134634498428671,
+      "release_pos_x": 1.1796935777263236,
+      "extension": 5.814649747145729,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 214,
+      "pitch_percent": 0.43673469387755104,
+      "rhh_percent": 0.4426229508196721,
+      "lhh_percent": 0.43089430894308944,
+      "start_speed": 86.72149532710286,
+      "max_start_speed": 89.9,
+      "ivb": -4.5275700934579435,
+      "hb": -2.9415887850467297,
+      "release_pos_z": 6.235939743746727,
+      "release_pos_x": 1.1376062041949495,
+      "extension": 5.692598578253208,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 1,
+      "pitch_percent": 0.0020408163265306124,
+      "rhh_percent": 0,
+      "lhh_percent": 0.0040650406504065045,
+      "start_speed": 91.5,
+      "max_start_speed": 91.5,
+      "ivb": 10.2,
+      "hb": 14.5,
+      "release_pos_z": 6.085871042822227,
+      "release_pos_x": 1.2059506600741197,
+      "extension": 5.7551060899587885,
+      "active_spin_percent": null
+    }
+  ]
+}

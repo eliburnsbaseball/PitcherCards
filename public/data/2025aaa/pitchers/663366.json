@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "663366",
+  "pitcher_name": "Beau Burrows",
+  "mlbam_id": "663366",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 230,
+      "pitch_percent": 0.647887323943662,
+      "rhh_percent": 0.6453488372093024,
+      "lhh_percent": 0.6502732240437158,
+      "start_speed": 94.47217391304343,
+      "max_start_speed": 97.3,
+      "ivb": 17.825217391304335,
+      "hb": 11.548695652173917,
+      "release_pos_z": 5.685662134892381,
+      "release_pos_x": 2.0985503417192004,
+      "extension": 5.670439009890194,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 125,
+      "pitch_percent": 0.352112676056338,
+      "rhh_percent": 0.3546511627906977,
+      "lhh_percent": 0.34972677595628415,
+      "start_speed": 85.0144,
+      "max_start_speed": 89.9,
+      "ivb": -0.8576000000000001,
+      "hb": -0.1175999999999999,
+      "release_pos_z": 5.57580267109751,
+      "release_pos_x": 2.3154686356598275,
+      "extension": 5.620090856938122,
+      "active_spin_percent": null
+    }
+  ]
+}

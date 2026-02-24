@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "676566",
+  "pitcher_name": "Shawn Ross",
+  "mlbam_id": "676566",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 9,
+      "pitch_percent": 0.6,
+      "rhh_percent": 0.42857142857142855,
+      "lhh_percent": 0.75,
+      "start_speed": 63.03333333333333,
+      "max_start_speed": 66.7,
+      "ivb": 13.644444444444444,
+      "hb": 11.022222222222222,
+      "release_pos_z": 6.181753521058063,
+      "release_pos_x": 2.261084800323781,
+      "extension": 5.067515474542954,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 4,
+      "pitch_percent": 0.26666666666666666,
+      "rhh_percent": 0.42857142857142855,
+      "lhh_percent": 0.125,
+      "start_speed": 62.550000000000004,
+      "max_start_speed": 64.4,
+      "ivb": 14.175,
+      "hb": 8.8,
+      "release_pos_z": 6.283030208263531,
+      "release_pos_x": 2.1728306399159227,
+      "extension": 5.010873070306401,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 2,
+      "pitch_percent": 0.13333333333333333,
+      "rhh_percent": 0.14285714285714285,
+      "lhh_percent": 0.125,
+      "start_speed": 57.25,
+      "max_start_speed": 61.7,
+      "ivb": 9.8,
+      "hb": 11.2,
+      "release_pos_z": 6.312755198494962,
+      "release_pos_x": 2.1561140639908185,
+      "extension": 5.088721836067757,
+      "active_spin_percent": null
+    }
+  ]
+}

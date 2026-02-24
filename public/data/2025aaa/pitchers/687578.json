@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "687578",
+  "pitcher_name": "David Leal",
+  "mlbam_id": "687578",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 344,
+      "pitch_percent": 0.5434439178515008,
+      "rhh_percent": 0.5428571428571428,
+      "lhh_percent": 0.5441696113074205,
+      "start_speed": 86.75290697674411,
+      "max_start_speed": 90.4,
+      "ivb": 3.334593023255813,
+      "hb": 16.615988372093035,
+      "release_pos_z": 4.1768492954084815,
+      "release_pos_x": 3.1888708807357626,
+      "extension": 6.316665335794008,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 196,
+      "pitch_percent": 0.30963665086887837,
+      "rhh_percent": 0.19428571428571428,
+      "lhh_percent": 0.45229681978798586,
+      "start_speed": 73.13367346938774,
+      "max_start_speed": 75.9,
+      "ivb": 1.5872448979591847,
+      "hb": -13.729081632653068,
+      "release_pos_z": 3.901727249253922,
+      "release_pos_x": 3.4381299536857846,
+      "extension": 6.043170654677264,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 93,
+      "pitch_percent": 0.14691943127962084,
+      "rhh_percent": 0.26285714285714284,
+      "lhh_percent": 0.0035335689045936395,
+      "start_speed": 78.80537634408606,
+      "max_start_speed": 82.1,
+      "ivb": -3.1473118279569885,
+      "hb": 16.88279569892474,
+      "release_pos_z": 4.071278571425257,
+      "release_pos_x": 3.1411700332623154,
+      "extension": 6.438680794820869,
+      "active_spin_percent": null
+    }
+  ]
+}

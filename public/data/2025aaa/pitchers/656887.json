@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "656887",
+  "pitcher_name": "Sean Reid-Foley",
+  "mlbam_id": "656887",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 438,
+      "pitch_percent": 0.6266094420600858,
+      "rhh_percent": 0.6218487394957983,
+      "lhh_percent": 0.631578947368421,
+      "start_speed": 94.11301369863014,
+      "max_start_speed": 97.4,
+      "ivb": 15.47305936073058,
+      "hb": 6.706621004566208,
+      "release_pos_z": 5.680724528567546,
+      "release_pos_x": 1.0733454251698857,
+      "extension": 6.802150087871143,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 142,
+      "pitch_percent": 0.20314735336194564,
+      "rhh_percent": 0.27450980392156865,
+      "lhh_percent": 0.1286549707602339,
+      "start_speed": 86.86830985915496,
+      "max_start_speed": 91.2,
+      "ivb": 4.22887323943662,
+      "hb": -4.922535211267607,
+      "release_pos_z": 5.5571963794444,
+      "release_pos_x": 1.337095161595965,
+      "extension": 6.724795157694771,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 119,
+      "pitch_percent": 0.17024320457796852,
+      "rhh_percent": 0.10364145658263306,
+      "lhh_percent": 0.23976608187134502,
+      "start_speed": 88.24789915966383,
+      "max_start_speed": 90.8,
+      "ivb": 2.406722689075631,
+      "hb": 8.252941176470591,
+      "release_pos_z": 5.538147033102244,
+      "release_pos_x": 1.389045512992918,
+      "extension": 6.784557550295655,
+      "active_spin_percent": null
+    }
+  ]
+}

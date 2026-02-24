@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "656222",
+  "pitcher_name": "Jalen Beeks",
+  "mlbam_id": "656222",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 12,
+      "pitch_percent": 0.9230769230769231,
+      "rhh_percent": 0.875,
+      "lhh_percent": 1,
+      "start_speed": 94.78333333333335,
+      "max_start_speed": 95.5,
+      "ivb": 14.041666666666664,
+      "hb": 7.066666666666666,
+      "release_pos_z": 5.830343647536424,
+      "release_pos_x": 1.1113855884308712,
+      "extension": 6.462973459643963,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 1,
+      "pitch_percent": 0.07692307692307693,
+      "rhh_percent": 0.125,
+      "lhh_percent": 0,
+      "start_speed": 89.3,
+      "max_start_speed": 89.3,
+      "ivb": 8,
+      "hb": 16.4,
+      "release_pos_z": 5.864831098733975,
+      "release_pos_x": 1.3812441173217025,
+      "extension": 6.231815287095343,
+      "active_spin_percent": null
+    }
+  ]
+}

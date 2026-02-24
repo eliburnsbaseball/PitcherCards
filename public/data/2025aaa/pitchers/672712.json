@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "672712",
+  "pitcher_name": "Luis Palacios",
+  "mlbam_id": "672712",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 124,
+      "pitch_percent": 0.44285714285714284,
+      "rhh_percent": 0.45251396648044695,
+      "lhh_percent": 0.42574257425742573,
+      "start_speed": 88.01774193548384,
+      "max_start_speed": 91.5,
+      "ivb": 8.956451612903228,
+      "hb": 14.77741935483871,
+      "release_pos_z": 6.019042455261563,
+      "release_pos_x": 2.10914808040716,
+      "extension": 6.075585174321145,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 104,
+      "pitch_percent": 0.37142857142857144,
+      "rhh_percent": 0.2737430167597765,
+      "lhh_percent": 0.5445544554455446,
+      "start_speed": 79.2028846153846,
+      "max_start_speed": 82.8,
+      "ivb": 0.6269230769230771,
+      "hb": -4.699038461538461,
+      "release_pos_z": 5.97611233308459,
+      "release_pos_x": 2.3296793131141404,
+      "extension": 5.8930072518853125,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 52,
+      "pitch_percent": 0.18571428571428572,
+      "rhh_percent": 0.2737430167597765,
+      "lhh_percent": 0.0297029702970297,
+      "start_speed": 80.70576923076925,
+      "max_start_speed": 82.9,
+      "ivb": 6.448076923076924,
+      "hb": 11.657692307692303,
+      "release_pos_z": 5.879608835733956,
+      "release_pos_x": 2.2876838045373575,
+      "extension": 5.86033597980837,
+      "active_spin_percent": null
+    }
+  ]
+}

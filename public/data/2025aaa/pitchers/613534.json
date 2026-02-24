@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "613534",
+  "pitcher_name": "Austin Adams",
+  "mlbam_id": "613534",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 388,
+      "pitch_percent": 0.7198515769944341,
+      "rhh_percent": 0.7214765100671141,
+      "lhh_percent": 0.7178423236514523,
+      "start_speed": 86.95721649484534,
+      "max_start_speed": 90.8,
+      "ivb": -0.2819587628865978,
+      "hb": -9.361082474226807,
+      "release_pos_z": 5.309270714479857,
+      "release_pos_x": 3.4872909319475776,
+      "extension": 5.587804128564032,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 93,
+      "pitch_percent": 0.1725417439703154,
+      "rhh_percent": 0.10738255033557047,
+      "lhh_percent": 0.25311203319502074,
+      "start_speed": 92.63870967741931,
+      "max_start_speed": 94.8,
+      "ivb": 10.37956989247312,
+      "hb": 9.252688172043007,
+      "release_pos_z": 5.318882218234936,
+      "release_pos_x": 3.4835564033285635,
+      "extension": 5.668910066800136,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SI",
+      "title": "sinker",
+      "color": "#FE9E00",
+      "count": 58,
+      "pitch_percent": 0.10760667903525047,
+      "rhh_percent": 0.17114093959731544,
+      "lhh_percent": 0.029045643153526972,
+      "start_speed": 92.52241379310347,
+      "max_start_speed": 95.4,
+      "ivb": 3.7327586206896557,
+      "hb": 12.327586206896553,
+      "release_pos_z": 5.447029697336055,
+      "release_pos_x": 3.4439462897166995,
+      "extension": 5.706443627688288,
+      "active_spin_percent": null
+    }
+  ]
+}

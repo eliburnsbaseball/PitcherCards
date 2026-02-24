@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "663432",
+  "pitcher_name": "Tanner Rainey",
+  "mlbam_id": "663432",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 487,
+      "pitch_percent": 0.6653005464480874,
+      "rhh_percent": 0.642369020501139,
+      "lhh_percent": 0.6996587030716723,
+      "start_speed": 95.35667351129368,
+      "max_start_speed": 99,
+      "ivb": 18.47494866529775,
+      "hb": 8.04312114989733,
+      "release_pos_z": 6.238246349901713,
+      "release_pos_x": 2.3640706753017,
+      "extension": 6.225360783044868,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 242,
+      "pitch_percent": 0.33060109289617484,
+      "rhh_percent": 0.357630979498861,
+      "lhh_percent": 0.2901023890784983,
+      "start_speed": 87.1595041322314,
+      "max_start_speed": 91.2,
+      "ivb": 2.0202479338842956,
+      "hb": -3.5090909090909075,
+      "release_pos_z": 6.183598517994823,
+      "release_pos_x": 2.4656791547717836,
+      "extension": 6.24212829457932,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 3,
+      "pitch_percent": 0.004098360655737705,
+      "rhh_percent": 0,
+      "lhh_percent": 0.010238907849829351,
+      "start_speed": 86.33333333333333,
+      "max_start_speed": 87.4,
+      "ivb": 11.933333333333332,
+      "hb": 12.233333333333334,
+      "release_pos_z": 6.014207445229284,
+      "release_pos_x": 2.4702737949055984,
+      "extension": 6.453904173743349,
+      "active_spin_percent": null
+    }
+  ]
+}

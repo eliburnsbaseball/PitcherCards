@@ -1,0 +1,25 @@
+{
+  "pitcher_id": "605346",
+  "pitcher_name": "Jack López",
+  "mlbam_id": "605346",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 9,
+      "pitch_percent": 0.42857142857142855,
+      "rhh_percent": 0.46153846153846156,
+      "lhh_percent": 0.375,
+      "start_speed": 77.25555555555556,
+      "max_start_speed": 80.7,
+      "ivb": 14.67777777777778,
+      "hb": 10.588888888888889,
+      "release_pos_z": 6.370549679048982,
+      "release_pos_x": 1.7522957149372713,
+      "extension": 4.412775696349712,
+      "active_spin_percent": null
+    }
+  ]
+}

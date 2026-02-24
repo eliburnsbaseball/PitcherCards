@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "687714",
+  "pitcher_name": "Jackson Cluff",
+  "mlbam_id": "687714",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 56,
+      "pitch_percent": 0.5544554455445545,
+      "rhh_percent": 0.5616438356164384,
+      "lhh_percent": 0.5357142857142857,
+      "start_speed": 63.58571428571429,
+      "max_start_speed": 84.1,
+      "ivb": 15.571428571428571,
+      "hb": 12.180357142857144,
+      "release_pos_z": 5.8817509034142725,
+      "release_pos_x": 1.5023372406328572,
+      "extension": 5.156313868955912,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 17,
+      "pitch_percent": 0.16831683168316833,
+      "rhh_percent": 0.2191780821917808,
+      "lhh_percent": 0.03571428571428571,
+      "start_speed": 54.92941176470589,
+      "max_start_speed": 59.4,
+      "ivb": 6.164705882352941,
+      "hb": 2.9352941176470586,
+      "release_pos_z": 5.783220047299627,
+      "release_pos_x": 1.2025552162192779,
+      "extension": 5.39780382446774,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 14,
+      "pitch_percent": 0.13861386138613863,
+      "rhh_percent": 0.136986301369863,
+      "lhh_percent": 0.14285714285714285,
+      "start_speed": 55.44285714285716,
+      "max_start_speed": 61.6,
+      "ivb": 17.035714285714285,
+      "hb": 7.564285714285715,
+      "release_pos_z": 6.059078349768668,
+      "release_pos_x": 1.2820190590312934,
+      "extension": 5.117523152682893,
+      "active_spin_percent": null
+    }
+  ]
+}

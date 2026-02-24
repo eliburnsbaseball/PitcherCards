@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "605441",
+  "pitcher_name": "Yacksel Ríos",
+  "mlbam_id": "605441",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 20,
+      "pitch_percent": 0.5882352941176471,
+      "rhh_percent": 0.5862068965517241,
+      "lhh_percent": 0.6,
+      "start_speed": 96.93,
+      "max_start_speed": 98.4,
+      "ivb": 10.465,
+      "hb": 13.74,
+      "release_pos_z": 5.546198245302078,
+      "release_pos_x": 1.6571653134464204,
+      "extension": 6.269810350533671,
+      "active_spin_percent": null
+    },
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 8,
+      "pitch_percent": 0.23529411764705882,
+      "rhh_percent": 0.27586206896551724,
+      "lhh_percent": 0,
+      "start_speed": 86.02499999999999,
+      "max_start_speed": 87.3,
+      "ivb": 1.7375000000000003,
+      "hb": -4.487500000000001,
+      "release_pos_z": 5.5035127035311575,
+      "release_pos_x": 1.6095790983092897,
+      "extension": 6.261927522825754,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FS",
+      "title": "splitter",
+      "color": "#3BACAC",
+      "count": 6,
+      "pitch_percent": 0.17647058823529413,
+      "rhh_percent": 0.13793103448275862,
+      "lhh_percent": 0.4,
+      "start_speed": 88.96666666666668,
+      "max_start_speed": 90.2,
+      "ivb": 10.333333333333334,
+      "hb": 9.616666666666665,
+      "release_pos_z": 5.561046770721924,
+      "release_pos_x": 1.5252729377951688,
+      "extension": 6.3424889698366895,
+      "active_spin_percent": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "811667",
+  "pitcher_name": "Clay Edmondson",
+  "mlbam_id": "811667",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "CU",
+      "title": "curveball",
+      "color": "#00D2ED",
+      "count": 12,
+      "pitch_percent": 0.5454545454545454,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.6666666666666666,
+      "start_speed": 77.70833333333333,
+      "max_start_speed": 83.6,
+      "ivb": 2.766666666666666,
+      "hb": -7.266666666666667,
+      "release_pos_z": 3.014844998908762,
+      "release_pos_x": 3.1835620792707213,
+      "extension": 5.2965868576589195,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 10,
+      "pitch_percent": 0.45454545454545453,
+      "rhh_percent": 0.5,
+      "lhh_percent": 0.3333333333333333,
+      "start_speed": 87.88000000000001,
+      "max_start_speed": 89.6,
+      "ivb": -4.76,
+      "hb": 13.220000000000002,
+      "release_pos_z": 3.283227597459927,
+      "release_pos_x": 3.2090706309445354,
+      "extension": 5.272877112731516,
+      "active_spin_percent": null
+    }
+  ]
+}

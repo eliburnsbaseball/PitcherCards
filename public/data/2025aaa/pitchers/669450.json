@@ -1,0 +1,42 @@
+{
+  "pitcher_id": "669450",
+  "pitcher_name": "Cooper Hummel",
+  "mlbam_id": "669450",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "SL",
+      "title": "slider",
+      "color": "#EEE716",
+      "count": 5,
+      "pitch_percent": 0.7142857142857143,
+      "rhh_percent": 0,
+      "lhh_percent": 0.8333333333333334,
+      "start_speed": 76.54,
+      "max_start_speed": 77.5,
+      "ivb": 17.639999999999997,
+      "hb": 4.9,
+      "release_pos_z": 5.623695853392011,
+      "release_pos_x": 2.0688405895031954,
+      "extension": 4.846820603922688,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 2,
+      "pitch_percent": 0.2857142857142857,
+      "rhh_percent": 1,
+      "lhh_percent": 0.16666666666666666,
+      "start_speed": 77.4,
+      "max_start_speed": 77.7,
+      "ivb": 13.5,
+      "hb": 15.05,
+      "release_pos_z": 5.62124647312692,
+      "release_pos_x": 2.096689793774679,
+      "extension": 4.7455758375425585,
+      "active_spin_percent": null
+    }
+  ]
+}

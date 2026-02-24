@@ -1,0 +1,59 @@
+{
+  "pitcher_id": "808063",
+  "pitcher_name": "Maikel Miralles",
+  "mlbam_id": "808063",
+  "arm_angle_source": "dataset",
+  "pitches": [
+    {
+      "code": "FF",
+      "title": "four-seam fastball",
+      "color": "#D22D49",
+      "count": 14,
+      "pitch_percent": 0.7,
+      "rhh_percent": 0.7692307692307693,
+      "lhh_percent": 0.5714285714285714,
+      "start_speed": 93.42857142857144,
+      "max_start_speed": 94.3,
+      "ivb": 12.914285714285713,
+      "hb": 3.842857142857143,
+      "release_pos_z": 5.808439390710225,
+      "release_pos_x": 0.9229446798120949,
+      "extension": 6.20372680716369,
+      "active_spin_percent": null
+    },
+    {
+      "code": "FC",
+      "title": "cutter",
+      "color": "#933F2C",
+      "count": 4,
+      "pitch_percent": 0.2,
+      "rhh_percent": 0.23076923076923078,
+      "lhh_percent": 0.14285714285714285,
+      "start_speed": 88.5,
+      "max_start_speed": 91.7,
+      "ivb": 5.5,
+      "hb": 1.075,
+      "release_pos_z": 5.692191505910808,
+      "release_pos_x": 1.0703170452837831,
+      "extension": 6.099657740551545,
+      "active_spin_percent": null
+    },
+    {
+      "code": "CH",
+      "title": "changeup",
+      "color": "#1DBF3A",
+      "count": 2,
+      "pitch_percent": 0.1,
+      "rhh_percent": 0,
+      "lhh_percent": 0.2857142857142857,
+      "start_speed": 88.1,
+      "max_start_speed": 88.3,
+      "ivb": 5.199999999999999,
+      "hb": 9.5,
+      "release_pos_z": 5.54798390621678,
+      "release_pos_x": 1.2727152651003801,
+      "extension": 6.139833700914961,
+      "active_spin_percent": null
+    }
+  ]
+}

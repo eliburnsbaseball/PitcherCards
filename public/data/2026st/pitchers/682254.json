@@ -45,15 +45,15 @@
       "release_pos_z": 5.773120293077645,
       "release_pos_x": 1.3965279703265383,
       "extension": 6.784958893281278,
-      "pitches": 27,
+      "pitches": 18,
       "whiffs": 5,
-      "swings": 11,
-      "spin_rate": 2541,
-      "swing_miss_percent": 45.5,
+      "swings": 8,
+      "spin_rate": 2531,
+      "swing_miss_percent": 62.5,
       "arm_angle": null,
       "barrels_per_pa_percent": 0,
       "hardhit_percent": 50,
-      "whiffs_per_pitch": 0.18518518518518517,
+      "whiffs_per_pitch": 0.2777777777777778,
       "active_spin_percent": null
     }
   ]

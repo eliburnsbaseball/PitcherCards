@@ -19,15 +19,15 @@
       "release_pos_z": 5.266596501144579,
       "release_pos_x": 3.7418994048751952,
       "extension": 6.585083983147443,
-      "pitches": 48,
+      "pitches": 46,
       "whiffs": 7,
       "swings": 18,
-      "spin_rate": 1996,
+      "spin_rate": 1989,
       "swing_miss_percent": 38.9,
       "arm_angle": null,
       "barrels_per_pa_percent": 0,
       "hardhit_percent": 40,
-      "whiffs_per_pitch": 0.14583333333333334,
+      "whiffs_per_pitch": 0.15217391304347827,
       "active_spin_percent": null
     },
     {
@@ -45,7 +45,7 @@
       "release_pos_z": 4.978197319084249,
       "release_pos_x": 4.044456509962949,
       "extension": 6.737793115543192,
-      "pitches": 21,
+      "pitches": 22,
       "whiffs": 6,
       "swings": 9,
       "spin_rate": 2232,
@@ -53,7 +53,7 @@
       "arm_angle": null,
       "barrels_per_pa_percent": 0,
       "hardhit_percent": 0,
-      "whiffs_per_pitch": 0.2857142857142857,
+      "whiffs_per_pitch": 0.2727272727272727,
       "active_spin_percent": null
     },
     {
@@ -71,7 +71,7 @@
       "release_pos_z": 5.1443058848489756,
       "release_pos_x": 3.9426632490313835,
       "extension": 6.78405260042602,
-      "pitches": 28,
+      "pitches": 27,
       "whiffs": 1,
       "swings": 6,
       "spin_rate": 2182,
@@ -79,7 +79,7 @@
       "arm_angle": null,
       "barrels_per_pa_percent": 0,
       "hardhit_percent": 25,
-      "whiffs_per_pitch": 0.03571428571428571,
+      "whiffs_per_pitch": 0.037037037037037035,
       "active_spin_percent": null
     },
     {
@@ -97,15 +97,15 @@
       "release_pos_z": 5.249794231246835,
       "release_pos_x": 3.6606203595770066,
       "extension": 6.68912191002776,
-      "pitches": 6,
+      "pitches": 8,
       "whiffs": 2,
       "swings": 2,
-      "spin_rate": 2109,
+      "spin_rate": 2121,
       "swing_miss_percent": 100,
       "arm_angle": null,
       "barrels_per_pa_percent": null,
       "hardhit_percent": null,
-      "whiffs_per_pitch": 0.3333333333333333,
+      "whiffs_per_pitch": 0.25,
       "active_spin_percent": null
     },
     {

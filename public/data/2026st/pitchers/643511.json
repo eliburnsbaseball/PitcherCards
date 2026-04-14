@@ -19,7 +19,7 @@
       "release_pos_z": 1.6353711602307974,
       "release_pos_x": 3.9760564898583115,
       "extension": 6.236263259557503,
-      "pitches": 71,
+      "pitches": 72,
       "whiffs": 8,
       "swings": 33,
       "spin_rate": 2010,
@@ -27,7 +27,7 @@
       "arm_angle": null,
       "barrels_per_pa_percent": 4.545454545454546,
       "hardhit_percent": 35.294117647058826,
-      "whiffs_per_pitch": 0.11267605633802817,
+      "whiffs_per_pitch": 0.1111111111111111,
       "active_spin_percent": null
     },
     {

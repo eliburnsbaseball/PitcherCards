@@ -19,6 +19,15 @@
       "release_pos_z": 5.134896292133689,
       "release_pos_x": 2.3566729215933386,
       "extension": 6.536176893953612,
+      "pitches": 6,
+      "whiffs": 0,
+      "swings": 3,
+      "spin_rate": 2123,
+      "swing_miss_percent": 0,
+      "arm_angle": null,
+      "barrels_per_pa_percent": 0,
+      "hardhit_percent": 100,
+      "whiffs_per_pitch": 0,
       "active_spin_percent": null
     },
     {

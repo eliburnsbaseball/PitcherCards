@@ -19,15 +19,6 @@
       "release_pos_z": 6.7028010936551095,
       "release_pos_x": 1.090084222008276,
       "extension": 6.299686729320222,
-      "pitches": 159,
-      "whiffs": 22,
-      "swings": 86,
-      "spin_rate": 2455,
-      "swing_miss_percent": 25.6,
-      "arm_angle": null,
-      "barrels_per_pa_percent": 13.88888888888889,
-      "hardhit_percent": 34.61538461538461,
-      "whiffs_per_pitch": 0.13836477987421383,
       "active_spin_percent": null
     },
     {
@@ -71,15 +62,6 @@
       "release_pos_z": 6.652421554043132,
       "release_pos_x": 1.2787878888957396,
       "extension": 6.350521775701752,
-      "pitches": 5,
-      "whiffs": 1,
-      "swings": 3,
-      "spin_rate": 2329,
-      "swing_miss_percent": 33.3,
-      "arm_angle": null,
-      "barrels_per_pa_percent": 0,
-      "hardhit_percent": 0,
-      "whiffs_per_pitch": 0.2,
       "active_spin_percent": null
     },
     {
